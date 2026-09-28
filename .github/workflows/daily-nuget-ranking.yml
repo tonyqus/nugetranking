@@ -113,15 +113,10 @@ jobs:
             exit 0
           fi
 
-          base_sha="$(git rev-parse HEAD)"
-          current_main_sha="$(git ls-remote origin refs/heads/main | cut -f1)"
-          if [ "${current_main_sha}" != "${base_sha}" ]; then
-            echo "main moved from ${base_sha} to ${current_main_sha}; skipping push to avoid overwriting newer data."
-            exit 0
-          fi
+          base_sha="$(git ls-remote origin refs/heads/main | cut -f1)"
 
           git commit -m "Update NuGet ranking data and NPOI badge"
-          if ! git push origin HEAD:main; then
+          if ! git push --force-with-lease=refs/heads/main:"${base_sha}" origin HEAD:main; then
             echo "Push failed because main moved during this run; skipping without failure."
             exit 0
           fi

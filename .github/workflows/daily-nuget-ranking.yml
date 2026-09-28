@@ -8,7 +8,7 @@ on:
 
 concurrency:
   group: daily-nuget-ranking
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -79,11 +79,17 @@ jobs:
           badge_line = "![NPOI Ranking](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftonyqus%2Fnugetranking%2Fmain%2F.github%2Fbadges%2Fnpoi-ranking.json)"
           readme_path = Path("README.md")
           content = readme_path.read_text(encoding="utf-8")
+          lines = content.splitlines()
+          badge_pattern = re.compile(r"^!\[[^\]]*(?:NPOI|Nuget\s*Ranking)[^\]]*\]\([^)]+\)\s*$", re.IGNORECASE)
 
-          pattern = re.compile(r"!\[[^\]]*(?:NPOI|Nuget\s*Ranking)[^\]]*\]\([^)]+\)", re.IGNORECASE)
-          updated, count = pattern.subn(badge_line, content, count=1)
-          if count == 0:
-              updated = f"{badge_line}\n\n{content.lstrip()}"
+          if lines and badge_pattern.match(lines[0]):
+              lines[0] = badge_line
+          else:
+              lines = [badge_line, ""] + lines
+
+          updated = "\n".join(lines)
+          if content.endswith("\n"):
+              updated += "\n"
 
           if updated != content:
               readme_path.write_text(updated, encoding="utf-8")

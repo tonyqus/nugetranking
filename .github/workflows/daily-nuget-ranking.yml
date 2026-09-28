@@ -113,9 +113,10 @@ jobs:
             exit 0
           fi
 
+          base_sha="$(git rev-parse HEAD)"
           current_main_sha="$(git ls-remote origin refs/heads/main | cut -f1)"
-          if [ "${current_main_sha}" != "${GITHUB_SHA}" ]; then
-            echo "main moved from ${GITHUB_SHA} to ${current_main_sha}; skipping push to avoid overwriting newer data."
+          if [ "${current_main_sha}" != "${base_sha}" ]; then
+            echo "main moved from ${base_sha} to ${current_main_sha}; skipping push to avoid overwriting newer data."
             exit 0
           fi
 

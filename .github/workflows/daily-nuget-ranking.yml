@@ -117,6 +117,12 @@ jobs:
 
           git commit -m "Update NuGet ranking data and NPOI badge"
           if ! git push --force-with-lease=refs/heads/main:"${base_sha}" origin HEAD:main; then
-            echo "Push failed because main moved during this run; skipping without failure."
-            exit 0
+            latest_sha="$(git ls-remote origin refs/heads/main | cut -f1)"
+            if [ "${latest_sha}" != "${base_sha}" ]; then
+              echo "main moved from ${base_sha} to ${latest_sha}; skipping stale update."
+              exit 0
+            fi
+
+            echo "Push failed for an unexpected reason."
+            exit 1
           fi

@@ -5,6 +5,7 @@ import json
 
 class NuGetCrawler:
     BASE_URL = "https://www.nuget.org"
+    ignore_MSFT_packages = True
 
     def __init__(self):
         self.session = requests.Session()
@@ -23,7 +24,7 @@ class NuGetCrawler:
             version = package.select_one(".package-title a")["data-package-version"].strip()
             description = package.select_one(".package-details").text.strip()
             downloads = package.select_one(".package-list .ms-Icon--Download").find_parent().text.strip().replace(" total downloads", "")
-            if(ignore_MSFT_packages == True):
+            if(self.ignore_MSFT_packages == True):
                 if "Microsoft." in name or "System." in name or "Azure." in name or "Xamarin." in name or "NuGet." in name:
                     continue
             packages.append({"name": name, "version": version, "description": description,"downloads":downloads, "ranking": 0})

@@ -102,5 +102,7 @@ jobs:
             exit 0
           fi
 
+          current_branch="$(git rev-parse --abbrev-ref HEAD)"
           git commit -m "Update NuGet ranking data and NPOI badge"
-          git push
+          git pull --rebase origin "${current_branch}"
+          git push origin "HEAD:${current_branch}"

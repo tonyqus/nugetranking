@@ -113,6 +113,14 @@ jobs:
             exit 0
           fi
 
+          current_main_sha="$(git ls-remote origin refs/heads/main | cut -f1)"
+          if [ "${current_main_sha}" != "${GITHUB_SHA}" ]; then
+            echo "main moved from ${GITHUB_SHA} to ${current_main_sha}; skipping push to avoid overwriting newer data."
+            exit 0
+          fi
+
           git commit -m "Update NuGet ranking data and NPOI badge"
-          git pull --rebase origin main
-          git push origin HEAD:main
+          if ! git push origin HEAD:main; then
+            echo "Push failed because main moved during this run; skipping without failure."
+            exit 0
+          fi

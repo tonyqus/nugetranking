@@ -18,6 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: ${{ github.ref_name }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -102,7 +103,6 @@ jobs:
             exit 0
           fi
 
-          current_branch="$(git rev-parse --abbrev-ref HEAD)"
           git commit -m "Update NuGet ranking data and NPOI badge"
-          git pull --rebase origin "${current_branch}"
-          git push origin "HEAD:${current_branch}"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

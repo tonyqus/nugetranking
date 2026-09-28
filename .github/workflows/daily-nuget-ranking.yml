@@ -15,6 +15,7 @@ permissions:
 
 jobs:
   update-ranking:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
 
     steps:
@@ -102,7 +103,6 @@ jobs:
           path: data.json
 
       - name: Commit and push updates if needed
-        if: github.ref == 'refs/heads/main'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -116,7 +116,7 @@ jobs:
           base_sha="$(git ls-remote origin refs/heads/main | cut -f1)"
 
           git commit -m "Update NuGet ranking data and NPOI badge"
-          if ! git push --force-with-lease=refs/heads/main:"${base_sha}" origin HEAD:main; then
+          if ! git push origin HEAD:main; then
             latest_sha="$(git ls-remote origin refs/heads/main | cut -f1)"
             if [ "${latest_sha}" != "${base_sha}" ]; then
               echo "main moved from ${base_sha} to ${latest_sha}; skipping stale update."

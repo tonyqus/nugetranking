@@ -15,7 +15,7 @@
     },
     {
         "name": "AWSSDK.Core",
-        "version": "4.0.102.7",
+        "version": "4.0.102.8",
         "description": "The Amazon Web Services SDK for .NET - Core Runtime",
         "downloads": "2,067,880,799",
         "ranking": 3
@@ -267,7 +267,7 @@
     },
     {
         "name": "AWSSDK.S3",
-        "version": "4.0.103.4",
+        "version": "4.0.104",
         "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
         "downloads": "670,236,329",
         "ranking": 39
@@ -442,7 +442,7 @@
     },
     {
         "name": "AWSSDK.Polly",
-        "version": "4.0.100.15",
+        "version": "4.0.100.16",
         "description": "Amazon Polly is a service that turns text into lifelike speech, making it easy to develop applications that use high-quality speech to increase engagement and accessibility.",
         "downloads": "453,914,672",
         "ranking": 64
@@ -505,7 +505,7 @@
     },
     {
         "name": "AWSSDK.SecurityToken",
-        "version": "4.0.101",
+        "version": "4.0.101.1",
         "description": "The AWS Security Token Service (AWS STS) enables you to provide trusted users with temporary credentials that provide controlled access to your AWS resources.",
         "downloads": "395,759,888",
         "ranking": 73
@@ -561,7 +561,7 @@
     },
     {
         "name": "AWSSDK.SQS",
-        "version": "4.0.100.14",
+        "version": "4.0.100.15",
         "description": "Amazon Simple Queue Service (SQS) is a fast, reliable, scalable, fully managed message queuing service. SQS makes it simple and cost-effective to decouple the components of a cloud application.",
         "downloads": "349,219,579",
         "ranking": 81
@@ -645,7 +645,7 @@
     },
     {
         "name": "AngleSharp",
-        "version": "1.8.2",
+        "version": "1.8.3",
         "description": "AngleSharp is the ultimate angle brackets parser library. It parses HTML5, CSS3, and XML to construct a DOM based on the official W3C specification.",
         "downloads": "328,117,969",
         "ranking": 93
@@ -736,7 +736,7 @@
     },
     {
         "name": "AWSSDK.Extensions.NETCore.Setup",
-        "version": "4.0.102",
+        "version": "4.0.102.1",
         "description": "Extensions for the AWS SDK for .NET to integrate with .NET Core configuration and dependency injection frameworks.",
         "downloads": "291,942,966",
         "ranking": 106
@@ -834,7 +834,7 @@
     },
     {
         "name": "AWSSDK.DynamoDBv2",
-        "version": "4.0.106",
+        "version": "4.0.107",
         "description": "Amazon DynamoDB is a fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency at any scale.",
         "downloads": "264,443,906",
         "ranking": 120
@@ -862,7 +862,7 @@
     },
     {
         "name": "AWSSDK.SecretsManager",
-        "version": "4.0.100.14",
+        "version": "4.0.100.15",
         "description": "AWS Secrets Manager enables you to easily create and manage the secrets that you use in your customer-facing apps. Instead of embedding credentials into your source code, you can dynamically query Secrets...\r\nMore information",
         "downloads": "260,694,706",
         "ranking": 124
@@ -932,7 +932,7 @@
     },
     {
         "name": "AWSSDK.SimpleNotificationService",
-        "version": "4.0.100.15",
+        "version": "4.0.100.16",
         "description": "Amazon Simple Notification Service (Amazon SNS) is a fast, flexible, fully managed push messaging service. Amazon SNS makes it simple and cost-effective to push notifications to Apple, Google, Fire OS, and...\r\nMore information",
         "downloads": "232,894,234",
         "ranking": 134
@@ -953,7 +953,7 @@
     },
     {
         "name": "AWSSDK.SimpleSystemsManagement",
-        "version": "4.0.104",
+        "version": "4.0.104.1",
         "description": "Amazon EC2 Simple Systems Manager (SSM) enables you to manage a number of administrative and configuration tasks on your instances.",
         "downloads": "228,026,022",
         "ranking": 137
@@ -1121,7 +1121,7 @@
     },
     {
         "name": "Selenium.WebDriver",
-        "version": "4.49.0",
+        "version": "4.50.0",
         "description": "Selenium is a set of different software tools each with a different approach to supporting browser automation. These tools are highly flexible, allowing many options for locating and manipulating elements...\r\nMore information",
         "downloads": "187,431,425",
         "ranking": 161
@@ -1772,7 +1772,7 @@
     },
     {
         "name": "AWSSDK.CloudWatchLogs",
-        "version": "4.0.104.3",
+        "version": "4.0.105",
         "description": "Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS. You can use Amazon CloudWatch to collect and track metrics, collect and monitor log files, and set alarms.",
         "downloads": "138,282,815",
         "ranking": 254
@@ -1870,7 +1870,7 @@
     },
     {
         "name": "Selenium.Support",
-        "version": "4.49.0",
+        "version": "4.50.0",
         "description": "Selenium is a set of different software tools each with a different approach to supporting browser automation. These tools are highly flexible, allowing many options for locating and manipulating elements...\r\nMore information",
         "downloads": "128,793,342",
         "ranking": 268
@@ -1940,7 +1940,7 @@
     },
     {
         "name": "AWSSDK.Lambda",
-        "version": "4.0.108.1",
+        "version": "4.0.108.2",
         "description": "AWS Lambda is a compute service that runs your code in response to events and automatically manages the compute resources for you, making it easy to build applications that respond quickly to new information.",
         "downloads": "123,878,811",
         "ranking": 278
@@ -2178,8 +2178,8 @@
     },
     {
         "name": "Stripe.net",
-        "version": "52.4.2",
-        "description": "Stripe.net is a sync/async client and portable class library for the Stripe API, supporting .NET Standard 2.0+, .NET Core 5+, and .NET Framework 4.6.2+. (Official Library)",
+        "version": "53.0.0",
+        "description": "Stripe.net is a sync/async client and portable class library for the Stripe API, supporting .NET Standard 2.0+, .NET Core 8+, and .NET Framework 4.6.2+. (Official Library)",
         "downloads": "102,935,772",
         "ranking": 312
     },
@@ -2423,7 +2423,7 @@
     },
     {
         "name": "AWSSDK.KeyManagementService",
-        "version": "4.0.100.14",
+        "version": "4.0.100.15",
         "description": "AWS Key Management Service (KMS) is a managed service that makes it easy for you to create and control the encryption keys used to encrypt your data, and uses Hardware Security Modules (HSMs) to protect the...\r\nMore information",
         "downloads": "88,741,430",
         "ranking": 347
@@ -2549,7 +2549,7 @@
     },
     {
         "name": "Selenium.WebDriver.ChromeDriver",
-        "version": "154.0.8037.5700",
+        "version": "154.0.8037.9200",
         "description": "Install Chrome Driver (Win32, macOS, macOS arm64, and Linux64) for Selenium WebDriver into your Unit Test Project.\n      \"chromedriver(.exe)\" is copied to the bin folder from the package folder when the build...\r\nMore information",
         "downloads": "83,501,674",
         "ranking": 365
@@ -2822,7 +2822,7 @@
     },
     {
         "name": "LaunchDarkly.InternalSdk",
-        "version": "3.11.0",
+        "version": "3.11.1",
         "description": "LaunchDarkly internal common code for .NET clients",
         "downloads": "76,491,231",
         "ranking": 404
@@ -2843,14 +2843,14 @@
     },
     {
         "name": "AWSSDK.SSO",
-        "version": "4.0.100.16",
+        "version": "4.0.100.17",
         "description": "This is an initial release of AWS Single Sign-On (SSO) end-user access. This release adds support for accessing AWS accounts assigned in AWS SSO using short term credentials.",
         "downloads": "75,920,627",
         "ranking": 407
     },
     {
         "name": "AWSSDK.SSOOIDC",
-        "version": "4.0.100.15",
+        "version": "4.0.100.16",
         "description": "This is an initial release of AWS Single Sign-On OAuth device code authorization service.",
         "downloads": "75,918,129",
         "ranking": 408
@@ -2871,7 +2871,7 @@
     },
     {
         "name": "AWSSDK.SimpleEmail",
-        "version": "4.0.100.14",
+        "version": "4.0.100.15",
         "description": "Amazon SES is an outbound-only email-sending service that provides an easy, cost-effective way for you to send email.",
         "downloads": "75,404,037",
         "ranking": 411
@@ -3067,7 +3067,7 @@
     },
     {
         "name": "AWSSDK.CloudWatch",
-        "version": "4.0.105",
+        "version": "4.0.105.1",
         "description": "Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS. You can use Amazon CloudWatch to collect and track metrics, collect and monitor log files, and set alarms.",
         "downloads": "70,760,470",
         "ranking": 439
@@ -3291,7 +3291,7 @@
     },
     {
         "name": "AWSSDK.CognitoIdentityProvider",
-        "version": "4.0.105.3",
+        "version": "4.0.105.4",
         "description": "You can create a user pool in Amazon Cognito Identity to manage directories and users. You can authenticate a user to obtain tokens related to user identity and access policies. This API reference provides...\r\nMore information",
         "downloads": "62,350,615",
         "ranking": 471
@@ -3333,7 +3333,7 @@
     },
     {
         "name": "AWSSDK.Kinesis",
-        "version": "4.0.104",
+        "version": "4.0.104.1",
         "description": "Amazon Kinesis is a fully managed, cloud-based service for real-time processing of large, distributed data streams.",
         "downloads": "61,298,477",
         "ranking": 477

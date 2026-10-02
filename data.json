@@ -267,7 +267,7 @@
     },
     {
         "name": "AWSSDK.S3",
-        "version": "4.0.104",
+        "version": "4.0.104.1",
         "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
         "downloads": "670,236,329",
         "ranking": 39
@@ -463,7 +463,7 @@
     },
     {
         "name": "log4net",
-        "version": "3.4.0",
+        "version": "3.5.0",
         "description": "log4net is a tool to help the programmer output log statements to a variety of output targets.\nIn case of problems with an application, it is helpful to enable logging so that the problem\ncan be located. With...\r\nMore information",
         "downloads": "432,208,792",
         "ranking": 67
@@ -1365,199 +1365,199 @@
         "ranking": 195
     },
     {
-        "name": "Humanizer.Core.pl",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Polish (pl)",
-        "downloads": "159,766,759",
-        "ranking": 196
-    },
-    {
-        "name": "Humanizer.Core.ja",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Japanese (ja)",
-        "downloads": "159,709,680",
-        "ranking": 197
-    },
-    {
-        "name": "Humanizer.Core.sv",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Swedish (sv)",
-        "downloads": "159,641,402",
-        "ranking": 198
-    },
-    {
-        "name": "Humanizer.Core.cs",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Czech (cs)",
-        "downloads": "159,591,964",
-        "ranking": 199
-    },
-    {
-        "name": "Humanizer.Core.da",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Danish (da)",
-        "downloads": "159,586,699",
-        "ranking": 200
-    },
-    {
-        "name": "Humanizer.Core.id",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Indonesian (id)",
-        "downloads": "159,579,775",
-        "ranking": 201
-    },
-    {
-        "name": "Humanizer.Core.tr",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Turkish (tr)",
-        "downloads": "159,552,840",
-        "ranking": 202
-    },
-    {
-        "name": "Humanizer.Core.he",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Hebrew (he)",
-        "downloads": "159,550,846",
-        "ranking": 203
-    },
-    {
-        "name": "Humanizer.Core.hr",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Croatian (hr)",
-        "downloads": "159,547,762",
-        "ranking": 204
-    },
-    {
-        "name": "Humanizer.Core.el",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Greek (el)",
-        "downloads": "159,531,102",
-        "ranking": 205
-    },
-    {
-        "name": "Humanizer.Core.ro",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Romanian (ro)",
-        "downloads": "159,522,946",
-        "ranking": 206
-    },
-    {
-        "name": "Humanizer.Core.fa",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Persian (fa)",
-        "downloads": "159,516,066",
-        "ranking": 207
-    },
-    {
-        "name": "Humanizer.Core.hu",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Hungarian (hu)",
-        "downloads": "159,507,313",
-        "ranking": 208
-    },
-    {
-        "name": "Humanizer.Core.ar",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Arabic (ar)",
-        "downloads": "159,489,138",
-        "ranking": 209
-    },
-    {
-        "name": "Humanizer.Core.nb",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Norwegian Bokmål (nb)",
-        "downloads": "159,478,780",
-        "ranking": 210
-    },
-    {
-        "name": "Humanizer.Core.sk",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Slovak (sk)",
-        "downloads": "159,428,258",
-        "ranking": 211
-    },
-    {
-        "name": "Humanizer.Core.uz-Cyrl-UZ",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Uzbek (Cyrillic, Uzbekistan) (uz-Cyrl-UZ)",
-        "downloads": "159,424,740",
-        "ranking": 212
-    },
-    {
-        "name": "Humanizer.Core.sl",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Slovenian (sl)",
-        "downloads": "159,397,678",
-        "ranking": 213
-    },
-    {
-        "name": "Humanizer.Core.bg",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Bulgarian (bg)",
-        "downloads": "159,396,791",
-        "ranking": 214
-    },
-    {
-        "name": "Humanizer.Core.sr-Latn",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Serbian (sr-Latn)",
-        "downloads": "159,382,904",
-        "ranking": 215
-    },
-    {
-        "name": "Humanizer.Core.vi",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Vietnamese (vi)",
-        "downloads": "159,382,356",
-        "ranking": 216
-    },
-    {
-        "name": "Humanizer.Core.uz-Latn-UZ",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Uzbek (Latin, Uzbekistan) (uz-Latn-UZ)",
-        "downloads": "159,374,638",
-        "ranking": 217
-    },
-    {
-        "name": "Humanizer.Core.sr",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Serbian (sr)",
-        "downloads": "159,372,061",
-        "ranking": 218
-    },
-    {
-        "name": "Humanizer.Core.af",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Afrikaans (af)",
-        "downloads": "159,266,388",
-        "ranking": 219
-    },
-    {
-        "name": "protobuf-net.Core",
-        "version": "3.4.30",
-        "description": "The protobuf-net serialization engine and build-time tooling; most projects should reference protobuf-net, which adds the runtime type model",
-        "downloads": "158,936,500",
-        "ranking": 220
-    },
-    {
         "name": "Asp.Versioning.Http",
         "version": "10.2.3",
         "description": "A service API versioning library for Microsoft ASP.NET Core.",
         "downloads": "158,922,960",
-        "ranking": 221
-    },
-    {
-        "name": "SshNet.Security.Cryptography",
-        "version": "1.3.0",
-        "description": "Cryptographic functions for .NET",
-        "downloads": "158,893,221",
-        "ranking": 222
+        "ranking": 196
     },
     {
         "name": "Asp.Versioning.Abstractions",
         "version": "10.2.1",
         "description": "The abstractions library for API versioning.",
         "downloads": "158,853,526",
+        "ranking": 197
+    },
+    {
+        "name": "Humanizer.Core.pl",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Polish (pl)",
+        "downloads": "159,766,759",
+        "ranking": 198
+    },
+    {
+        "name": "Humanizer.Core.ja",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Japanese (ja)",
+        "downloads": "159,709,680",
+        "ranking": 199
+    },
+    {
+        "name": "Humanizer.Core.sv",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Swedish (sv)",
+        "downloads": "159,641,402",
+        "ranking": 200
+    },
+    {
+        "name": "Humanizer.Core.cs",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Czech (cs)",
+        "downloads": "159,591,964",
+        "ranking": 201
+    },
+    {
+        "name": "Humanizer.Core.da",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Danish (da)",
+        "downloads": "159,586,699",
+        "ranking": 202
+    },
+    {
+        "name": "Humanizer.Core.id",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Indonesian (id)",
+        "downloads": "159,579,775",
+        "ranking": 203
+    },
+    {
+        "name": "Humanizer.Core.tr",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Turkish (tr)",
+        "downloads": "159,552,840",
+        "ranking": 204
+    },
+    {
+        "name": "Humanizer.Core.he",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Hebrew (he)",
+        "downloads": "159,550,846",
+        "ranking": 205
+    },
+    {
+        "name": "Humanizer.Core.hr",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Croatian (hr)",
+        "downloads": "159,547,762",
+        "ranking": 206
+    },
+    {
+        "name": "Humanizer.Core.el",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Greek (el)",
+        "downloads": "159,531,102",
+        "ranking": 207
+    },
+    {
+        "name": "Humanizer.Core.ro",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Romanian (ro)",
+        "downloads": "159,522,946",
+        "ranking": 208
+    },
+    {
+        "name": "Humanizer.Core.fa",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Persian (fa)",
+        "downloads": "159,516,066",
+        "ranking": 209
+    },
+    {
+        "name": "Humanizer.Core.hu",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Hungarian (hu)",
+        "downloads": "159,507,313",
+        "ranking": 210
+    },
+    {
+        "name": "Humanizer.Core.ar",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Arabic (ar)",
+        "downloads": "159,489,138",
+        "ranking": 211
+    },
+    {
+        "name": "Humanizer.Core.nb",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Norwegian Bokmål (nb)",
+        "downloads": "159,478,780",
+        "ranking": 212
+    },
+    {
+        "name": "Humanizer.Core.sk",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Slovak (sk)",
+        "downloads": "159,428,258",
+        "ranking": 213
+    },
+    {
+        "name": "Humanizer.Core.uz-Cyrl-UZ",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Uzbek (Cyrillic, Uzbekistan) (uz-Cyrl-UZ)",
+        "downloads": "159,424,740",
+        "ranking": 214
+    },
+    {
+        "name": "Humanizer.Core.sl",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Slovenian (sl)",
+        "downloads": "159,397,678",
+        "ranking": 215
+    },
+    {
+        "name": "Humanizer.Core.bg",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Bulgarian (bg)",
+        "downloads": "159,396,791",
+        "ranking": 216
+    },
+    {
+        "name": "Humanizer.Core.sr-Latn",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Serbian (sr-Latn)",
+        "downloads": "159,382,904",
+        "ranking": 217
+    },
+    {
+        "name": "Humanizer.Core.vi",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Vietnamese (vi)",
+        "downloads": "159,382,356",
+        "ranking": 218
+    },
+    {
+        "name": "Humanizer.Core.uz-Latn-UZ",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Uzbek (Latin, Uzbekistan) (uz-Latn-UZ)",
+        "downloads": "159,374,638",
+        "ranking": 219
+    },
+    {
+        "name": "Humanizer.Core.sr",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Serbian (sr)",
+        "downloads": "159,372,061",
+        "ranking": 220
+    },
+    {
+        "name": "Humanizer.Core.af",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Afrikaans (af)",
+        "downloads": "159,266,388",
+        "ranking": 221
+    },
+    {
+        "name": "protobuf-net.Core",
+        "version": "3.4.30",
+        "description": "The protobuf-net serialization engine and build-time tooling; most projects should reference protobuf-net, which adds the runtime type model",
+        "downloads": "158,936,500",
+        "ranking": 222
+    },
+    {
+        "name": "SshNet.Security.Cryptography",
+        "version": "1.3.0",
+        "description": "Cryptographic functions for .NET",
+        "downloads": "158,893,221",
         "ranking": 223
     },
     {
@@ -1624,17 +1624,17 @@
         "ranking": 232
     },
     {
-        "name": "NSwag.Annotations",
-        "version": "14.7.1",
-        "description": "NSwag: The OpenAPI/Swagger API toolchain for .NET and TypeScript",
-        "downloads": "154,234,170",
-        "ranking": 233
-    },
-    {
         "name": "Asp.Versioning.Mvc",
         "version": "10.2.1",
         "description": "A service API versioning library for Microsoft ASP.NET Core MVC.",
         "downloads": "153,557,037",
+        "ranking": 233
+    },
+    {
+        "name": "NSwag.Annotations",
+        "version": "14.7.1",
+        "description": "NSwag: The OpenAPI/Swagger API toolchain for .NET and TypeScript",
+        "downloads": "154,234,170",
         "ranking": 234
     },
     {
@@ -1765,7 +1765,7 @@
     },
     {
         "name": "Sentry",
-        "version": "6.11.1",
+        "version": "6.12.0",
         "description": "Official SDK for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.",
         "downloads": "138,558,841",
         "ranking": 253
@@ -2430,7 +2430,7 @@
     },
     {
         "name": "Sentry.Extensions.Logging",
-        "version": "6.11.1",
+        "version": "6.12.0",
         "description": "Official Microsoft.Extensions.Logging integration for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.",
         "downloads": "88,518,891",
         "ranking": 348
@@ -2598,7 +2598,7 @@
     },
     {
         "name": "Sentry.AspNetCore",
-        "version": "6.11.1",
+        "version": "6.12.0",
         "description": "Official ASP.NET Core integration for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.",
         "downloads": "82,156,512",
         "ranking": 372
@@ -3165,7 +3165,7 @@
     },
     {
         "name": "Amazon.JSII.Runtime",
-        "version": "1.140.0",
+        "version": "1.141.0",
         "description": ".NET client for jsii runtime",
         "downloads": "65,983,961",
         "ranking": 453
@@ -3535,10 +3535,10 @@
         "ranking": 505
     },
     {
-        "name": "Cucumber.Messages",
-        "version": "34.2.1",
-        "description": "JSON schema-based messages for Cucumber's inter-process communication",
-        "downloads": "55,502,493",
+        "name": "AspNetCore.HealthChecks.UI",
+        "version": "9.0.0",
+        "description": "HealthChecks.UI is a ASP.NET Core UI viewer of ASP.NET Core HealthChecks. For more information see https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks",
+        "downloads": "55,417,275",
         "ranking": 506
     }
 ]

@@ -784,24 +784,24 @@
         "ranking": 112
     },
     {
+        "name": "Confluent.Kafka",
+        "version": "2.15.1",
+        "description": "Confluent's .NET Client for Apache Kafka",
+        "downloads": "273,647,863",
+        "ranking": 113
+    },
+    {
         "name": "ZstdSharp.Port",
         "version": "0.8.8",
         "description": "Port of zstd compression library to c#",
         "downloads": "273,884,594",
-        "ranking": 113
+        "ranking": 114
     },
     {
         "name": "protobuf-net",
         "version": "3.4.30",
         "description": "Provides simple access to fast and efficient \"Protocol Buffers\" serialization from .NET applications",
         "downloads": "273,806,142",
-        "ranking": 114
-    },
-    {
-        "name": "Confluent.Kafka",
-        "version": "2.15.1",
-        "description": "Confluent's .NET Client for Apache Kafka",
-        "downloads": "273,647,863",
         "ranking": 115
     },
     {
@@ -897,7 +897,7 @@
     },
     {
         "name": "MassTransit",
-        "version": "9.2.2",
+        "version": "9.2.3",
         "description": "MassTransit provides a developer-focused, modern platform for creating distributed applications without complexity.",
         "downloads": "248,722,740",
         "ranking": 129
@@ -1191,7 +1191,7 @@
     },
     {
         "name": "MassTransit.Abstractions",
-        "version": "9.2.2",
+        "version": "9.2.3",
         "description": "MassTransit provides a developer-focused, modern platform for creating distributed applications without complexity.",
         "downloads": "170,477,798",
         "ranking": 171
@@ -1583,7 +1583,7 @@
     },
     {
         "name": "EmptyFiles",
-        "version": "8.19.0",
+        "version": "8.20.0",
         "description": "A collection of minimal binary files.",
         "downloads": "154,951,246",
         "ranking": 227
@@ -1695,7 +1695,7 @@
     },
     {
         "name": "MassTransit.RabbitMQ",
-        "version": "9.2.2",
+        "version": "9.2.3",
         "description": "MassTransit RabbitMQ transport support; MassTransit provides a developer-focused, modern platform for creating distributed applications without complexity.",
         "downloads": "147,008,689",
         "ranking": 243
@@ -1764,24 +1764,24 @@
         "ranking": 252
     },
     {
-        "name": "Sentry",
-        "version": "6.12.0",
-        "description": "Official SDK for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.",
-        "downloads": "138,558,841",
-        "ranking": 253
-    },
-    {
         "name": "AWSSDK.CloudWatchLogs",
         "version": "4.0.105",
         "description": "Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS. You can use Amazon CloudWatch to collect and track metrics, collect and monitor log files, and set alarms.",
         "downloads": "138,282,815",
-        "ranking": 254
+        "ranking": 253
     },
     {
         "name": "FSharp.Core",
         "version": "10.1.401",
         "description": "FSharp.Core redistributables from F# Tools version 15.2.401 For F# 10.0.  Contains code from the F# Software Foundation.",
         "downloads": "137,689,948",
+        "ranking": 254
+    },
+    {
+        "name": "Sentry",
+        "version": "6.12.0",
+        "description": "Official SDK for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.",
+        "downloads": "138,558,841",
         "ranking": 255
     },
     {
@@ -2107,24 +2107,24 @@
         "ranking": 301
     },
     {
-        "name": "Mono.Cecil",
-        "version": "0.11.6",
-        "description": "Cecil is a library written by Jb Evain to generate and inspect programs and libraries in the ECMA CIL format. It has full support for generics, and support some debugging symbol format. In simple English, with...\r\nMore information",
-        "downloads": "107,932,697",
-        "ranking": 302
-    },
-    {
         "name": "Amazon.Lambda.Serialization.SystemTextJson",
         "version": "3.0.1",
         "description": "Amazon Lambda .NET Core support - Serialization.Json with System.Text.Json.",
         "downloads": "107,768,045",
-        "ranking": 303
+        "ranking": 302
     },
     {
         "name": "Hangfire.NetCore",
         "version": "1.8.25",
         "description": ".NET Core's Worker Service host support for Hangfire, a background job framework for .NET applications.",
         "downloads": "107,384,313",
+        "ranking": 303
+    },
+    {
+        "name": "Mono.Cecil",
+        "version": "0.11.6",
+        "description": "Cecil is a library written by Jb Evain to generate and inspect programs and libraries in the ECMA CIL format. It has full support for generics, and support some debugging symbol format. In simple English, with...\r\nMore information",
+        "downloads": "107,932,697",
         "ranking": 304
     },
     {
@@ -2177,10 +2177,10 @@
         "ranking": 311
     },
     {
-        "name": "Stripe.net",
-        "version": "53.0.0",
-        "description": "Stripe.net is a sync/async client and portable class library for the Stripe API, supporting .NET Standard 2.0+, .NET Core 8+, and .NET Framework 4.6.2+. (Official Library)",
-        "downloads": "102,935,772",
+        "name": "Gherkin",
+        "version": "42.0.1",
+        "description": "Cross-platform parser for the Gherkin language, used by Cucumber, SpecFlow and other Cucumber-based tools to parse feature files.",
+        "downloads": "102,542,078",
         "ranking": 312
     },
     {
@@ -2198,10 +2198,10 @@
         "ranking": 314
     },
     {
-        "name": "Gherkin",
-        "version": "42.0.1",
-        "description": "Cross-platform parser for the Gherkin language, used by Cucumber, SpecFlow and other Cucumber-based tools to parse feature files.",
-        "downloads": "102,542,078",
+        "name": "Stripe.net",
+        "version": "53.0.0",
+        "description": "Stripe.net is a sync/async client and portable class library for the Stripe API, supporting .NET Standard 2.0+, .NET Core 8+, and .NET Framework 4.6.2+. (Official Library)",
+        "downloads": "102,935,772",
         "ranking": 315
     },
     {
@@ -2296,10 +2296,10 @@
         "ranking": 328
     },
     {
-        "name": "Swashbuckle.AspNetCore.Filters.Abstractions",
-        "version": "10.0.1",
-        "description": "Some additional useful filters for Swashbuckle.AspNetCore. This package replaces Swashbuckle.AspNetCore.Examples.",
-        "downloads": "95,429,007",
+        "name": "GraphQL-Parser",
+        "version": "9.5.1",
+        "description": "Library containing lexer and parser for GraphQL syntax",
+        "downloads": "94,797,225",
         "ranking": 329
     },
     {
@@ -2310,10 +2310,10 @@
         "ranking": 330
     },
     {
-        "name": "GraphQL-Parser",
-        "version": "9.5.1",
-        "description": "Library containing lexer and parser for GraphQL syntax",
-        "downloads": "94,797,225",
+        "name": "Swashbuckle.AspNetCore.Filters.Abstractions",
+        "version": "10.0.1",
+        "description": "Some additional useful filters for Swashbuckle.AspNetCore. This package replaces Swashbuckle.AspNetCore.Examples.",
+        "downloads": "95,429,007",
         "ranking": 331
     },
     {
@@ -2373,10 +2373,10 @@
         "ranking": 339
     },
     {
-        "name": "NetTopologySuite.IO.SqlServerBytes",
-        "version": "2.1.0",
-        "description": "A SQL Server IO module for NTS which works directly with the serialization format",
-        "downloads": "91,059,429",
+        "name": "Google.Cloud.Iam.V1",
+        "version": "3.5.0",
+        "description": "gRPC services for the Google Identity and Access Management API. This library is typically used as a dependency for other API client libraries.",
+        "downloads": "90,561,640",
         "ranking": 340
     },
     {
@@ -2394,17 +2394,17 @@
         "ranking": 342
     },
     {
+        "name": "NetTopologySuite.IO.SqlServerBytes",
+        "version": "2.1.0",
+        "description": "A SQL Server IO module for NTS which works directly with the serialization format",
+        "downloads": "91,059,429",
+        "ranking": 343
+    },
+    {
         "name": "Syncfusion.Licensing",
         "version": "35.1.37",
         "description": "Syncfusion® licensing is a .NET library for validating the registered Syncfusion® license in an application at runtime. The Syncfusion® license must be registered in an application when using the Syncfusion®...\r\nMore information",
         "downloads": "90,574,821",
-        "ranking": 343
-    },
-    {
-        "name": "Google.Cloud.Iam.V1",
-        "version": "3.5.0",
-        "description": "gRPC services for the Google Identity and Access Management API. This library is typically used as a dependency for other API client libraries.",
-        "downloads": "90,561,640",
         "ranking": 344
     },
     {
@@ -2562,31 +2562,31 @@
         "ranking": 366
     },
     {
+        "name": "BenchmarkDotNet",
+        "version": "0.15.8",
+        "description": "Powerful .NET library for benchmarking",
+        "downloads": "82,379,317",
+        "ranking": 367
+    },
+    {
         "name": "NUglify",
         "version": "1.23.3",
         "description": "NUglify provides minification and compression methods for CSS, JavaScript and HTML files for .NET",
         "downloads": "82,963,995",
-        "ranking": 367
+        "ranking": 368
     },
     {
         "name": "Rebus",
         "version": "8.9.5",
         "description": "Rebus is a lean service bus for .NET",
         "downloads": "82,846,699",
-        "ranking": 368
+        "ranking": 369
     },
     {
         "name": "SimpleInjector",
         "version": "5.6.0",
         "description": "Simple Injector is an easy, flexible and fast dependency injection library that uses best practice to guide your solutions toward the pit of success.",
         "downloads": "82,685,184",
-        "ranking": 369
-    },
-    {
-        "name": "BenchmarkDotNet",
-        "version": "0.15.8",
-        "description": "Powerful .NET library for benchmarking",
-        "downloads": "82,379,317",
         "ranking": 370
     },
     {
@@ -2779,38 +2779,38 @@
         "ranking": 397
     },
     {
+        "name": "DistributedLock.Core",
+        "version": "1.0.9",
+        "description": "Core interfaces and utilities that support the DistributedLock.* family of packages",
+        "downloads": "76,709,072",
+        "ranking": 398
+    },
+    {
         "name": "Nito.Cancellation",
         "version": "1.2.0",
         "description": "Helper types for working with cancellation tokens and sources.",
         "downloads": "76,965,299",
-        "ranking": 398
+        "ranking": 399
     },
     {
         "name": "OpenAI",
         "version": "2.14.0",
         "description": "The official .NET library for the OpenAI service API.",
         "downloads": "76,950,204",
-        "ranking": 399
+        "ranking": 400
     },
     {
         "name": "HotChocolate.Language",
         "version": "16.6.7",
         "description": "Contains the Hot Chocolate GraphQL parser and lexer. Also included are syntax visitor and syntax rewriter base classes.",
         "downloads": "76,769,850",
-        "ranking": 400
+        "ranking": 401
     },
     {
         "name": "Semver",
         "version": "3.0.0",
         "description": "A semantic version library fully compliant with v2.0.0 of the spec found at http://semver.org.",
         "downloads": "76,736,347",
-        "ranking": 401
-    },
-    {
-        "name": "DistributedLock.Core",
-        "version": "1.0.9",
-        "description": "Core interfaces and utilities that support the DistributedLock.* family of packages",
-        "downloads": "76,709,072",
         "ranking": 402
     },
     {
@@ -2954,45 +2954,45 @@
         "ranking": 422
     },
     {
-        "name": "PDFsharp",
-        "version": "6.2.4",
-        "description": "PDFsharp is the Open Source library for creating and modifying PDF documents using .NET. It has an easy-to-use API that allows developers to generate or modify PDF files programmatically. PDFsharp can be used...\r\nMore information",
-        "downloads": "72,945,075",
-        "ranking": 423
-    },
-    {
-        "name": "DevExpress.Xpo.de",
-        "version": "26.1.5",
-        "description": "Target Platform/Framework: Desktop, Web, Mobile\nDevExpress Product Libraries Used: XPO (.NET ORM Library) (https://www.devexpress.com/xpo)\nAvailable in the following DevExpress Subscription(s): Universal,...\r\nMore information",
-        "downloads": "72,869,113",
-        "ranking": 424
-    },
-    {
-        "name": "Mapster.Core",
-        "version": "10.0.13",
-        "description": "Lightweight library for Mapster and Mapster CodeGen",
-        "downloads": "72,615,649",
-        "ranking": 425
-    },
-    {
         "name": "Docker.DotNet.Enhanced",
         "version": "4.3.3",
         "description": "A .NET client for the Docker Engine API (v29.4.1) with fully asynchronous, non-blocking, object-oriented APIs.",
         "downloads": "72,597,782",
-        "ranking": 426
-    },
-    {
-        "name": "GreenDonut",
-        "version": "16.6.7",
-        "description": "GreenDonut is a port of facebook's DataLoader utility, written in C# for .NET Core and .NET Framework.",
-        "downloads": "72,488,213",
-        "ranking": 427
+        "ranking": 423
     },
     {
         "name": "Docker.DotNet.Enhanced.X509",
         "version": "4.3.3",
         "description": "A Docker.DotNet extension that adds X.509 client certificate authentication for remote Docker Engine connections.",
         "downloads": "72,346,831",
+        "ranking": 424
+    },
+    {
+        "name": "PDFsharp",
+        "version": "6.2.4",
+        "description": "PDFsharp is the Open Source library for creating and modifying PDF documents using .NET. It has an easy-to-use API that allows developers to generate or modify PDF files programmatically. PDFsharp can be used...\r\nMore information",
+        "downloads": "72,945,075",
+        "ranking": 425
+    },
+    {
+        "name": "DevExpress.Xpo.de",
+        "version": "26.1.5",
+        "description": "Target Platform/Framework: Desktop, Web, Mobile\nDevExpress Product Libraries Used: XPO (.NET ORM Library) (https://www.devexpress.com/xpo)\nAvailable in the following DevExpress Subscription(s): Universal,...\r\nMore information",
+        "downloads": "72,869,113",
+        "ranking": 426
+    },
+    {
+        "name": "Mapster.Core",
+        "version": "10.0.13",
+        "description": "Lightweight library for Mapster and Mapster CodeGen",
+        "downloads": "72,615,649",
+        "ranking": 427
+    },
+    {
+        "name": "GreenDonut",
+        "version": "16.6.7",
+        "description": "GreenDonut is a port of facebook's DataLoader utility, written in C# for .NET Core and .NET Framework.",
+        "downloads": "72,488,213",
         "ranking": 428
     },
     {
@@ -3291,7 +3291,7 @@
     },
     {
         "name": "AWSSDK.CognitoIdentityProvider",
-        "version": "4.0.105.4",
+        "version": "4.0.106",
         "description": "You can create a user pool in Amazon Cognito Identity to manage directories and users. You can authenticate a user to obtain tokens related to user identity and access policies. This API reference provides...\r\nMore information",
         "downloads": "62,350,615",
         "ranking": 471
@@ -3451,17 +3451,17 @@
         "ranking": 493
     },
     {
-        "name": "HotChocolate.Subscriptions.InMemory",
-        "version": "16.6.7",
-        "description": "Contains an in-memory implementation for a Hot Chocolate GraphQL subscription provider.",
-        "downloads": "57,746,328",
-        "ranking": 494
-    },
-    {
         "name": "Google.Cloud.PubSub.V1",
         "version": "3.38.0",
         "description": "Recommended Google client library to access the Google Cloud Pub/Sub API, which provides reliable, many-to-many, asynchronous messaging between applications.",
         "downloads": "57,694,448",
+        "ranking": 494
+    },
+    {
+        "name": "HotChocolate.Subscriptions.InMemory",
+        "version": "16.6.7",
+        "description": "Contains an in-memory implementation for a Hot Chocolate GraphQL subscription provider.",
+        "downloads": "57,746,328",
         "ranking": 495
     },
     {
@@ -3528,10 +3528,10 @@
         "ranking": 504
     },
     {
-        "name": "SixLabors.ImageSharp.Drawing",
-        "version": "3.1.2",
-        "description": "Drawing extensions for ImageSharp with support for shapes, paths, text, and image rendering.",
-        "downloads": "55,539,985",
+        "name": "Cucumber.Messages",
+        "version": "34.2.1",
+        "description": "JSON schema-based messages for Cucumber's inter-process communication",
+        "downloads": "55,502,493",
         "ranking": 505
     },
     {

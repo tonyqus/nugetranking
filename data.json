@@ -603,7 +603,7 @@
     },
     {
         "name": "MessagePack",
-        "version": "3.1.10",
+        "version": "3.1.11",
         "description": "Extremely Fast MessagePack(MsgPack) Serializer for C# (.NET Framework, .NET 6, Unity, Xamarin).",
         "downloads": "335,432,093",
         "ranking": 87
@@ -750,7 +750,7 @@
     },
     {
         "name": "MessagePack.Annotations",
-        "version": "3.1.10",
+        "version": "3.1.11",
         "description": "Attributes and interfaces for .NET types serializable with MessagePack.",
         "downloads": "281,298,267",
         "ranking": 108
@@ -2339,7 +2339,7 @@
     },
     {
         "name": "MessagePackAnalyzer",
-        "version": "3.1.10",
+        "version": "3.1.11",
         "description": "Analyzers and source generator for MessagePack for C#. Verify rules for [MessagePackObject] and code fix for [Key]. A roslyn source generator for AOT or faster startup of applications that use the MessagePack...\r\nMore information",
         "downloads": "93,434,113",
         "ranking": 335

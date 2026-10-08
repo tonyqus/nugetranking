@@ -36,14 +36,14 @@
     },
     {
         "name": "Swashbuckle.AspNetCore.SwaggerGen",
-        "version": "10.2.3",
+        "version": "10.3.0",
         "description": "Swagger Generator for APIs built on ASP.NET Core",
         "downloads": "1,563,590,240",
         "ranking": 6
     },
     {
         "name": "Swashbuckle.AspNetCore.Swagger",
-        "version": "10.2.3",
+        "version": "10.3.0",
         "description": "Middleware to expose Swagger JSON endpoints from APIs built on ASP.NET Core",
         "downloads": "1,542,215,356",
         "ranking": 7
@@ -64,7 +64,7 @@
     },
     {
         "name": "Swashbuckle.AspNetCore.SwaggerUI",
-        "version": "10.2.3",
+        "version": "10.3.0",
         "description": "Middleware to expose an embedded version of the swagger-ui from an ASP.NET Core application",
         "downloads": "1,330,185,336",
         "ranking": 10
@@ -85,7 +85,7 @@
     },
     {
         "name": "Swashbuckle.AspNetCore",
-        "version": "10.2.3",
+        "version": "10.3.0",
         "description": "Swagger tools for documenting APIs built on ASP.NET Core",
         "downloads": "1,236,003,145",
         "ranking": 13
@@ -554,7 +554,7 @@
     },
     {
         "name": "Swashbuckle.AspNetCore.Annotations",
-        "version": "10.2.3",
+        "version": "10.3.0",
         "description": "Provides custom attributes that can be applied to controllers, actions and models to enrich the generated Swagger",
         "downloads": "360,179,660",
         "ranking": 80
@@ -645,7 +645,7 @@
     },
     {
         "name": "AngleSharp",
-        "version": "1.8.3",
+        "version": "1.8.4",
         "description": "AngleSharp is the ultimate angle brackets parser library. It parses HTML5, CSS3, and XML to construct a DOM based on the official W3C specification.",
         "downloads": "328,117,969",
         "ranking": 93
@@ -778,7 +778,7 @@
     },
     {
         "name": "Confluent.Kafka",
-        "version": "2.15.1",
+        "version": "2.16.0",
         "description": "Confluent's .NET Client for Apache Kafka",
         "downloads": "273,647,863",
         "ranking": 112
@@ -1044,7 +1044,7 @@
     },
     {
         "name": "Swashbuckle.AspNetCore.Newtonsoft",
-        "version": "10.2.3",
+        "version": "10.3.0",
         "description": "Swagger Generator opt-in component to support Newtonsoft.Json serializer behaviors",
         "downloads": "202,252,127",
         "ranking": 150
@@ -1128,7 +1128,7 @@
     },
     {
         "name": "Quartz",
-        "version": "4.3.0",
+        "version": "4.4.0",
         "description": "Quartz.NET job scheduler - cron, calendar and interval triggers, clustering over a persistent job store, and Microsoft.Extensions hosting, logging, options and dependency injection throughout. The core package:...\r\nMore information",
         "downloads": "185,458,906",
         "ranking": 162
@@ -1303,7 +1303,7 @@
     },
     {
         "name": "DiffEngine",
-        "version": "20.7.0",
+        "version": "20.7.2",
         "description": "Launches diff tools based on file extensions. Designed to be consumed by snapshot testing libraries.",
         "downloads": "160,439,222",
         "ranking": 187
@@ -1583,7 +1583,7 @@
     },
     {
         "name": "EmptyFiles",
-        "version": "8.20.0",
+        "version": "8.20.1",
         "description": "A collection of minimal binary files.",
         "downloads": "154,951,246",
         "ranking": 227
@@ -1681,7 +1681,7 @@
     },
     {
         "name": "JsonSubTypes",
-        "version": "2.1.0",
+        "version": "2.2.0",
         "description": "Discriminated Json Subtypes Converter implementation for .NET",
         "downloads": "147,744,764",
         "ranking": 241
@@ -2282,17 +2282,17 @@
         "ranking": 326
     },
     {
-        "name": "NJsonSchema.NewtonsoftJson",
-        "version": "11.6.1",
-        "description": "JSON Schema reader, generator and validator for .NET",
-        "downloads": "95,957,349",
-        "ranking": 327
-    },
-    {
         "name": "LaunchDarkly.CommonSdk",
         "version": "7.2.0",
         "description": "LaunchDarkly common code for .NET and Xamarin clients",
         "downloads": "80,900,001",
+        "ranking": 327
+    },
+    {
+        "name": "NJsonSchema.NewtonsoftJson",
+        "version": "11.6.1",
+        "description": "JSON Schema reader, generator and validator for .NET",
+        "downloads": "95,957,349",
         "ranking": 328
     },
     {
@@ -2416,7 +2416,7 @@
     },
     {
         "name": "Quartz.Extensions.DependencyInjection",
-        "version": "4.3.0",
+        "version": "4.4.0",
         "description": "Folded into Quartz in 4.0: AddQuartz, QuartzOptions and the rest live in the Quartz package now. This package is empty and exists only so a grouped dependency update can move to 4.x - remove the reference, and...\r\nMore information",
         "downloads": "89,673,955",
         "ranking": 346
@@ -2549,7 +2549,7 @@
     },
     {
         "name": "Selenium.WebDriver.ChromeDriver",
-        "version": "154.0.8037.9200",
+        "version": "155.0.8059.3900",
         "description": "Install Chrome Driver (Win32, macOS, macOS arm64, and Linux64) for Selenium WebDriver into your Unit Test Project.\n      \"chromedriver(.exe)\" is copied to the bin folder from the package folder when the build...\r\nMore information",
         "downloads": "83,501,674",
         "ranking": 365
@@ -2577,7 +2577,7 @@
     },
     {
         "name": "NUglify",
-        "version": "1.23.3",
+        "version": "1.23.4",
         "description": "NUglify provides minification and compression methods for CSS, JavaScript and HTML files for .NET",
         "downloads": "82,963,995",
         "ranking": 369
@@ -2619,7 +2619,7 @@
     },
     {
         "name": "Quartz.Extensions.Hosting",
-        "version": "4.3.0",
+        "version": "4.4.0",
         "description": "Folded into Quartz in 4.0: AddQuartzHostedService, QuartzHostedService and QuartzHostedServiceOptions live in the Quartz package now. This package is empty and exists only so a grouped dependency update can...\r\nMore information",
         "downloads": "81,453,881",
         "ranking": 375
@@ -2878,7 +2878,7 @@
     },
     {
         "name": "MSTest.Analyzers",
-        "version": "4.4.1",
+        "version": "4.5.1",
         "description": "This package includes code analyzers and code fixes for MSTest.\n\nMSTest is Microsoft supported Test Framework.",
         "downloads": "74,123,972",
         "ranking": 412
@@ -2891,87 +2891,87 @@
         "ranking": 413
     },
     {
+        "name": "Docker.DotNet.Enhanced.X509",
+        "version": "4.3.3",
+        "description": "A Docker.DotNet extension that adds X.509 client certificate authentication for remote Docker Engine connections.",
+        "downloads": "72,346,831",
+        "ranking": 414
+    },
+    {
         "name": "SharpYaml",
         "version": "3.15.0",
         "description": "A high-performance .NET YAML library providing parsing and serialization of object graphs, NativeAOT ready.",
         "downloads": "75,832,196",
-        "ranking": 414
+        "ranking": 415
     },
     {
         "name": "DotNetZip",
         "version": "1.16.0",
         "description": "A fork of the DotNetZip project without signing with a solution that compiles cleanly. This project aims to follow semver to avoid versioning conflicts. DotNetZip is a FAST, FREE class library and toolset for...\r\nMore information",
         "downloads": "75,400,808",
-        "ranking": 415
+        "ranking": 416
     },
     {
         "name": "BoDi",
         "version": "1.5.0",
         "description": "A very simple IoC container, easily embeddable also as a source code.",
         "downloads": "75,374,723",
-        "ranking": 416
+        "ranking": 417
     },
     {
         "name": "NCrontab",
         "version": "3.4.0",
         "description": "NCrontab is crontab for all .NET runtimes supported by .NET Standard 1.0. It provides parsing and formatting of crontab expressions as well as calculation of occurrences of time based on a schedule expressed in...\r\nMore information",
         "downloads": "75,096,435",
-        "ranking": 417
+        "ranking": 418
     },
     {
         "name": "dbup-core",
         "version": "6.1.1",
         "description": "DbUp makes it easy to deploy and upgrade SQL Server databases by running change scripts. This is the core library and should be used in conjunction with the database specific package (eg dbup-sqlserver,...\r\nMore information",
         "downloads": "74,575,751",
-        "ranking": 418
+        "ranking": 419
     },
     {
         "name": "OneOf",
         "version": "3.0.271",
         "description": "F# style discriminated unions for C#, using a custom type OneOf<T0, ... Tn> which holds a single value and has a .Match(...) method on it for exhaustive matching. Simple but powerful.",
         "downloads": "74,123,614",
-        "ranking": 419
+        "ranking": 420
     },
     {
         "name": "Unity.Abstractions",
         "version": "5.11.7",
         "description": "Unity Container Public Abstractions",
         "downloads": "73,981,766",
-        "ranking": 420
+        "ranking": 421
     },
     {
         "name": "Ninject",
         "version": "3.3.6",
         "description": "Ninject is a lightning-fast, ultra-lightweight dependency injector for .NET applications.",
         "downloads": "73,857,135",
-        "ranking": 421
+        "ranking": 422
     },
     {
         "name": "BenchmarkDotNet.Annotations",
         "version": "0.15.8",
         "description": "Powerful .NET library for benchmarking",
         "downloads": "73,806,143",
-        "ranking": 422
+        "ranking": 423
     },
     {
         "name": "Iced",
         "version": "1.21.0",
         "description": "iced is a blazing fast and correct x86 (16/32/64-bit) instruction decoder, disassembler and assembler written in C#.\n\n- 👍 Supports all Intel and AMD instructions\n- 👍 Correct: All instructions are tested and...\r\nMore information",
         "downloads": "73,503,489",
-        "ranking": 423
+        "ranking": 424
     },
     {
         "name": "Mapster.Core",
         "version": "10.0.13",
         "description": "Lightweight library for Mapster and Mapster CodeGen",
         "downloads": "72,615,649",
-        "ranking": 424
-    },
-    {
-        "name": "Docker.DotNet.Enhanced.X509",
-        "version": "4.3.3",
-        "description": "A Docker.DotNet extension that adds X.509 client certificate authentication for remote Docker Engine connections.",
-        "downloads": "72,346,831",
         "ranking": 425
     },
     {
@@ -3095,14 +3095,14 @@
     },
     {
         "name": "Confluent.SchemaRegistry",
-        "version": "2.15.1",
+        "version": "2.16.0",
         "description": "A .NET Client for Confluent Schema Registry",
         "downloads": "68,431,669",
         "ranking": 443
     },
     {
         "name": "dotnet-dump",
-        "version": "10.0.745401",
+        "version": "10.0.750501",
         "description": "Diagnostic dump collect and analyze tool",
         "downloads": "68,405,207",
         "ranking": 444
@@ -3311,24 +3311,24 @@
         "ranking": 473
     },
     {
+        "name": "Magick.NET.Core",
+        "version": "14.17.2",
+        "description": "ImageMagick is a powerful image manipulation library that supports over 100 major file formats (not including sub-formats). With Magick.NET you can use ImageMagick without having to install ImageMagick on your...\r\nMore information",
+        "downloads": "61,331,130",
+        "ranking": 474
+    },
+    {
         "name": "jQuery.UI.Combined",
         "version": "1.14.1",
         "description": "jQuery UI is an open source library of interface components — interactions, full-featured widgets, and animation effects — based on the stellar jQuery javascript library . Each component is built according to...\r\nMore information",
         "downloads": "62,046,194",
-        "ranking": 474
+        "ranking": 475
     },
     {
         "name": "Antlr3.Runtime",
         "version": "3.5.1",
         "description": "The runtime library for parsers generated by the C# target of ANTLR 3. This package supports projects targeting .NET 2.0 or newer, and built using Visual Studio 2008 or newer.",
         "downloads": "61,444,430",
-        "ranking": 475
-    },
-    {
-        "name": "Magick.NET.Core",
-        "version": "14.17.2",
-        "description": "ImageMagick is a powerful image manipulation library that supports over 100 major file formats (not including sub-formats). With Magick.NET you can use ImageMagick without having to install ImageMagick on your...\r\nMore information",
-        "downloads": "61,331,130",
         "ranking": 476
     },
     {
@@ -3409,17 +3409,17 @@
         "ranking": 487
     },
     {
-        "name": "App.Metrics.Concurrency",
-        "version": "4.3.0",
-        "description": "Provides useful structures for performing efficient concurrent operations. Original Project: https://github.com/etishor/ConcurrencyUtilities, including a port of Java's LongAdder and Striped64 classes",
-        "downloads": "59,044,567",
-        "ranking": 488
-    },
-    {
         "name": "HotChocolate.AspNetCore",
         "version": "16.6.7",
         "description": "This package contains the GraphQL ASP.NET Core middleware for Hot Chocolate. Moreover, this package includes the Nitro middleware, which provides you with our beloved GraphQL IDE middleware.",
         "downloads": "58,939,723",
+        "ranking": 488
+    },
+    {
+        "name": "App.Metrics.Concurrency",
+        "version": "4.3.0",
+        "description": "Provides useful structures for performing efficient concurrent operations. Original Project: https://github.com/etishor/ConcurrencyUtilities, including a port of Java's LongAdder and Striped64 classes",
+        "downloads": "59,044,567",
         "ranking": 489
     },
     {
@@ -3508,14 +3508,14 @@
     },
     {
         "name": "WireMock.Net.Abstractions",
-        "version": "2.18.0",
+        "version": "2.19.0",
         "description": "Commonly used interfaces, models, enumerations and types.",
         "downloads": "56,209,600",
         "ranking": 502
     },
     {
         "name": "WireMock.Net",
-        "version": "2.18.0",
+        "version": "2.19.0",
         "description": "Lightweight Http Mocking Server for .NET, inspired by WireMock from the Java landscape.",
         "downloads": "55,668,985",
         "ranking": 503

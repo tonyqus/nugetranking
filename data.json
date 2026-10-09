@@ -15,7 +15,7 @@
     },
     {
         "name": "AWSSDK.Core",
-        "version": "4.0.102.8",
+        "version": "4.0.102.9",
         "description": "The Amazon Web Services SDK for .NET - Core Runtime",
         "downloads": "2,067,880,799",
         "ranking": 3
@@ -267,7 +267,7 @@
     },
     {
         "name": "AWSSDK.S3",
-        "version": "4.0.104.1",
+        "version": "4.0.104.2",
         "description": "Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable, highly-scalable object storage.",
         "downloads": "670,236,329",
         "ranking": 39
@@ -442,7 +442,7 @@
     },
     {
         "name": "AWSSDK.Polly",
-        "version": "4.0.100.16",
+        "version": "4.0.100.17",
         "description": "Amazon Polly is a service that turns text into lifelike speech, making it easy to develop applications that use high-quality speech to increase engagement and accessibility.",
         "downloads": "453,914,672",
         "ranking": 64
@@ -505,7 +505,7 @@
     },
     {
         "name": "AWSSDK.SecurityToken",
-        "version": "4.0.101.1",
+        "version": "4.0.101.2",
         "description": "The AWS Security Token Service (AWS STS) enables you to provide trusted users with temporary credentials that provide controlled access to your AWS resources.",
         "downloads": "395,759,888",
         "ranking": 73
@@ -561,7 +561,7 @@
     },
     {
         "name": "AWSSDK.SQS",
-        "version": "4.0.100.15",
+        "version": "4.0.100.16",
         "description": "Amazon Simple Queue Service (SQS) is a fast, reliable, scalable, fully managed message queuing service. SQS makes it simple and cost-effective to decouple the components of a cloud application.",
         "downloads": "349,219,579",
         "ranking": 81
@@ -609,45 +609,45 @@
         "ranking": 87
     },
     {
+        "name": "AngleSharp",
+        "version": "1.8.4",
+        "description": "AngleSharp is the ultimate angle brackets parser library. It parses HTML5, CSS3, and XML to construct a DOM based on the official W3C specification.",
+        "downloads": "328,117,969",
+        "ranking": 88
+    },
+    {
         "name": "TimeZoneConverter",
         "version": "7.2.0",
         "description": "Lightweight library to convert quickly between IANA, Windows, and Rails time zone names.",
         "downloads": "335,257,496",
-        "ranking": 88
+        "ranking": 89
     },
     {
         "name": "SQLitePCLRaw.lib.e_sqlite3",
         "version": "3.53.3",
         "description": "This package contains builds of the native SQLite code for various platforms.  \n    These builds have \"e_sqlite3\" as the base name.  The first three numbers in the version number of this package indicate the...\r\nMore information",
         "downloads": "334,918,098",
-        "ranking": 89
+        "ranking": 90
     },
     {
         "name": "prometheus-net",
         "version": "8.2.1",
         "description": ".NET client library for the Prometheus monitoring and alerting system",
         "downloads": "334,058,826",
-        "ranking": 90
+        "ranking": 91
     },
     {
         "name": "NodaTime",
         "version": "3.3.5",
         "description": "Noda Time is a date and time API acting as an alternative to the built-in DateTime/DateTimeOffset etc types in .NET.",
         "downloads": "333,577,558",
-        "ranking": 91
+        "ranking": 92
     },
     {
         "name": "AutoFixture",
         "version": "4.18.1",
         "description": "AutoFixture makes it easier for developers to do Test-Driven Development by automating non-relevant Test Fixture Setup, allowing the Test Developer to focus on the essentials of each test case.",
         "downloads": "331,159,554",
-        "ranking": 92
-    },
-    {
-        "name": "AngleSharp",
-        "version": "1.8.4",
-        "description": "AngleSharp is the ultimate angle brackets parser library. It parses HTML5, CSS3, and XML to construct a DOM based on the official W3C specification.",
-        "downloads": "328,117,969",
         "ranking": 93
     },
     {
@@ -736,7 +736,7 @@
     },
     {
         "name": "AWSSDK.Extensions.NETCore.Setup",
-        "version": "4.0.102.1",
+        "version": "4.0.102.2",
         "description": "Extensions for the AWS SDK for .NET to integrate with .NET Core configuration and dependency injection frameworks.",
         "downloads": "291,942,966",
         "ranking": 106
@@ -827,7 +827,7 @@
     },
     {
         "name": "AWSSDK.DynamoDBv2",
-        "version": "4.0.107",
+        "version": "4.0.107.1",
         "description": "Amazon DynamoDB is a fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency at any scale.",
         "downloads": "264,443,906",
         "ranking": 119
@@ -862,7 +862,7 @@
     },
     {
         "name": "AWSSDK.SecretsManager",
-        "version": "4.0.100.15",
+        "version": "4.0.100.16",
         "description": "AWS Secrets Manager enables you to easily create and manage the secrets that you use in your customer-facing apps. Instead of embedding credentials into your source code, you can dynamically query Secrets...\r\nMore information",
         "downloads": "260,694,706",
         "ranking": 124
@@ -932,7 +932,7 @@
     },
     {
         "name": "AWSSDK.SimpleNotificationService",
-        "version": "4.0.100.16",
+        "version": "4.0.100.17",
         "description": "Amazon Simple Notification Service (Amazon SNS) is a fast, flexible, fully managed push messaging service. Amazon SNS makes it simple and cost-effective to push notifications to Apple, Google, Fire OS, and...\r\nMore information",
         "downloads": "232,894,234",
         "ranking": 134
@@ -953,7 +953,7 @@
     },
     {
         "name": "AWSSDK.SimpleSystemsManagement",
-        "version": "4.0.104.1",
+        "version": "4.0.104.2",
         "description": "Amazon EC2 Simple Systems Manager (SSM) enables you to manage a number of administrative and configuration tasks on your instances.",
         "downloads": "228,026,022",
         "ranking": 137
@@ -1065,7 +1065,7 @@
     },
     {
         "name": "Amazon.Lambda.Core",
-        "version": "3.3.0",
+        "version": "3.4.0",
         "description": "Amazon Lambda .NET Core support - Core package.",
         "downloads": "196,255,428",
         "ranking": 153
@@ -1176,17 +1176,17 @@
         "ranking": 168
     },
     {
-        "name": "Polly.Contrib.WaitAndRetry",
-        "version": "1.1.1",
-        "description": "Polly.Contrib.WaitAndRetry is an extension library for Polly containing helper methods for a variety of wait-and-retry strategies.",
-        "downloads": "173,579,149",
-        "ranking": 169
-    },
-    {
         "name": "Cake.Tool",
         "version": "6.3.0",
         "description": "The Cake .NET Tool.",
         "downloads": "173,322,356",
+        "ranking": 169
+    },
+    {
+        "name": "Polly.Contrib.WaitAndRetry",
+        "version": "1.1.1",
+        "description": "Polly.Contrib.WaitAndRetry is an extension library for Polly containing helper methods for a variety of wait-and-retry strategies.",
+        "downloads": "173,579,149",
         "ranking": 170
     },
     {
@@ -1218,38 +1218,38 @@
         "ranking": 174
     },
     {
-        "name": "Nito.AsyncEx.Context",
-        "version": "5.1.2",
-        "description": "A single-threaded async-compatible context.",
-        "downloads": "165,207,750",
-        "ranking": 175
-    },
-    {
         "name": "Humanizer",
         "version": "3.0.10",
         "description": "Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities",
         "downloads": "164,607,656",
-        "ranking": 176
+        "ranking": 175
     },
     {
         "name": "Humanizer.Core.uk",
         "version": "3.0.10",
         "description": "Humanizer Locale Ukrainian (uk)",
         "downloads": "163,487,775",
-        "ranking": 177
+        "ranking": 176
     },
     {
         "name": "AspNetCore.HealthChecks.UI.Core",
         "version": "9.0.0",
         "description": "HealthChecks.UI.Core package containing builder and model definitions",
         "downloads": "163,477,866",
-        "ranking": 178
+        "ranking": 177
     },
     {
         "name": "AngleSharp.Css",
         "version": "1.1.2",
         "description": "Extends the CSSOM from the core AngleSharp library.",
         "downloads": "162,903,292",
+        "ranking": 178
+    },
+    {
+        "name": "Nito.AsyncEx.Context",
+        "version": "5.1.2",
+        "description": "A single-threaded async-compatible context.",
+        "downloads": "165,207,750",
         "ranking": 179
     },
     {
@@ -1260,108 +1260,108 @@
         "ranking": 180
     },
     {
-        "name": "Nito.AsyncEx.Coordination",
-        "version": "5.1.2",
-        "description": "Asynchronous coordination primitives.",
-        "downloads": "162,024,792",
-        "ranking": 181
-    },
-    {
         "name": "KubernetesClient",
         "version": "19.0.2",
         "description": "Client library for the Kubernetes open source container orchestrator.",
         "downloads": "161,541,531",
-        "ranking": 182
+        "ranking": 181
     },
     {
         "name": "Humanizer.Core.fr",
         "version": "3.0.10",
         "description": "Humanizer Locale French (fr)",
         "downloads": "161,283,743",
-        "ranking": 183
+        "ranking": 182
     },
     {
         "name": "Humanizer.Core.de",
         "version": "3.0.10",
         "description": "Humanizer Locale German (de)",
         "downloads": "161,031,247",
-        "ranking": 184
+        "ranking": 183
     },
     {
         "name": "Humanizer.Core.es",
         "version": "3.0.10",
         "description": "Humanizer Locale Spanish (es)",
         "downloads": "160,960,918",
-        "ranking": 185
+        "ranking": 184
     },
     {
         "name": "Humanizer.Core.ru",
         "version": "3.0.10",
         "description": "Humanizer Locale Russian (ru)",
         "downloads": "160,667,918",
-        "ranking": 186
+        "ranking": 185
     },
     {
         "name": "DiffEngine",
         "version": "20.7.2",
         "description": "Launches diff tools based on file extensions. Designed to be consumed by snapshot testing libraries.",
         "downloads": "160,439,222",
-        "ranking": 187
+        "ranking": 186
     },
     {
         "name": "Humanizer.Core.pt",
         "version": "3.0.10",
         "description": "Humanizer Locale Portuguese (pt)",
         "downloads": "160,326,184",
-        "ranking": 188
+        "ranking": 187
     },
     {
         "name": "Hangfire.SqlServer",
         "version": "1.8.25",
         "description": "SQL Server 2008+ (including Express), SQL Server LocalDB and SQL Azure storage support for Hangfire, a background job framework for .NET applications.",
         "downloads": "160,291,111",
-        "ranking": 189
+        "ranking": 188
     },
     {
         "name": "Humanizer.Core.zh-CN",
         "version": "3.0.10",
         "description": "Humanizer Locale Chinese (China) (zh-CN)",
         "downloads": "160,121,444",
-        "ranking": 190
+        "ranking": 189
     },
     {
         "name": "Humanizer.Core.it",
         "version": "3.0.10",
         "description": "Humanizer Locale Italian (it)",
         "downloads": "159,999,227",
-        "ranking": 191
+        "ranking": 190
     },
     {
         "name": "Humanizer.Core.nl",
         "version": "3.0.10",
         "description": "Humanizer Locale Dutch (nl)",
         "downloads": "159,988,144",
-        "ranking": 192
+        "ranking": 191
     },
     {
         "name": "Humanizer.Core.zh-Hans",
         "version": "3.0.10",
         "description": "Humanizer Locale Chinese (zh-Hans)",
         "downloads": "159,874,875",
-        "ranking": 193
+        "ranking": 192
     },
     {
         "name": "Humanizer.Core.zh-Hant",
         "version": "3.0.10",
         "description": "Humanizer Locale Chinese (zh-Hant)",
         "downloads": "159,841,053",
-        "ranking": 194
+        "ranking": 193
     },
     {
         "name": "Humanizer.Core.pl",
         "version": "3.0.10",
         "description": "Humanizer Locale Polish (pl)",
         "downloads": "159,766,759",
+        "ranking": 194
+    },
+    {
+        "name": "Humanizer.Core.ja",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Japanese (ja)",
+        "downloads": "159,709,680",
         "ranking": 195
     },
     {
@@ -1379,10 +1379,10 @@
         "ranking": 197
     },
     {
-        "name": "Humanizer.Core.ja",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Japanese (ja)",
-        "downloads": "159,709,680",
+        "name": "Nito.AsyncEx.Coordination",
+        "version": "5.1.2",
+        "description": "Asynchronous coordination primitives.",
+        "downloads": "162,024,792",
         "ranking": 198
     },
     {
@@ -1765,7 +1765,7 @@
     },
     {
         "name": "AWSSDK.CloudWatchLogs",
-        "version": "4.0.105",
+        "version": "4.0.105.1",
         "description": "Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS. You can use Amazon CloudWatch to collect and track metrics, collect and monitor log files, and set alarms.",
         "downloads": "138,282,815",
         "ranking": 253
@@ -1911,17 +1911,17 @@
         "ranking": 273
     },
     {
-        "name": "Serilog.Sinks.Elasticsearch",
-        "version": "10.0.0",
-        "description": "Serilog sink for Elasticsearch",
-        "downloads": "127,066,839",
-        "ranking": 274
-    },
-    {
         "name": "GitVersion.Tool",
         "version": "6.8.2",
         "description": "Derives SemVer information from a repository following GitFlow or GitHubFlow. This is the .NET Core Global Tool allowing usage of GitVersion from command line.",
         "downloads": "125,891,898",
+        "ranking": 274
+    },
+    {
+        "name": "Serilog.Sinks.Elasticsearch",
+        "version": "10.0.0",
+        "description": "Serilog sink for Elasticsearch",
+        "downloads": "127,066,839",
         "ranking": 275
     },
     {
@@ -1940,7 +1940,7 @@
     },
     {
         "name": "AWSSDK.Lambda",
-        "version": "4.0.108.2",
+        "version": "4.0.109",
         "description": "AWS Lambda is a compute service that runs your code in response to events and automatically manages the compute resources for you, making it easy to build applications that respond quickly to new information.",
         "downloads": "123,878,811",
         "ranking": 278
@@ -1954,7 +1954,7 @@
     },
     {
         "name": "Testcontainers",
-        "version": "4.15.0",
+        "version": "4.16.0",
         "description": "Testcontainers for .NET is a library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.",
         "downloads": "122,597,442",
         "ranking": 280
@@ -2115,7 +2115,7 @@
     },
     {
         "name": "Datadog.Trace",
-        "version": "3.55.0",
+        "version": "3.55.1",
         "description": "Instrumentation library for Datadog APM.",
         "downloads": "108,115,252",
         "ranking": 303
@@ -2136,7 +2136,7 @@
     },
     {
         "name": "libphonenumber-csharp",
-        "version": "9.0.40",
+        "version": "9.0.41",
         "description": "C# port of Google's common Java, C++ and Javascript library for parsing, formatting, storing and validating international phone numbers. https://github.com/google/libphonenumber",
         "downloads": "106,212,990",
         "ranking": 306
@@ -2219,24 +2219,24 @@
         "ranking": 317
     },
     {
-        "name": "BouncyCastle.NetCore",
-        "version": "2.2.1",
-        "description": "a BouncyCastle redist package include .Net Framework and .Net Core/ Standard support",
-        "downloads": "99,093,172",
-        "ranking": 318
-    },
-    {
         "name": "HarfBuzzSharp",
         "version": "14.2.1.301",
         "description": "HarfBuzzSharp is a cross-platform OpenType text shaping engine for .NET platforms.",
         "downloads": "98,718,470",
-        "ranking": 319
+        "ranking": 318
     },
     {
         "name": "AspNetCore.HealthChecks.Redis",
         "version": "9.0.0",
         "description": "HealthChecks.Redis is the health check package for Redis.",
         "downloads": "98,025,012",
+        "ranking": 319
+    },
+    {
+        "name": "BouncyCastle.NetCore",
+        "version": "2.2.1",
+        "description": "a BouncyCastle redist package include .Net Framework and .Net Core/ Standard support",
+        "downloads": "99,093,172",
         "ranking": 320
     },
     {
@@ -2352,24 +2352,24 @@
         "ranking": 336
     },
     {
-        "name": "SpecFlow.Tools.MsBuild.Generation",
-        "version": "3.9.74",
-        "description": "Package to enable the code-behind file generation during build time http://specflow.org/documentation/Generate-Tests-from-MsBuild/",
-        "downloads": "91,864,502",
-        "ranking": 337
-    },
-    {
         "name": "JsonPointer.Net",
         "version": "7.0.3",
         "description": "JSON Pointer built on the System.Text.Json namespace",
         "downloads": "91,754,442",
+        "ranking": 337
+    },
+    {
+        "name": "NetTopologySuite.IO.SqlServerBytes",
+        "version": "2.1.0",
+        "description": "A SQL Server IO module for NTS which works directly with the serialization format",
+        "downloads": "91,059,429",
         "ranking": 338
     },
     {
-        "name": "Cake",
-        "version": "1.3.0",
-        "description": "The Cake script runner.",
-        "downloads": "91,702,663",
+        "name": "Google.Cloud.Iam.V1",
+        "version": "3.5.0",
+        "description": "gRPC services for the Google Identity and Access Management API. This library is typically used as a dependency for other API client libraries.",
+        "downloads": "90,561,640",
         "ranking": 339
     },
     {
@@ -2387,24 +2387,24 @@
         "ranking": 341
     },
     {
-        "name": "NetTopologySuite.IO.SqlServerBytes",
-        "version": "2.1.0",
-        "description": "A SQL Server IO module for NTS which works directly with the serialization format",
-        "downloads": "91,059,429",
+        "name": "SpecFlow.Tools.MsBuild.Generation",
+        "version": "3.9.74",
+        "description": "Package to enable the code-behind file generation during build time http://specflow.org/documentation/Generate-Tests-from-MsBuild/",
+        "downloads": "91,864,502",
         "ranking": 342
+    },
+    {
+        "name": "Cake",
+        "version": "1.3.0",
+        "description": "The Cake script runner.",
+        "downloads": "91,702,663",
+        "ranking": 343
     },
     {
         "name": "Syncfusion.Licensing",
         "version": "35.1.39",
         "description": "Syncfusion® licensing is a .NET library for validating the registered Syncfusion® license in an application at runtime. The Syncfusion® license must be registered in an application when using the Syncfusion®...\r\nMore information",
         "downloads": "90,574,821",
-        "ranking": 343
-    },
-    {
-        "name": "Google.Cloud.Iam.V1",
-        "version": "3.5.0",
-        "description": "gRPC services for the Google Identity and Access Management API. This library is typically used as a dependency for other API client libraries.",
-        "downloads": "90,561,640",
         "ranking": 344
     },
     {
@@ -2423,7 +2423,7 @@
     },
     {
         "name": "AWSSDK.KeyManagementService",
-        "version": "4.0.100.15",
+        "version": "4.0.100.16",
         "description": "AWS Key Management Service (KMS) is a managed service that makes it easy for you to create and control the encryption keys used to encrypt your data, and uses Hardware Security Modules (HSMs) to protect the...\r\nMore information",
         "downloads": "88,741,430",
         "ranking": 347
@@ -2450,73 +2450,73 @@
         "ranking": 350
     },
     {
-        "name": "ServiceStack.Text",
-        "version": "10.4.0",
-        "description": ".NET's fastest JSON, JSV and CSV Text Serializers. Fast, Light, Resilient.\n      Contains ServiceStack's high-performance text-processing powers, for more info see:...\r\nMore information",
-        "downloads": "87,730,496",
-        "ranking": 351
-    },
-    {
         "name": "LinqKit.Core",
         "version": "1.3.0",
         "description": "LinqKit.Core contains extensions for LINQ to SQL and Entity Framework. Note that Include(...), IAsync and IDbAsync are not supported.",
         "downloads": "87,269,061",
-        "ranking": 352
-    },
-    {
-        "name": "Swashbuckle.Core",
-        "version": "5.6.0",
-        "description": "Seamlessly adds a Swagger to WebApi projects!",
-        "downloads": "87,596,977",
-        "ranking": 353
-    },
-    {
-        "name": "Nito.AsyncEx",
-        "version": "5.1.2",
-        "description": "A helper library for the Task-Based Asynchronous Pattern (TAP).",
-        "downloads": "86,953,509",
-        "ranking": 354
-    },
-    {
-        "name": "SkiaSharp.NativeAssets.Linux",
-        "version": "4.153.1",
-        "description": "SkiaSharp.NativeAssets.Linux provides native runtime assets for SkiaSharp.",
-        "downloads": "86,743,977",
-        "ranking": 355
-    },
-    {
-        "name": "NServiceBus",
-        "version": "10.2.9",
-        "description": "Build, version, and monitor better microservices with the most powerful service platform for .NET",
-        "downloads": "86,507,179",
-        "ranking": 356
-    },
-    {
-        "name": "OpenTelemetry.PersistentStorage.FileSystem",
-        "version": "1.1.1",
-        "description": "OpenTelemetry Persistent Storage",
-        "downloads": "85,987,157",
-        "ranking": 357
-    },
-    {
-        "name": "OpenTelemetry.PersistentStorage.Abstractions",
-        "version": "1.1.1",
-        "description": "OpenTelemetry Persistent Storage Abstractions.",
-        "downloads": "85,712,813",
-        "ranking": 358
-    },
-    {
-        "name": "AutoFixture.Xunit2",
-        "version": "4.18.1",
-        "description": "By leveraging the data theory feature of xUnit.net, this extension turns AutoFixture into a declarative framework for writing unit tests. In many ways it becomes a unit testing DSL (Domain Specific Language).",
-        "downloads": "85,589,476",
-        "ranking": 359
+        "ranking": 351
     },
     {
         "name": "HarfBuzzSharp.NativeAssets.Win32",
         "version": "14.2.1.301",
         "description": "HarfBuzzSharp.NativeAssets.Win32 provides native runtime assets for HarfBuzzSharp.",
         "downloads": "85,394,800",
+        "ranking": 352
+    },
+    {
+        "name": "ServiceStack.Text",
+        "version": "10.4.0",
+        "description": ".NET's fastest JSON, JSV and CSV Text Serializers. Fast, Light, Resilient.\n      Contains ServiceStack's high-performance text-processing powers, for more info see:...\r\nMore information",
+        "downloads": "87,730,496",
+        "ranking": 353
+    },
+    {
+        "name": "Swashbuckle.Core",
+        "version": "5.6.0",
+        "description": "Seamlessly adds a Swagger to WebApi projects!",
+        "downloads": "87,596,977",
+        "ranking": 354
+    },
+    {
+        "name": "Nito.AsyncEx",
+        "version": "5.1.2",
+        "description": "A helper library for the Task-Based Asynchronous Pattern (TAP).",
+        "downloads": "86,953,509",
+        "ranking": 355
+    },
+    {
+        "name": "SkiaSharp.NativeAssets.Linux",
+        "version": "4.153.1",
+        "description": "SkiaSharp.NativeAssets.Linux provides native runtime assets for SkiaSharp.",
+        "downloads": "86,743,977",
+        "ranking": 356
+    },
+    {
+        "name": "NServiceBus",
+        "version": "10.2.9",
+        "description": "Build, version, and monitor better microservices with the most powerful service platform for .NET",
+        "downloads": "86,507,179",
+        "ranking": 357
+    },
+    {
+        "name": "OpenTelemetry.PersistentStorage.FileSystem",
+        "version": "1.1.1",
+        "description": "OpenTelemetry Persistent Storage",
+        "downloads": "85,987,157",
+        "ranking": 358
+    },
+    {
+        "name": "OpenTelemetry.PersistentStorage.Abstractions",
+        "version": "1.1.1",
+        "description": "OpenTelemetry Persistent Storage Abstractions.",
+        "downloads": "85,712,813",
+        "ranking": 359
+    },
+    {
+        "name": "AutoFixture.Xunit2",
+        "version": "4.18.1",
+        "description": "By leveraging the data theory feature of xUnit.net, this extension turns AutoFixture into a declarative framework for writing unit tests. In many ways it becomes a unit testing DSL (Domain Specific Language).",
+        "downloads": "85,589,476",
         "ranking": 360
     },
     {
@@ -2633,7 +2633,7 @@
     },
     {
         "name": "HotChocolate.Utilities",
-        "version": "16.6.7",
+        "version": "16.6.8",
         "description": "Contains internal helper classes and utilities used by the Hot Chocolate GraphQL type system and the GraphQL query execution engine.",
         "downloads": "81,280,931",
         "ranking": 377
@@ -2689,7 +2689,7 @@
     },
     {
         "name": "HotChocolate.Language.SyntaxTree",
-        "version": "16.6.7",
+        "version": "16.6.8",
         "description": "This package contains the abstract syntax tree that is used by the Hot Chocolate parsers.",
         "downloads": "79,505,355",
         "ranking": 385
@@ -2752,7 +2752,7 @@
     },
     {
         "name": "HotChocolate.Abstractions",
-        "version": "16.6.7",
+        "version": "16.6.8",
         "description": "Contains common abstractions used between the Hot Chocolate GraphQL type system and the GraphQL query execution engine.",
         "downloads": "77,622,185",
         "ranking": 394
@@ -2765,10 +2765,10 @@
         "ranking": 395
     },
     {
-        "name": "Elastic.Apm",
-        "version": "1.35.0",
-        "description": "Elastic APM .NET Agent base package. This package provides core functionality for transmitting \n    of all Elastic APM types and is a dependent package for all other Elastic APM package. \n    Additionally this...\r\nMore information",
-        "downloads": "77,086,646",
+        "name": "HotChocolate.Language",
+        "version": "16.6.8",
+        "description": "Contains the Hot Chocolate GraphQL parser and lexer. Also included are syntax visitor and syntax rewriter base classes.",
+        "downloads": "76,769,850",
         "ranking": 396
     },
     {
@@ -2786,24 +2786,24 @@
         "ranking": 398
     },
     {
+        "name": "Elastic.Apm",
+        "version": "1.35.0",
+        "description": "Elastic APM .NET Agent base package. This package provides core functionality for transmitting \n    of all Elastic APM types and is a dependent package for all other Elastic APM package. \n    Additionally this...\r\nMore information",
+        "downloads": "77,086,646",
+        "ranking": 399
+    },
+    {
         "name": "Nito.Cancellation",
         "version": "1.2.0",
         "description": "Helper types for working with cancellation tokens and sources.",
         "downloads": "76,965,299",
-        "ranking": 399
+        "ranking": 400
     },
     {
         "name": "OpenAI",
         "version": "2.14.0",
         "description": "The official .NET library for the OpenAI service API.",
         "downloads": "76,950,204",
-        "ranking": 400
-    },
-    {
-        "name": "HotChocolate.Language",
-        "version": "16.6.7",
-        "description": "Contains the Hot Chocolate GraphQL parser and lexer. Also included are syntax visitor and syntax rewriter base classes.",
-        "downloads": "76,769,850",
         "ranking": 401
     },
     {
@@ -2843,14 +2843,14 @@
     },
     {
         "name": "AWSSDK.SSO",
-        "version": "4.0.100.17",
+        "version": "4.0.100.18",
         "description": "This is an initial release of AWS Single Sign-On (SSO) end-user access. This release adds support for accessing AWS accounts assigned in AWS SSO using short term credentials.",
         "downloads": "75,920,627",
         "ranking": 407
     },
     {
         "name": "AWSSDK.SSOOIDC",
-        "version": "4.0.100.16",
+        "version": "4.0.100.17",
         "description": "This is an initial release of AWS Single Sign-On OAuth device code authorization service.",
         "downloads": "75,918,129",
         "ranking": 408
@@ -2864,14 +2864,14 @@
     },
     {
         "name": "AWSSDK.SimpleEmail",
-        "version": "4.0.100.15",
+        "version": "4.0.100.16",
         "description": "Amazon SES is an outbound-only email-sending service that provides an easy, cost-effective way for you to send email.",
         "downloads": "75,404,037",
         "ranking": 410
     },
     {
         "name": "HotChocolate.Types",
-        "version": "16.6.7",
+        "version": "16.6.8",
         "description": "Contains the Hot Chocolate GraphQL type system.",
         "downloads": "75,046,848",
         "ranking": 411
@@ -2975,24 +2975,24 @@
         "ranking": 425
     },
     {
+        "name": "GreenDonut",
+        "version": "16.6.8",
+        "description": "GreenDonut is a port of facebook's DataLoader utility, written in C# for .NET Core and .NET Framework.",
+        "downloads": "72,488,213",
+        "ranking": 426
+    },
+    {
         "name": "PDFsharp",
         "version": "6.2.4",
         "description": "PDFsharp is the Open Source library for creating and modifying PDF documents using .NET. It has an easy-to-use API that allows developers to generate or modify PDF files programmatically. PDFsharp can be used...\r\nMore information",
         "downloads": "72,945,075",
-        "ranking": 426
+        "ranking": 427
     },
     {
         "name": "DevExpress.Xpo.de",
         "version": "26.1.5",
         "description": "Target Platform/Framework: Desktop, Web, Mobile\nDevExpress Product Libraries Used: XPO (.NET ORM Library) (https://www.devexpress.com/xpo)\nAvailable in the following DevExpress Subscription(s): Universal,...\r\nMore information",
         "downloads": "72,869,113",
-        "ranking": 427
-    },
-    {
-        "name": "GreenDonut",
-        "version": "16.6.7",
-        "description": "GreenDonut is a port of facebook's DataLoader utility, written in C# for .NET Core and .NET Framework.",
-        "downloads": "72,488,213",
         "ranking": 428
     },
     {
@@ -3011,14 +3011,14 @@
     },
     {
         "name": "HotChocolate.Language.Utf8",
-        "version": "16.6.7",
+        "version": "16.6.8",
         "description": "This package contains the UTF8 based parsers of Hot Chocolate.",
         "downloads": "72,156,509",
         "ranking": 431
     },
     {
         "name": "HotChocolate.Language.Visitors",
-        "version": "16.6.7",
+        "version": "16.6.8",
         "description": "This package contains the UTF8 based parsers of Hot Chocolate.",
         "downloads": "72,090,075",
         "ranking": 432
@@ -3060,7 +3060,7 @@
     },
     {
         "name": "AWSSDK.CloudWatch",
-        "version": "4.0.105.1",
+        "version": "4.0.105.2",
         "description": "Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS. You can use Amazon CloudWatch to collect and track metrics, collect and monitor log files, and set alarms.",
         "downloads": "70,760,470",
         "ranking": 438
@@ -3109,7 +3109,7 @@
     },
     {
         "name": "HotChocolate.Validation",
-        "version": "16.6.7",
+        "version": "16.6.8",
         "description": "Package Description",
         "downloads": "68,363,661",
         "ranking": 445
@@ -3172,7 +3172,7 @@
     },
     {
         "name": "HotChocolate",
-        "version": "16.6.7",
+        "version": "16.6.8",
         "description": "Contains the Hot Chocolate GraphQL query execution engine and query validation.",
         "downloads": "65,963,511",
         "ranking": 454
@@ -3221,7 +3221,7 @@
     },
     {
         "name": "HotChocolate.Subscriptions",
-        "version": "16.6.7",
+        "version": "16.6.8",
         "description": "Contains Hot Chocolate GraphQL subscriptions abstractions.",
         "downloads": "65,052,385",
         "ranking": 461
@@ -3284,14 +3284,14 @@
     },
     {
         "name": "HotChocolate.Types.CursorPagination",
-        "version": "16.6.7",
+        "version": "16.6.8",
         "description": "Contains middleware and types for cursor based pagination.",
         "downloads": "62,885,189",
         "ranking": 470
     },
     {
         "name": "AWSSDK.CognitoIdentityProvider",
-        "version": "4.0.106",
+        "version": "4.0.106.1",
         "description": "You can create a user pool in Amazon Cognito Identity to manage directories and users. You can authenticate a user to obtain tokens related to user identity and access policies. This API reference provides...\r\nMore information",
         "downloads": "62,350,615",
         "ranking": 471
@@ -3333,7 +3333,7 @@
     },
     {
         "name": "AWSSDK.Kinesis",
-        "version": "4.0.104.1",
+        "version": "4.0.104.2",
         "description": "Amazon Kinesis is a fully managed, cloud-based service for real-time processing of large, distributed data streams.",
         "downloads": "61,298,477",
         "ranking": 477
@@ -3410,7 +3410,7 @@
     },
     {
         "name": "HotChocolate.AspNetCore",
-        "version": "16.6.7",
+        "version": "16.6.8",
         "description": "This package contains the GraphQL ASP.NET Core middleware for Hot Chocolate. Moreover, this package includes the Nitro middleware, which provides you with our beloved GraphQL IDE middleware.",
         "downloads": "58,939,723",
         "ranking": 488
@@ -3445,7 +3445,7 @@
     },
     {
         "name": "HotChocolate.Subscriptions.InMemory",
-        "version": "16.6.7",
+        "version": "16.6.8",
         "description": "Contains an in-memory implementation for a Hot Chocolate GraphQL subscription provider.",
         "downloads": "57,746,328",
         "ranking": 493
@@ -3514,31 +3514,31 @@
         "ranking": 502
     },
     {
-        "name": "WireMock.Net",
-        "version": "2.19.0",
-        "description": "Lightweight Http Mocking Server for .NET, inspired by WireMock from the Java landscape.",
-        "downloads": "55,668,985",
-        "ranking": 503
-    },
-    {
         "name": "HotChocolate.Types.Mutations",
-        "version": "16.6.7",
+        "version": "16.6.8",
         "description": "This package provides helpers for creating GraphQL mutations.",
         "downloads": "55,610,520",
-        "ranking": 504
+        "ranking": 503
     },
     {
         "name": "Cucumber.Messages",
         "version": "34.2.1",
         "description": "JSON schema-based messages for Cucumber's inter-process communication",
         "downloads": "55,502,493",
-        "ranking": 505
+        "ranking": 504
     },
     {
         "name": "AspNetCore.HealthChecks.UI",
         "version": "9.0.0",
         "description": "HealthChecks.UI is a ASP.NET Core UI viewer of ASP.NET Core HealthChecks. For more information see https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks",
         "downloads": "55,417,275",
+        "ranking": 505
+    },
+    {
+        "name": "Irony.NetCore",
+        "version": "1.1.11",
+        "description": "Irony.NetCore is a .NET Core compatible version of the Irony framework initially developed and maintained by Roman Ivantsov. Irony is a development kit for implementing languages on .NET platform. In Irony the...\r\nMore information",
+        "downloads": "55,225,002",
         "ranking": 506
     }
 ]

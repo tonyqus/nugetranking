@@ -617,7 +617,7 @@
     },
     {
         "name": "TimeZoneConverter",
-        "version": "7.2.0",
+        "version": "8.0.0",
         "description": "Lightweight library to convert quickly between IANA, Windows, and Rails time zone names.",
         "downloads": "335,257,496",
         "ranking": 89
@@ -1358,24 +1358,24 @@
         "ranking": 194
     },
     {
-        "name": "Humanizer.Core.cs",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Czech (cs)",
-        "downloads": "159,591,964",
-        "ranking": 195
-    },
-    {
         "name": "Asp.Versioning.Http",
         "version": "10.2.3",
         "description": "A service API versioning library for Microsoft ASP.NET Core.",
         "downloads": "158,922,960",
-        "ranking": 196
+        "ranking": 195
     },
     {
         "name": "Asp.Versioning.Abstractions",
         "version": "10.2.1",
         "description": "The abstractions library for API versioning.",
         "downloads": "158,853,526",
+        "ranking": 196
+    },
+    {
+        "name": "DocumentFormat.OpenXml.Framework",
+        "version": "3.5.1",
+        "description": "The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents. It supports scenarios such as:\n\n- High-performance generation of word-processing documents, spreadsheets, and...\r\nMore information",
+        "downloads": "154,701,151",
         "ranking": 197
     },
     {
@@ -1386,136 +1386,136 @@
         "ranking": 198
     },
     {
+        "name": "Humanizer.Core.cs",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Czech (cs)",
+        "downloads": "159,591,964",
+        "ranking": 199
+    },
+    {
         "name": "Humanizer.Core.da",
         "version": "3.0.10",
         "description": "Humanizer Locale Danish (da)",
         "downloads": "159,586,699",
-        "ranking": 199
+        "ranking": 200
     },
     {
         "name": "Humanizer.Core.id",
         "version": "3.0.10",
         "description": "Humanizer Locale Indonesian (id)",
         "downloads": "159,579,775",
-        "ranking": 200
+        "ranking": 201
     },
     {
         "name": "Humanizer.Core.tr",
         "version": "3.0.10",
         "description": "Humanizer Locale Turkish (tr)",
         "downloads": "159,552,840",
-        "ranking": 201
+        "ranking": 202
     },
     {
         "name": "Humanizer.Core.he",
         "version": "3.0.10",
         "description": "Humanizer Locale Hebrew (he)",
         "downloads": "159,550,846",
-        "ranking": 202
+        "ranking": 203
     },
     {
         "name": "Humanizer.Core.hr",
         "version": "3.0.10",
         "description": "Humanizer Locale Croatian (hr)",
         "downloads": "159,547,762",
-        "ranking": 203
+        "ranking": 204
     },
     {
         "name": "Humanizer.Core.el",
         "version": "3.0.10",
         "description": "Humanizer Locale Greek (el)",
         "downloads": "159,531,102",
-        "ranking": 204
+        "ranking": 205
     },
     {
         "name": "Humanizer.Core.ro",
         "version": "3.0.10",
         "description": "Humanizer Locale Romanian (ro)",
         "downloads": "159,522,946",
-        "ranking": 205
+        "ranking": 206
     },
     {
         "name": "Humanizer.Core.fa",
         "version": "3.0.10",
         "description": "Humanizer Locale Persian (fa)",
         "downloads": "159,516,066",
-        "ranking": 206
+        "ranking": 207
     },
     {
         "name": "Humanizer.Core.hu",
         "version": "3.0.10",
         "description": "Humanizer Locale Hungarian (hu)",
         "downloads": "159,507,313",
-        "ranking": 207
+        "ranking": 208
     },
     {
         "name": "Humanizer.Core.ar",
         "version": "3.0.10",
         "description": "Humanizer Locale Arabic (ar)",
         "downloads": "159,489,138",
-        "ranking": 208
+        "ranking": 209
     },
     {
         "name": "Humanizer.Core.nb",
         "version": "3.0.10",
         "description": "Humanizer Locale Norwegian Bokmål (nb)",
         "downloads": "159,478,780",
-        "ranking": 209
+        "ranking": 210
     },
     {
         "name": "Humanizer.Core.sk",
         "version": "3.0.10",
         "description": "Humanizer Locale Slovak (sk)",
         "downloads": "159,428,258",
-        "ranking": 210
+        "ranking": 211
     },
     {
         "name": "Humanizer.Core.uz-Cyrl-UZ",
         "version": "3.0.10",
         "description": "Humanizer Locale Uzbek (Cyrillic, Uzbekistan) (uz-Cyrl-UZ)",
         "downloads": "159,424,740",
-        "ranking": 211
+        "ranking": 212
     },
     {
         "name": "Humanizer.Core.sl",
         "version": "3.0.10",
         "description": "Humanizer Locale Slovenian (sl)",
         "downloads": "159,397,678",
-        "ranking": 212
+        "ranking": 213
     },
     {
         "name": "Humanizer.Core.bg",
         "version": "3.0.10",
         "description": "Humanizer Locale Bulgarian (bg)",
         "downloads": "159,396,791",
-        "ranking": 213
+        "ranking": 214
     },
     {
         "name": "Humanizer.Core.sr-Latn",
         "version": "3.0.10",
         "description": "Humanizer Locale Serbian (sr-Latn)",
         "downloads": "159,382,904",
-        "ranking": 214
+        "ranking": 215
     },
     {
         "name": "Humanizer.Core.vi",
         "version": "3.0.10",
         "description": "Humanizer Locale Vietnamese (vi)",
         "downloads": "159,382,356",
-        "ranking": 215
+        "ranking": 216
     },
     {
         "name": "Humanizer.Core.uz-Latn-UZ",
         "version": "3.0.10",
         "description": "Humanizer Locale Uzbek (Latin, Uzbekistan) (uz-Latn-UZ)",
         "downloads": "159,374,638",
-        "ranking": 216
-    },
-    {
-        "name": "DocumentFormat.OpenXml.Framework",
-        "version": "3.5.1",
-        "description": "The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents. It supports scenarios such as:\n\n- High-performance generation of word-processing documents, spreadsheets, and...\r\nMore information",
-        "downloads": "154,701,151",
         "ranking": 217
     },
     {
@@ -2072,45 +2072,45 @@
         "ranking": 296
     },
     {
-        "name": "Duende.AccessTokenManagement",
-        "version": "4.2.0",
-        "description": "Automatic access token management for OAuth client credential flows",
-        "downloads": "23,179,225",
-        "ranking": 297
-    },
-    {
         "name": "Duende.IdentityModel.OidcClient",
         "version": "7.1.0",
         "description": "RFC8252 compliant and certified OpenID Connect and OAuth 2.0 client library for native applications",
         "downloads": "3,833,605",
-        "ranking": 298
+        "ranking": 297
     },
     {
         "name": "SonarAnalyzer.CSharp",
         "version": "10.35.0.4138",
         "description": "Roslyn analyzers that spot Bugs, Vulnerabilities and Code Smells in your code. For an even better overall experience, you can use SonarQube for IDE (Visual Studio, Rider, see...\r\nMore information",
         "downloads": "110,884,575",
-        "ranking": 299
+        "ranking": 298
     },
     {
         "name": "Grpc",
         "version": "2.46.6",
         "description": "Metapackage for gRPC C#",
         "downloads": "110,232,831",
-        "ranking": 300
+        "ranking": 299
     },
     {
         "name": "Mono.Cecil",
         "version": "0.11.6",
         "description": "Cecil is a library written by Jb Evain to generate and inspect programs and libraries in the ECMA CIL format. It has full support for generics, and support some debugging symbol format. In simple English, with...\r\nMore information",
         "downloads": "107,932,697",
-        "ranking": 301
+        "ranking": 300
     },
     {
         "name": "Hangfire.NetCore",
         "version": "1.8.25",
         "description": ".NET Core's Worker Service host support for Hangfire, a background job framework for .NET applications.",
         "downloads": "107,384,313",
+        "ranking": 301
+    },
+    {
+        "name": "Duende.AccessTokenManagement",
+        "version": "4.2.0",
+        "description": "Automatic access token management for OAuth client credential flows",
+        "downloads": "23,179,225",
         "ranking": 302
     },
     {
@@ -2772,10 +2772,10 @@
         "ranking": 396
     },
     {
-        "name": "LaunchDarkly.InternalSdk",
-        "version": "3.11.1",
-        "description": "LaunchDarkly internal common code for .NET clients",
-        "downloads": "76,491,231",
+        "name": "AWSSDK.SSO",
+        "version": "4.0.100.18",
+        "description": "This is an initial release of AWS Single Sign-On (SSO) end-user access. This release adds support for accessing AWS accounts assigned in AWS SSO using short term credentials.",
+        "downloads": "75,920,627",
         "ranking": 397
     },
     {
@@ -2835,24 +2835,24 @@
         "ranking": 405
     },
     {
+        "name": "LaunchDarkly.InternalSdk",
+        "version": "3.11.1",
+        "description": "LaunchDarkly internal common code for .NET clients",
+        "downloads": "76,491,231",
+        "ranking": 406
+    },
+    {
         "name": "CompareNETObjects",
         "version": "4.84.0",
         "description": "What you have been waiting for. Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.",
         "downloads": "76,307,775",
-        "ranking": 406
+        "ranking": 407
     },
     {
         "name": "DogStatsD-CSharp-Client",
         "version": "9.2.1",
         "description": "A DogStatsD client library for .NET. DogStatsD is an extension of the StatsD metric server for use with Datadog. For more information visit https://datadoghq.com.",
         "downloads": "75,951,242",
-        "ranking": 407
-    },
-    {
-        "name": "AWSSDK.SSO",
-        "version": "4.0.100.18",
-        "description": "This is an initial release of AWS Single Sign-On (SSO) end-user access. This release adds support for accessing AWS accounts assigned in AWS SSO using short term credentials.",
-        "downloads": "75,920,627",
         "ranking": 408
     },
     {

@@ -92,7 +92,7 @@
     },
     {
         "name": "StackExchange.Redis",
-        "version": "3.3.1",
+        "version": "3.4.5",
         "description": "High performance Redis client, incorporating both synchronous and asynchronous usage.",
         "downloads": "1,232,403,451",
         "ranking": 14
@@ -833,24 +833,24 @@
         "ranking": 119
     },
     {
+        "name": "MySqlConnector",
+        "version": "2.6.2",
+        "description": "A truly async MySQL ADO.NET provider, supporting MySQL Server, MariaDB, Amazon Aurora, Azure Database for MySQL, Google Cloud SQL, and more.",
+        "downloads": "261,855,508",
+        "ranking": 120
+    },
+    {
         "name": "SQLitePCLRaw.provider.e_sqlite3",
         "version": "3.0.5",
         "description": "SQLitePCLRaw is a Portable Class Library (PCL) for low-level (raw) access to SQLite.  Packages named 'SQLitePCLRaw.provider.*' (like this one) are 'plugins' that allow SQLitePCLRaw.core to access the native...\r\nMore information",
         "downloads": "264,566,469",
-        "ranking": 120
+        "ranking": 121
     },
     {
         "name": "jQuery",
         "version": "3.7.1",
         "description": "jQuery is a new kind of JavaScript Library.\n        jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web...\r\nMore information",
         "downloads": "263,640,954",
-        "ranking": 121
-    },
-    {
-        "name": "MySqlConnector",
-        "version": "2.6.2",
-        "description": "A truly async MySQL ADO.NET provider, supporting MySQL Server, MariaDB, Amazon Aurora, Azure Database for MySQL, Google Cloud SQL, and more.",
-        "downloads": "261,855,508",
         "ranking": 122
     },
     {
@@ -862,7 +862,7 @@
     },
     {
         "name": "AWSSDK.SecretsManager",
-        "version": "4.0.100.17",
+        "version": "4.0.100.18",
         "description": "AWS Secrets Manager enables you to easily create and manage the secrets that you use in your customer-facing apps. Instead of embedding credentials into your source code, you can dynamically query Secrets...\r\nMore information",
         "downloads": "260,694,706",
         "ranking": 124
@@ -1128,7 +1128,7 @@
     },
     {
         "name": "Quartz",
-        "version": "4.4.0",
+        "version": "4.5.0",
         "description": "Quartz.NET job scheduler - cron, calendar and interval triggers, clustering over a persistent job store, and Microsoft.Extensions hosting, logging, options and dependency injection throughout. The core package:...\r\nMore information",
         "downloads": "185,458,906",
         "ranking": 162
@@ -1176,17 +1176,17 @@
         "ranking": 168
     },
     {
-        "name": "Cake.Tool",
-        "version": "6.3.0",
-        "description": "The Cake .NET Tool.",
-        "downloads": "173,322,356",
-        "ranking": 169
-    },
-    {
         "name": "Polly.Contrib.WaitAndRetry",
         "version": "1.1.1",
         "description": "Polly.Contrib.WaitAndRetry is an extension library for Polly containing helper methods for a variety of wait-and-retry strategies.",
         "downloads": "173,579,149",
+        "ranking": 169
+    },
+    {
+        "name": "Cake.Tool",
+        "version": "6.3.0",
+        "description": "The Cake .NET Tool.",
+        "downloads": "173,322,356",
         "ranking": 170
     },
     {
@@ -1254,7 +1254,7 @@
     },
     {
         "name": "KubernetesClient",
-        "version": "19.0.2",
+        "version": "21.0.8",
         "description": "Client library for the Kubernetes open source container orchestrator.",
         "downloads": "161,541,531",
         "ranking": 180
@@ -1757,24 +1757,24 @@
         "ranking": 251
     },
     {
-        "name": "Pomelo.EntityFrameworkCore.MySql",
-        "version": "9.0.0",
-        "description": "Pomelo's MySQL database provider for Entity Framework Core.",
-        "downloads": "139,380,538",
-        "ranking": 252
-    },
-    {
         "name": "AWSSDK.CloudWatchLogs",
         "version": "4.0.105.2",
         "description": "Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS. You can use Amazon CloudWatch to collect and track metrics, collect and monitor log files, and set alarms.",
         "downloads": "138,282,815",
-        "ranking": 253
+        "ranking": 252
     },
     {
         "name": "FSharp.Core",
-        "version": "10.1.401",
-        "description": "FSharp.Core redistributables from F# Tools version 15.2.401 For F# 10.0.  Contains code from the F# Software Foundation.",
+        "version": "10.1.402",
+        "description": "FSharp.Core redistributables from F# Tools version 15.2.402 For F# 10.0.  Contains code from the F# Software Foundation.",
         "downloads": "137,689,948",
+        "ranking": 253
+    },
+    {
+        "name": "Pomelo.EntityFrameworkCore.MySql",
+        "version": "9.0.0",
+        "description": "Pomelo's MySQL database provider for Entity Framework Core.",
+        "downloads": "139,380,538",
         "ranking": 254
     },
     {
@@ -1827,80 +1827,80 @@
         "ranking": 261
     },
     {
-        "name": "Asp.Versioning.Mvc.ApiExplorer",
-        "version": "10.2.1",
-        "description": "The API Explorer extensions for ASP.NET Core API Versioning.",
-        "downloads": "128,659,765",
-        "ranking": 262
-    },
-    {
         "name": "Oracle.ManagedDataAccess.Core",
         "version": "23.26.301",
         "description": "Oracle Data Provider for .NET (ODP.NET) Core is a multi-platform ADO.NET driver that provides fast data access from Microsoft .NET (Core) clients to Oracle databases. ODP.NET Core consists of a single 100%...\r\nMore information",
         "downloads": "133,211,340",
-        "ranking": 263
+        "ranking": 262
     },
     {
         "name": "Serilog.Sinks.RollingFile",
         "version": "3.3.0",
         "description": "The rolling file sink for Serilog - Simple .NET logging with fully-structured events",
         "downloads": "131,494,114",
-        "ranking": 264
+        "ranking": 263
     },
     {
         "name": "Google.Apis.Storage.v1",
         "version": "1.77.0.4290",
         "description": "This is not the recommended package for working with Storage, please use the Google.Cloud.Storage.V1 package.\n      This Google APIs Client Library for working with Storage v1 uses older code generation, and is...\r\nMore information",
         "downloads": "129,779,081",
-        "ranking": 265
+        "ranking": 264
     },
     {
         "name": "jQuery.Validation",
         "version": "1.21.0",
         "description": "This jQuery plugin makes simple clientside form validation trivial, while offering lots of option for customization. That makes a good choice if you’re building something new from scratch, but also when you’re...\r\nMore information",
         "downloads": "129,147,330",
-        "ranking": 266
+        "ranking": 265
     },
     {
         "name": "Shouldly",
         "version": "4.3.0",
         "description": "Shouldly - Assertion framework for .NET. The way asserting *Should* be",
         "downloads": "129,135,741",
-        "ranking": 267
+        "ranking": 266
     },
     {
         "name": "Flurl.Http",
         "version": "4.0.2",
         "description": "A fluent, testable HTTP client library.",
         "downloads": "129,021,624",
-        "ranking": 268
+        "ranking": 267
     },
     {
         "name": "Selenium.Support",
         "version": "4.51.0",
         "description": "Selenium is a set of different software tools each with a different approach to supporting browser automation. These tools are highly flexible, allowing many options for locating and manipulating elements...\r\nMore information",
         "downloads": "128,793,342",
-        "ranking": 269
+        "ranking": 268
     },
     {
         "name": "dotnet-ef",
-        "version": "10.0.12",
+        "version": "10.0.13",
         "description": "Entity Framework Core Tools for the .NET Command-Line Interface.\n\n      Enables these commonly used dotnet-ef commands:\n      dotnet ef migrations add\n      dotnet ef migrations list\n      dotnet ef migrations...\r\nMore information",
         "downloads": "128,764,344",
-        "ranking": 270
+        "ranking": 269
     },
     {
         "name": "NJsonSchema.Annotations",
         "version": "11.6.1",
         "description": "JSON Schema reader, generator and validator for .NET",
         "downloads": "128,720,016",
-        "ranking": 271
+        "ranking": 270
     },
     {
         "name": "morelinq",
         "version": "4.4.0",
         "description": "This project enhances LINQ to Objects with the following methods: Acquire, Aggregate (some EXPERIMENTAL), AggregateRight, Append, Assert, AssertCount, AtLeast, AtMost, Await (EXPERIMENTAL), AwaitCompletion...\r\nMore information",
         "downloads": "128,681,151",
+        "ranking": 271
+    },
+    {
+        "name": "Asp.Versioning.Mvc.ApiExplorer",
+        "version": "10.2.1",
+        "description": "The API Explorer extensions for ASP.NET Core API Versioning.",
+        "downloads": "128,659,765",
         "ranking": 272
     },
     {
@@ -1974,24 +1974,24 @@
         "ranking": 282
     },
     {
-        "name": "Unity",
-        "version": "5.11.10",
-        "description": "This package contains Unity Container and Abstractions libraries as a single package.",
-        "downloads": "120,926,529",
-        "ranking": 283
-    },
-    {
         "name": "Google.Cloud.Storage.V1",
         "version": "5.0.0",
         "description": "Recommended Google client library to access the Google Cloud Storage API. It wraps the Google.Apis.Storage.v1 client library, making common operations simpler in client code. Google Cloud Storage stores and...\r\nMore information",
         "downloads": "120,491,913",
-        "ranking": 284
+        "ranking": 283
     },
     {
         "name": "dotnet-reportgenerator-globaltool",
         "version": "5.5.11",
         "description": "ReportGenerator converts coverage reports generated by coverlet, OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov, or lcov into human readable reports in various formats. The reports...\r\nMore information",
         "downloads": "119,929,749",
+        "ranking": 284
+    },
+    {
+        "name": "Unity",
+        "version": "5.11.10",
+        "description": "This package contains Unity Container and Abstractions libraries as a single package.",
+        "downloads": "120,926,529",
         "ranking": 285
     },
     {
@@ -2093,24 +2093,24 @@
         "ranking": 299
     },
     {
-        "name": "Datadog.Trace",
-        "version": "3.55.1",
-        "description": "Instrumentation library for Datadog APM.",
-        "downloads": "108,115,252",
-        "ranking": 300
-    },
-    {
         "name": "Mono.Cecil",
         "version": "0.11.6",
         "description": "Cecil is a library written by Jb Evain to generate and inspect programs and libraries in the ECMA CIL format. It has full support for generics, and support some debugging symbol format. In simple English, with...\r\nMore information",
         "downloads": "107,932,697",
-        "ranking": 301
+        "ranking": 300
     },
     {
         "name": "Hangfire.NetCore",
         "version": "1.8.25",
         "description": ".NET Core's Worker Service host support for Hangfire, a background job framework for .NET applications.",
         "downloads": "107,384,313",
+        "ranking": 301
+    },
+    {
+        "name": "Json.More.Net",
+        "version": "3.0.1",
+        "description": "Provides extended functionality for the System.Text.Json namespace.",
+        "downloads": "104,667,483",
         "ranking": 302
     },
     {
@@ -2121,45 +2121,45 @@
         "ranking": 303
     },
     {
+        "name": "Datadog.Trace",
+        "version": "3.55.1",
+        "description": "Instrumentation library for Datadog APM.",
+        "downloads": "108,115,252",
+        "ranking": 304
+    },
+    {
         "name": "Amazon.Lambda.Serialization.SystemTextJson",
         "version": "3.0.1",
         "description": "Amazon Lambda .NET Core support - Serialization.Json with System.Text.Json.",
         "downloads": "107,768,045",
-        "ranking": 304
+        "ranking": 305
     },
     {
         "name": "AutoFixture.AutoMoq",
         "version": "4.18.1",
         "description": "This extension turns AutoFixture into an Auto-Mocking Container. The mock instances are created by Moq. To use it, add the AutoMoqCustomization to your Fixture instance. Read more at...\r\nMore information",
         "downloads": "106,974,958",
-        "ranking": 305
+        "ranking": 306
     },
     {
         "name": "libphonenumber-csharp",
         "version": "9.0.41",
         "description": "C# port of Google's common Java, C++ and Javascript library for parsing, formatting, storing and validating international phone numbers. https://github.com/google/libphonenumber",
         "downloads": "106,212,990",
-        "ranking": 306
+        "ranking": 307
     },
     {
         "name": "Hangfire",
         "version": "1.8.25",
         "description": "An easy and reliable way to perform fire-and-forget, delayed and recurring, long-running, short-running, CPU or I/O intensive tasks inside ASP.NET applications. No Windows Service / Task Scheduler required....\r\nMore information",
         "downloads": "105,303,228",
-        "ranking": 307
+        "ranking": 308
     },
     {
         "name": "Validation",
         "version": "2.6.68",
         "description": "Method input validation and runtime checks that report errors or throw exceptions when failures are detected.",
         "downloads": "105,293,392",
-        "ranking": 308
-    },
-    {
-        "name": "Json.More.Net",
-        "version": "3.0.1",
-        "description": "Provides extended functionality for the System.Text.Json namespace.",
-        "downloads": "104,667,483",
         "ranking": 309
     },
     {
@@ -2170,38 +2170,38 @@
         "ranking": 310
     },
     {
-        "name": "Gherkin",
-        "version": "42.0.1",
-        "description": "Cross-platform parser for the Gherkin language, used by Cucumber, SpecFlow and other Cucumber-based tools to parse feature files.",
-        "downloads": "102,542,078",
-        "ranking": 311
-    },
-    {
         "name": "Duende.IdentityServer",
         "version": "8.0.9",
         "description": "OpenID Connect and OAuth 2.0 Framework for ASP.NET Core",
         "downloads": "28,193,278",
-        "ranking": 312
+        "ranking": 311
     },
     {
         "name": "Duende.AspNetCore.Authentication.OAuth2Introspection",
         "version": "7.0.1",
         "description": "ASP.NET Core authentication handler for validating tokens using OAuth 2.0 introspection",
         "downloads": "864,345",
-        "ranking": 313
+        "ranking": 312
     },
     {
         "name": "SkiaSharp.NativeAssets.Linux.NoDependencies",
         "version": "4.153.1",
         "description": "SkiaSharp.NativeAssets.Linux.NoDependencies provides native runtime assets for SkiaSharp.",
         "downloads": "103,536,630",
-        "ranking": 314
+        "ranking": 313
     },
     {
         "name": "Stripe.net",
         "version": "53.0.0",
         "description": "Stripe.net is a sync/async client and portable class library for the Stripe API, supporting .NET Standard 2.0+, .NET Core 8+, and .NET Framework 4.6.2+. (Official Library)",
         "downloads": "102,935,772",
+        "ranking": 314
+    },
+    {
+        "name": "Gherkin",
+        "version": "42.0.1",
+        "description": "Cross-platform parser for the Gherkin language, used by Cucumber, SpecFlow and other Cucumber-based tools to parse feature files.",
+        "downloads": "102,542,078",
         "ranking": 315
     },
     {
@@ -2423,7 +2423,7 @@
     },
     {
         "name": "Quartz.Extensions.DependencyInjection",
-        "version": "4.4.0",
+        "version": "4.5.0",
         "description": "Folded into Quartz in 4.0: AddQuartz, QuartzOptions and the rest live in the Quartz package now. This package is empty and exists only so a grouped dependency update can move to 4.x - remove the reference, and...\r\nMore information",
         "downloads": "89,673,955",
         "ranking": 347
@@ -2626,7 +2626,7 @@
     },
     {
         "name": "Quartz.Extensions.Hosting",
-        "version": "4.4.0",
+        "version": "4.5.0",
         "description": "Folded into Quartz in 4.0: AddQuartzHostedService, QuartzHostedService and QuartzHostedServiceOptions live in the Quartz package now. This package is empty and exists only so a grouped dependency update can...\r\nMore information",
         "downloads": "81,453,881",
         "ranking": 376
@@ -2751,24 +2751,24 @@
         "ranking": 393
     },
     {
+        "name": "HotChocolate.Language",
+        "version": "16.6.8",
+        "description": "Contains the Hot Chocolate GraphQL parser and lexer. Also included are syntax visitor and syntax rewriter base classes.",
+        "downloads": "76,769,850",
+        "ranking": 394
+    },
+    {
         "name": "DistributedLock.Core",
         "version": "1.0.9",
         "description": "Core interfaces and utilities that support the DistributedLock.* family of packages",
         "downloads": "76,709,072",
-        "ranking": 394
+        "ranking": 395
     },
     {
         "name": "AWSSDK.SSO",
         "version": "4.0.100.19",
         "description": "This is an initial release of AWS Single Sign-On (SSO) end-user access. This release adds support for accessing AWS accounts assigned in AWS SSO using short term credentials.",
         "downloads": "75,920,627",
-        "ranking": 395
-    },
-    {
-        "name": "AWSSDK.SSOOIDC",
-        "version": "4.0.100.18",
-        "description": "This is an initial release of AWS Single Sign-On OAuth device code authorization service.",
-        "downloads": "75,918,129",
         "ranking": 396
     },
     {
@@ -2828,45 +2828,45 @@
         "ranking": 404
     },
     {
-        "name": "HotChocolate.Language",
-        "version": "16.6.8",
-        "description": "Contains the Hot Chocolate GraphQL parser and lexer. Also included are syntax visitor and syntax rewriter base classes.",
-        "downloads": "76,769,850",
-        "ranking": 405
-    },
-    {
         "name": "Semver",
         "version": "3.0.0",
         "description": "A semantic version library fully compliant with v2.0.0 of the spec found at http://semver.org.",
         "downloads": "76,736,347",
-        "ranking": 406
+        "ranking": 405
     },
     {
         "name": "Nito.AsyncEx.Oop",
         "version": "5.1.2",
         "description": "Interfaces and utility methods for combining async with OOP.",
         "downloads": "76,630,868",
-        "ranking": 407
+        "ranking": 406
     },
     {
         "name": "LaunchDarkly.InternalSdk",
         "version": "3.11.1",
         "description": "LaunchDarkly internal common code for .NET clients",
         "downloads": "76,491,231",
-        "ranking": 408
+        "ranking": 407
     },
     {
         "name": "CompareNETObjects",
         "version": "4.84.0",
         "description": "What you have been waiting for. Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.",
         "downloads": "76,307,775",
-        "ranking": 409
+        "ranking": 408
     },
     {
         "name": "DogStatsD-CSharp-Client",
         "version": "9.2.1",
         "description": "A DogStatsD client library for .NET. DogStatsD is an extension of the StatsD metric server for use with Datadog. For more information visit https://datadoghq.com.",
         "downloads": "75,951,242",
+        "ranking": 409
+    },
+    {
+        "name": "AWSSDK.SSOOIDC",
+        "version": "4.0.100.18",
+        "description": "This is an initial release of AWS Single Sign-On OAuth device code authorization service.",
+        "downloads": "75,918,129",
         "ranking": 410
     },
     {

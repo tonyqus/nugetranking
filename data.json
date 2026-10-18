@@ -1072,7 +1072,7 @@
     },
     {
         "name": "Refit",
-        "version": "16.3.0",
+        "version": "16.4.0",
         "description": "Type-safe REST API clients for .NET, generated from annotated interfaces with build-time source generation, direct request construction, System.Text.Json defaults, and support for trimming and AOT.",
         "downloads": "195,904,079",
         "ranking": 154
@@ -1989,7 +1989,7 @@
     },
     {
         "name": "Refit.HttpClientFactory",
-        "version": "16.3.0",
+        "version": "16.4.0",
         "description": "Microsoft.Extensions.Http integration for Refit, adding AddRefitClient support for typed HttpClientFactory clients, dependency injection, handlers, and Polly-style HTTP pipelines.",
         "downloads": "121,707,921",
         "ranking": 285
@@ -2821,59 +2821,59 @@
         "ranking": 403
     },
     {
-        "name": "Semver",
-        "version": "3.0.0",
-        "description": "A semantic version library fully compliant with v2.0.0 of the spec found at http://semver.org.",
-        "downloads": "76,736,347",
-        "ranking": 404
-    },
-    {
         "name": "Nito.AsyncEx.Oop",
         "version": "5.1.2",
         "description": "Interfaces and utility methods for combining async with OOP.",
         "downloads": "76,630,868",
-        "ranking": 405
+        "ranking": 404
     },
     {
         "name": "LaunchDarkly.InternalSdk",
         "version": "3.11.1",
         "description": "LaunchDarkly internal common code for .NET clients",
         "downloads": "76,491,231",
-        "ranking": 406
+        "ranking": 405
     },
     {
         "name": "CompareNETObjects",
         "version": "4.84.0",
         "description": "What you have been waiting for. Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.",
         "downloads": "76,307,775",
-        "ranking": 407
+        "ranking": 406
     },
     {
         "name": "DogStatsD-CSharp-Client",
         "version": "9.2.1",
         "description": "A DogStatsD client library for .NET. DogStatsD is an extension of the StatsD metric server for use with Datadog. For more information visit https://datadoghq.com.",
         "downloads": "75,951,242",
-        "ranking": 408
+        "ranking": 407
     },
     {
         "name": "AWSSDK.SSO",
         "version": "4.0.100.20",
         "description": "This is an initial release of AWS Single Sign-On (SSO) end-user access. This release adds support for accessing AWS accounts assigned in AWS SSO using short term credentials.",
         "downloads": "75,920,627",
-        "ranking": 409
+        "ranking": 408
     },
     {
         "name": "AWSSDK.SSOOIDC",
         "version": "4.0.100.19",
         "description": "This is an initial release of AWS Single Sign-On OAuth device code authorization service.",
         "downloads": "75,918,129",
-        "ranking": 410
+        "ranking": 409
     },
     {
         "name": "jose-jwt",
         "version": "5.3.0",
         "description": "Javascript Object Signing and Encryption (JOSE), JSON Web Token (JWT), JSON Web Encryption (JWE) and JSON Web Key (JWK) Implementation for .NET\n\nUltimate Javascript Object Signing and Encryption (JOSE), JSON...\r\nMore information",
         "downloads": "75,530,683",
+        "ranking": 410
+    },
+    {
+        "name": "AWSSDK.SimpleEmail",
+        "version": "4.0.100.18",
+        "description": "Amazon SES is an outbound-only email-sending service that provides an easy, cost-effective way for you to send email.",
+        "downloads": "75,404,037",
         "ranking": 411
     },
     {
@@ -2905,17 +2905,17 @@
         "ranking": 415
     },
     {
+        "name": "Semver",
+        "version": "3.0.0",
+        "description": "A semantic version library fully compliant with v2.0.0 of the spec found at http://semver.org.",
+        "downloads": "76,736,347",
+        "ranking": 416
+    },
+    {
         "name": "SharpYaml",
         "version": "3.16.0",
         "description": "A high-performance .NET YAML library providing parsing and serialization of object graphs, NativeAOT ready.",
         "downloads": "75,832,196",
-        "ranking": 416
-    },
-    {
-        "name": "AWSSDK.SimpleEmail",
-        "version": "4.0.100.18",
-        "description": "Amazon SES is an outbound-only email-sending service that provides an easy, cost-effective way for you to send email.",
-        "downloads": "75,404,037",
         "ranking": 417
     },
     {
@@ -3388,24 +3388,24 @@
         "ranking": 484
     },
     {
-        "name": "Spectre.Console",
-        "version": "0.57.2",
-        "description": "A library that makes it easier to create beautiful console applications.",
-        "downloads": "60,055,819",
-        "ranking": 485
-    },
-    {
         "name": "Handlebars.Net.Helpers",
         "version": "2.5.5",
         "description": "Several Handlebars.Net helpers in the categories: 'Boolean', 'Constants', 'DateTime', 'Path', 'Enumerable', 'Environment', 'Math', 'Regex', 'String' and 'Urls'.",
         "downloads": "59,601,691",
-        "ranking": 486
+        "ranking": 485
     },
     {
         "name": "HotChocolate.AspNetCore",
         "version": "16.6.8",
         "description": "This package contains the GraphQL ASP.NET Core middleware for Hot Chocolate. Moreover, this package includes the Nitro middleware, which provides you with our beloved GraphQL IDE middleware.",
         "downloads": "58,939,723",
+        "ranking": 486
+    },
+    {
+        "name": "Spectre.Console",
+        "version": "0.57.2",
+        "description": "A library that makes it easier to create beautiful console applications.",
+        "downloads": "60,055,819",
         "ranking": 487
     },
     {
@@ -3465,38 +3465,38 @@
         "ranking": 495
     },
     {
+        "name": "FirebaseAdmin",
+        "version": "3.7.0",
+        "description": "Firebase Admin SDK enables server-side .NET developers to integrate Firebase into their\n      services and applications.",
+        "downloads": "56,505,363",
+        "ranking": 496
+    },
+    {
         "name": "xunit.v3.runner.common",
         "version": "4.0.2",
         "description": "Includes common code shared between in-process runners (like xunit.v3.runner.inproc.console) and xunit.v3.runner.utility (used by 1st and 3rd party external runners). Supports .NET Standard 2.0 or later.",
         "downloads": "57,808,456",
-        "ranking": 496
+        "ranking": 497
     },
     {
         "name": "RandomDataGenerator.Net",
         "version": "1.0.19.1",
         "description": "This is a configurable generator to create random data like Lorum Ipsum Text, Words, Text Patterns, First/Last Names, IP-Addresses, Guids, DateTime and more.",
         "downloads": "57,275,226",
-        "ranking": 497
+        "ranking": 498
     },
     {
         "name": "xunit.v3.runner.inproc.console",
         "version": "4.0.2",
         "description": "In-process console runner for xUnit.net framework, providing the entrypoint for self-executing unit tests. Supports .NET Framework 4.7.2 or later, and .NET 8 or later.",
         "downloads": "57,256,431",
-        "ranking": 498
+        "ranking": 499
     },
     {
         "name": "SkiaSharp.HarfBuzz",
         "version": "4.153.1",
         "description": "This package adds text shaping support to SkiaSharp via HarfBuzz.",
         "downloads": "56,937,509",
-        "ranking": 499
-    },
-    {
-        "name": "FirebaseAdmin",
-        "version": "3.7.0",
-        "description": "Firebase Admin SDK enables server-side .NET developers to integrate Firebase into their\n      services and applications.",
-        "downloads": "56,505,363",
         "ranking": 500
     },
     {

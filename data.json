@@ -1260,101 +1260,101 @@
         "ranking": 180
     },
     {
-        "name": "Nito.AsyncEx.Coordination",
-        "version": "5.1.2",
-        "description": "Asynchronous coordination primitives.",
-        "downloads": "162,024,792",
-        "ranking": 181
-    },
-    {
         "name": "Humanizer.Core.fr",
         "version": "3.0.10",
         "description": "Humanizer Locale French (fr)",
         "downloads": "161,283,743",
-        "ranking": 182
+        "ranking": 181
     },
     {
         "name": "Humanizer.Core.de",
         "version": "3.0.10",
         "description": "Humanizer Locale German (de)",
         "downloads": "161,031,247",
-        "ranking": 183
+        "ranking": 182
     },
     {
         "name": "Humanizer.Core.es",
         "version": "3.0.10",
         "description": "Humanizer Locale Spanish (es)",
         "downloads": "160,960,918",
-        "ranking": 184
+        "ranking": 183
     },
     {
         "name": "Humanizer.Core.ru",
         "version": "3.0.10",
         "description": "Humanizer Locale Russian (ru)",
         "downloads": "160,667,918",
-        "ranking": 185
+        "ranking": 184
     },
     {
         "name": "DiffEngine",
         "version": "20.8.2",
         "description": "Launches diff tools based on file extensions. Designed to be consumed by snapshot testing libraries.",
         "downloads": "160,439,222",
-        "ranking": 186
+        "ranking": 185
     },
     {
         "name": "Humanizer.Core.pt",
         "version": "3.0.10",
         "description": "Humanizer Locale Portuguese (pt)",
         "downloads": "160,326,184",
-        "ranking": 187
+        "ranking": 186
     },
     {
         "name": "Humanizer.Core.zh-CN",
         "version": "3.0.10",
         "description": "Humanizer Locale Chinese (China) (zh-CN)",
         "downloads": "160,121,444",
-        "ranking": 188
+        "ranking": 187
     },
     {
         "name": "Humanizer.Core.it",
         "version": "3.0.10",
         "description": "Humanizer Locale Italian (it)",
         "downloads": "159,999,227",
-        "ranking": 189
+        "ranking": 188
     },
     {
         "name": "Humanizer.Core.nl",
         "version": "3.0.10",
         "description": "Humanizer Locale Dutch (nl)",
         "downloads": "159,988,144",
-        "ranking": 190
+        "ranking": 189
     },
     {
         "name": "Humanizer.Core.zh-Hans",
         "version": "3.0.10",
         "description": "Humanizer Locale Chinese (zh-Hans)",
         "downloads": "159,874,875",
-        "ranking": 191
+        "ranking": 190
     },
     {
         "name": "Humanizer.Core.zh-Hant",
         "version": "3.0.10",
         "description": "Humanizer Locale Chinese (zh-Hant)",
         "downloads": "159,841,053",
-        "ranking": 192
+        "ranking": 191
     },
     {
         "name": "Humanizer.Core.pl",
         "version": "3.0.10",
         "description": "Humanizer Locale Polish (pl)",
         "downloads": "159,766,759",
-        "ranking": 193
+        "ranking": 192
     },
     {
         "name": "Humanizer.Core.ja",
         "version": "3.0.10",
         "description": "Humanizer Locale Japanese (ja)",
         "downloads": "159,709,680",
+        "ranking": 193
+    },
+    {
+        "name": "Humanizer.Core.sv",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Swedish (sv)",
+        "downloads": "159,641,402",
         "ranking": 194
     },
     {
@@ -1379,10 +1379,10 @@
         "ranking": 197
     },
     {
-        "name": "Humanizer.Core.sv",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Swedish (sv)",
-        "downloads": "159,641,402",
+        "name": "Nito.AsyncEx.Coordination",
+        "version": "5.1.2",
+        "description": "Asynchronous coordination primitives.",
+        "downloads": "162,024,792",
         "ranking": 198
     },
     {
@@ -2625,164 +2625,164 @@
         "ranking": 375
     },
     {
-        "name": "Quartz.Extensions.Hosting",
-        "version": "4.5.1",
-        "description": "Folded into Quartz in 4.0: AddQuartzHostedService, QuartzHostedService and QuartzHostedServiceOptions live in the Quartz package now. This package is empty and exists only so a grouped dependency update can...\r\nMore information",
-        "downloads": "81,453,881",
-        "ranking": 376
-    },
-    {
         "name": "HotChocolate.Utilities",
         "version": "16.6.8",
         "description": "Contains internal helper classes and utilities used by the Hot Chocolate GraphQL type system and the GraphQL query execution engine.",
         "downloads": "81,280,931",
-        "ranking": 377
+        "ranking": 376
     },
     {
         "name": "Google.LongRunning",
         "version": "3.5.0",
         "description": "gRPC services for the Google Long Running Operations API. This library is typically used as a dependency for other API client libraries.",
         "downloads": "80,953,599",
-        "ranking": 378
+        "ranking": 377
     },
     {
         "name": "NewId",
         "version": "4.0.1",
         "description": "NewId is an ordered 128-bit unique identifier generator using the Flake algorithm.",
         "downloads": "80,731,794",
-        "ranking": 379
+        "ranking": 378
     },
     {
         "name": "AspNetCore.HealthChecks.NpgSql",
         "version": "9.0.0",
         "description": "HealthChecks.NpgSql is a health check for Postgress Sql.",
         "downloads": "80,667,193",
-        "ranking": 380
+        "ranking": 379
     },
     {
         "name": "Markdig",
         "version": "1.4.1",
         "description": "Markdig is a fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.",
         "downloads": "80,078,625",
-        "ranking": 381
+        "ranking": 380
     },
     {
         "name": "Amazon.Lambda.APIGatewayEvents",
         "version": "3.0.1",
         "description": "Amazon Lambda .NET Core support - API Gateway package.",
         "downloads": "79,915,885",
-        "ranking": 382
+        "ranking": 381
     },
     {
         "name": "Docker.DotNet",
         "version": "3.125.15",
         "description": "Docker.DotNet is a library that allows you to interact with the Docker Remote API programmatically with fully asynchronous, non-blocking and object-oriented code in your .NET applications.",
         "downloads": "79,510,204",
-        "ranking": 383
+        "ranking": 382
     },
     {
         "name": "HotChocolate.Language.SyntaxTree",
         "version": "16.6.8",
         "description": "This package contains the abstract syntax tree that is used by the Hot Chocolate parsers.",
         "downloads": "79,505,355",
-        "ranking": 384
+        "ranking": 383
     },
     {
         "name": "OpenAI",
         "version": "2.14.0",
         "description": "The official .NET library for the OpenAI service API.",
         "downloads": "76,950,204",
-        "ranking": 385
+        "ranking": 384
     },
     {
         "name": "Docker.DotNet.Enhanced",
         "version": "4.3.3",
         "description": "A .NET client for the Docker Engine API (v29.4.1) with fully asynchronous, non-blocking, object-oriented APIs.",
         "downloads": "72,597,782",
-        "ranking": 386
-    },
-    {
-        "name": "Yarp.ReverseProxy",
-        "version": "2.3.0",
-        "description": "Reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET",
-        "downloads": "80,786,454",
-        "ranking": 387
-    },
-    {
-        "name": "Perfolizer",
-        "version": "0.7.5",
-        "description": "Performance analysis toolkit",
-        "downloads": "79,794,776",
-        "ranking": 388
-    },
-    {
-        "name": "Amazon.Lambda.SQSEvents",
-        "version": "3.0.1",
-        "description": "Amazon Lambda .NET Core support - SQSEvents package.",
-        "downloads": "79,166,242",
-        "ranking": 389
-    },
-    {
-        "name": "ExcelDataReader.DataSet",
-        "version": "3.9.0",
-        "description": "ExcelDataReader extension for reading Microsoft Excel files into System.Data.DataSet.",
-        "downloads": "78,641,286",
-        "ranking": 390
-    },
-    {
-        "name": "dotnet-sonarscanner",
-        "version": "12.0.0",
-        "description": "The SonarScanner for .NET allows easy analysis of any .NET project with SonarQube Server and Cloud.",
-        "downloads": "78,591,345",
-        "ranking": 391
-    },
-    {
-        "name": "LaunchDarkly.Cache",
-        "version": "1.0.2",
-        "description": "LaunchDarkly .NET Cache Library",
-        "downloads": "78,577,932",
-        "ranking": 392
-    },
-    {
-        "name": "MathNet.Numerics",
-        "version": "5.0.0",
-        "description": "Math.NET Numerics is the numerical foundation of the Math.NET project, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. Supports .NET 5.0 or higher,...\r\nMore information",
-        "downloads": "78,061,521",
-        "ranking": 393
-    },
-    {
-        "name": "Octokit",
-        "version": "14.0.0",
-        "description": "An async-based GitHub API client library for .NET and .NET Core",
-        "downloads": "78,023,252",
-        "ranking": 394
-    },
-    {
-        "name": "HotChocolate.Abstractions",
-        "version": "16.6.8",
-        "description": "Contains common abstractions used between the Hot Chocolate GraphQL type system and the GraphQL query execution engine.",
-        "downloads": "77,622,185",
-        "ranking": 395
-    },
-    {
-        "name": "Enums.NET",
-        "version": "5.0.0",
-        "description": "Enums.NET is a high-performance type-safe .NET enum utility library",
-        "downloads": "77,163,189",
-        "ranking": 396
-    },
-    {
-        "name": "DistributedLock.Core",
-        "version": "1.0.9",
-        "description": "Core interfaces and utilities that support the DistributedLock.* family of packages",
-        "downloads": "76,709,072",
-        "ranking": 397
+        "ranking": 385
     },
     {
         "name": "Docker.DotNet.Enhanced.X509",
         "version": "4.3.3",
         "description": "A Docker.DotNet extension that adds X.509 client certificate authentication for remote Docker Engine connections.",
         "downloads": "72,346,831",
+        "ranking": 386
+    },
+    {
+        "name": "Quartz.Extensions.Hosting",
+        "version": "4.5.1",
+        "description": "Folded into Quartz in 4.0: AddQuartzHostedService, QuartzHostedService and QuartzHostedServiceOptions live in the Quartz package now. This package is empty and exists only so a grouped dependency update can...\r\nMore information",
+        "downloads": "81,453,881",
+        "ranking": 387
+    },
+    {
+        "name": "Yarp.ReverseProxy",
+        "version": "2.3.0",
+        "description": "Reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET",
+        "downloads": "80,786,454",
+        "ranking": 388
+    },
+    {
+        "name": "Perfolizer",
+        "version": "0.7.5",
+        "description": "Performance analysis toolkit",
+        "downloads": "79,794,776",
+        "ranking": 389
+    },
+    {
+        "name": "Amazon.Lambda.SQSEvents",
+        "version": "3.0.1",
+        "description": "Amazon Lambda .NET Core support - SQSEvents package.",
+        "downloads": "79,166,242",
+        "ranking": 390
+    },
+    {
+        "name": "ExcelDataReader.DataSet",
+        "version": "3.9.0",
+        "description": "ExcelDataReader extension for reading Microsoft Excel files into System.Data.DataSet.",
+        "downloads": "78,641,286",
+        "ranking": 391
+    },
+    {
+        "name": "dotnet-sonarscanner",
+        "version": "12.0.0",
+        "description": "The SonarScanner for .NET allows easy analysis of any .NET project with SonarQube Server and Cloud.",
+        "downloads": "78,591,345",
+        "ranking": 392
+    },
+    {
+        "name": "LaunchDarkly.Cache",
+        "version": "1.0.2",
+        "description": "LaunchDarkly .NET Cache Library",
+        "downloads": "78,577,932",
+        "ranking": 393
+    },
+    {
+        "name": "MathNet.Numerics",
+        "version": "5.0.0",
+        "description": "Math.NET Numerics is the numerical foundation of the Math.NET project, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. Supports .NET 5.0 or higher,...\r\nMore information",
+        "downloads": "78,061,521",
+        "ranking": 394
+    },
+    {
+        "name": "Octokit",
+        "version": "14.0.0",
+        "description": "An async-based GitHub API client library for .NET and .NET Core",
+        "downloads": "78,023,252",
+        "ranking": 395
+    },
+    {
+        "name": "HotChocolate.Abstractions",
+        "version": "16.6.8",
+        "description": "Contains common abstractions used between the Hot Chocolate GraphQL type system and the GraphQL query execution engine.",
+        "downloads": "77,622,185",
+        "ranking": 396
+    },
+    {
+        "name": "Enums.NET",
+        "version": "5.0.0",
+        "description": "Enums.NET is a high-performance type-safe .NET enum utility library",
+        "downloads": "77,163,189",
+        "ranking": 397
+    },
+    {
+        "name": "DistributedLock.Core",
+        "version": "1.0.9",
+        "description": "Core interfaces and utilities that support the DistributedLock.* family of packages",
+        "downloads": "76,709,072",
         "ranking": 398
     },
     {
@@ -2982,10 +2982,10 @@
         "ranking": 426
     },
     {
-        "name": "HotChocolate.Language.Visitors",
-        "version": "16.6.8",
-        "description": "This package contains the UTF8 based parsers of Hot Chocolate.",
-        "downloads": "72,090,075",
+        "name": "Cronos",
+        "version": "0.13.0",
+        "description": "A fully-featured .NET library for parsing cron expressions and calculating next occurrences that was designed with time zones in mind and correctly handles daylight saving time transitions.",
+        "downloads": "70,530,297",
         "ranking": 427
     },
     {
@@ -3024,45 +3024,45 @@
         "ranking": 432
     },
     {
+        "name": "HotChocolate.Language.Visitors",
+        "version": "16.6.8",
+        "description": "This package contains the UTF8 based parsers of Hot Chocolate.",
+        "downloads": "72,090,075",
+        "ranking": 433
+    },
+    {
         "name": "Amazon.Extensions.Configuration.SystemsManager",
         "version": "7.1.1",
         "description": ".NET Configuration Extensions for AWS Systems Manager",
         "downloads": "71,939,380",
-        "ranking": 433
+        "ranking": 434
     },
     {
         "name": "MiniProfiler.Shared",
         "version": "4.5.4",
         "description": "You shouldn't reference this - MiniProfiler's shared library for all frameworks",
         "downloads": "71,911,829",
-        "ranking": 434
+        "ranking": 435
     },
     {
         "name": "xunit.v3.extensibility.core",
         "version": "4.0.2",
         "description": "Includes the core library (xunit.v3.core.dll), to be used for extensibility; test authors should include xunit.v3.core instead. Supports .NET Standard 2.0 or later.",
         "downloads": "71,721,747",
-        "ranking": 435
+        "ranking": 436
     },
     {
         "name": "Z.EntityFramework.Extensions.EFCore",
         "version": "10.105.9",
         "description": "Microsoft.EntityFrameworkCore Extension Methods\n\nEntity Framework Extensions extends your DbContext with high-performance bulk operations: BulkSaveChanges, BulkInsert, BulkUpdate, BulkDelete, BulkMerge, and...\r\nMore information",
         "downloads": "71,460,827",
-        "ranking": 436
+        "ranking": 437
     },
     {
         "name": "AWSSDK.CloudWatch",
         "version": "4.0.105.4",
         "description": "Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS. You can use Amazon CloudWatch to collect and track metrics, collect and monitor log files, and set alarms.",
         "downloads": "70,760,470",
-        "ranking": 437
-    },
-    {
-        "name": "Cronos",
-        "version": "0.13.0",
-        "description": "A fully-featured .NET library for parsing cron expressions and calculating next occurrences that was designed with time zones in mind and correctly handles daylight saving time transitions.",
-        "downloads": "70,530,297",
         "ranking": 438
     },
     {
@@ -3311,73 +3311,73 @@
         "ranking": 473
     },
     {
-        "name": "Handlebars.Net.Helpers.Core",
-        "version": "2.5.5",
-        "description": "Core functionality for Handlebars.Net.Helpers",
-        "downloads": "60,603,180",
-        "ranking": 474
-    },
-    {
         "name": "App.Metrics.Formatters.Ascii",
         "version": "4.3.0",
         "description": "App Metrics Formatters for metrics and environment data to plain text.",
         "downloads": "62,233,860",
-        "ranking": 475
+        "ranking": 474
     },
     {
         "name": "jQuery.UI.Combined",
         "version": "1.14.1",
         "description": "jQuery UI is an open source library of interface components — interactions, full-featured widgets, and animation effects — based on the stellar jQuery javascript library . Each component is built according to...\r\nMore information",
         "downloads": "62,046,194",
-        "ranking": 476
+        "ranking": 475
     },
     {
         "name": "Antlr3.Runtime",
         "version": "3.5.1",
         "description": "The runtime library for parsers generated by the C# target of ANTLR 3. This package supports projects targeting .NET 2.0 or newer, and built using Visual Studio 2008 or newer.",
         "downloads": "61,444,430",
-        "ranking": 477
+        "ranking": 476
     },
     {
         "name": "AWSSDK.Kinesis",
         "version": "4.0.104.4",
         "description": "Amazon Kinesis is a fully managed, cloud-based service for real-time processing of large, distributed data streams.",
         "downloads": "61,298,477",
-        "ranking": 478
+        "ranking": 477
     },
     {
         "name": "Sitecore.FakeDb",
         "version": "2.0.1",
         "description": "Unit testing framework for Sitecore.",
         "downloads": "61,074,880",
-        "ranking": 479
+        "ranking": 478
     },
     {
         "name": "GraphQL.Client.Abstractions",
         "version": "6.1.0",
         "description": "Abstractions for GraphQL.Client",
         "downloads": "61,018,684",
-        "ranking": 480
+        "ranking": 479
     },
     {
         "name": "Roslynator.Analyzers",
         "version": "5.0.1",
         "description": "A collection of 200+ analyzers for C#, powered by Roslyn.",
         "downloads": "60,942,153",
-        "ranking": 481
+        "ranking": 480
     },
     {
         "name": "GraphQL.Client.Abstractions.Websocket",
         "version": "6.1.0",
         "description": "Abstractions for the Websocket transport used in GraphQL.Client",
         "downloads": "60,759,511",
-        "ranking": 482
+        "ranking": 481
     },
     {
         "name": "LazyCache",
         "version": "2.4.0",
         "description": "Lazy cache is a simple, thread safe, in-memory caching library that makes it easy to add high performance caching to your dotnet app.",
         "downloads": "60,682,866",
+        "ranking": 482
+    },
+    {
+        "name": "Handlebars.Net.Helpers.Core",
+        "version": "2.5.5",
+        "description": "Core functionality for Handlebars.Net.Helpers",
+        "downloads": "60,603,180",
         "ranking": 483
     },
     {
@@ -3500,52 +3500,45 @@
         "ranking": 500
     },
     {
-        "name": "SpecFlow.Internal.Json",
-        "version": "1.0.8",
-        "description": "A really simple C# JSON parser.",
-        "downloads": "56,317,621",
-        "ranking": 501
-    },
-    {
         "name": "HotChocolate.Types.Mutations",
         "version": "16.6.8",
         "description": "This package provides helpers for creating GraphQL mutations.",
         "downloads": "55,610,520",
-        "ranking": 502
+        "ranking": 501
     },
     {
         "name": "Cucumber.Messages",
         "version": "34.2.1",
         "description": "JSON schema-based messages for Cucumber's inter-process communication",
         "downloads": "55,502,493",
-        "ranking": 503
+        "ranking": 502
     },
     {
         "name": "AspNetCore.HealthChecks.UI",
         "version": "9.0.0",
         "description": "HealthChecks.UI is a ASP.NET Core UI viewer of ASP.NET Core HealthChecks. For more information see https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks",
         "downloads": "55,417,275",
-        "ranking": 504
+        "ranking": 503
     },
     {
         "name": "GraphQL.NewtonsoftJson",
         "version": "8.8.5",
         "description": "JSON.NET serializer for GraphQL.NET",
         "downloads": "54,652,432",
-        "ranking": 505
+        "ranking": 504
     },
     {
         "name": "AWSSDK.AppConfigData",
         "version": "4.0.100.19",
         "description": "AWS AppConfig Data is a new service that allows you to retrieve configuration deployed by AWS AppConfig. See the AppConfig user guide for more details on getting started....\r\nMore information",
         "downloads": "54,605,166",
-        "ranking": 506
+        "ranking": 505
     },
     {
         "name": "JsonSchema.Net",
         "version": "9.4.1",
         "description": "JSON Schema built on the System.Text.Json namespace",
         "downloads": "52,777,526",
-        "ranking": 507
+        "ranking": 506
     }
 ]

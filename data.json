@@ -204,7 +204,7 @@
     },
     {
         "name": "OpenTelemetry.Api",
-        "version": "1.20.0",
+        "version": "1.20.1",
         "description": "OpenTelemetry .NET API",
         "downloads": "860,811,732",
         "ranking": 30
@@ -253,7 +253,7 @@
     },
     {
         "name": "OpenTelemetry",
-        "version": "1.20.0",
+        "version": "1.20.1",
         "description": "OpenTelemetry .NET SDK",
         "downloads": "697,918,753",
         "ranking": 37
@@ -274,7 +274,7 @@
     },
     {
         "name": "OpenTelemetry.Api.ProviderBuilderExtensions",
-        "version": "1.20.0",
+        "version": "1.20.1",
         "description": "Contains extensions to register OpenTelemetry in applications using Microsoft.Extensions.DependencyInjection",
         "downloads": "662,572,987",
         "ranking": 40
@@ -428,7 +428,7 @@
     },
     {
         "name": "OpenTelemetry.Extensions.Hosting",
-        "version": "1.20.0",
+        "version": "1.20.1",
         "description": "Contains extensions to start OpenTelemetry in applications using Microsoft.Extensions.Hosting",
         "downloads": "460,593,117",
         "ranking": 62
@@ -533,14 +533,14 @@
     },
     {
         "name": "SharpCompress",
-        "version": "0.50.6",
+        "version": "0.50.7",
         "description": "SharpCompress is a compression library for NET 4.8/NET Standard 2.0/NET Standard 2.1/NET 5.0/NET 6.0/NET 7.0/NET 8.0/NET 9.0/NET 10.0 that can unrar, decompress 7zip, decompress xz, zip/unzip, tar/untar...\r\nMore information",
         "downloads": "384,871,859",
         "ranking": 77
     },
     {
         "name": "OpenTelemetry.Exporter.OpenTelemetryProtocol",
-        "version": "1.20.0",
+        "version": "1.20.1",
         "description": "OpenTelemetry protocol exporter for OpenTelemetry .NET",
         "downloads": "371,556,978",
         "ranking": 78
@@ -827,16 +827,16 @@
     },
     {
         "name": "AWSSDK.DynamoDBv2",
-        "version": "4.0.108",
+        "version": "4.0.109",
         "description": "Amazon DynamoDB is a fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency at any scale.",
         "downloads": "264,443,906",
         "ranking": 119
     },
     {
-        "name": "MySqlConnector",
-        "version": "2.6.2",
-        "description": "A truly async MySQL ADO.NET provider, supporting MySQL Server, MariaDB, Amazon Aurora, Azure Database for MySQL, Google Cloud SQL, and more.",
-        "downloads": "261,855,508",
+        "name": "AWSSDK.SecretsManager",
+        "version": "4.0.100.20",
+        "description": "AWS Secrets Manager enables you to easily create and manage the secrets that you use in your customer-facing apps. Instead of embedding credentials into your source code, you can dynamically query Secrets...\r\nMore information",
+        "downloads": "260,694,706",
         "ranking": 120
     },
     {
@@ -854,17 +854,17 @@
         "ranking": 122
     },
     {
+        "name": "MySqlConnector",
+        "version": "2.6.2",
+        "description": "A truly async MySQL ADO.NET provider, supporting MySQL Server, MariaDB, Amazon Aurora, Azure Database for MySQL, Google Cloud SQL, and more.",
+        "downloads": "261,855,508",
+        "ranking": 123
+    },
+    {
         "name": "CommandLineParser",
         "version": "2.9.1",
         "description": "Terse syntax C# command line parser for .NET.  For FSharp support see CommandLineParser.FSharp.  The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command line...\r\nMore information",
         "downloads": "261,349,620",
-        "ranking": 123
-    },
-    {
-        "name": "AWSSDK.SecretsManager",
-        "version": "4.0.100.20",
-        "description": "AWS Secrets Manager enables you to easily create and manage the secrets that you use in your customer-facing apps. Instead of embedding credentials into your source code, you can dynamically query Secrets...\r\nMore information",
-        "downloads": "260,694,706",
         "ranking": 124
     },
     {
@@ -903,24 +903,24 @@
         "ranking": 129
     },
     {
-        "name": "SendGrid",
-        "version": "9.29.3",
-        "description": "C# client library and examples for using Twilio SendGrid API's to send mail and access Web API v3 endpoints with .NET Standard 1.3 and .NET Core support.",
-        "downloads": "247,281,238",
-        "ranking": 130
-    },
-    {
         "name": "NetTopologySuite",
         "version": "2.6.0",
         "description": "The NTS Topology Suite is an API for modelling and manipulating 2-dimensional linear geometry. It provides numerous geometric predicates and functions. NTS conforms to the Simple Features Specification.",
         "downloads": "244,602,927",
-        "ranking": 131
+        "ranking": 130
     },
     {
         "name": "Google.Api.CommonProtos",
         "version": "2.17.0",
         "description": "Common Protocol Buffer messages for Google APIs",
         "downloads": "239,797,122",
+        "ranking": 131
+    },
+    {
+        "name": "SendGrid",
+        "version": "9.29.3",
+        "description": "C# client library and examples for using Twilio SendGrid API's to send mail and access Web API v3 endpoints with .NET Standard 1.3 and .NET Core support.",
+        "downloads": "247,281,238",
         "ranking": 132
     },
     {
@@ -1100,7 +1100,7 @@
     },
     {
         "name": "OpenTelemetry.Exporter.Console",
-        "version": "1.20.0",
+        "version": "1.20.1",
         "description": "Console exporter for OpenTelemetry .NET",
         "downloads": "190,404,800",
         "ranking": 158
@@ -1233,7 +1233,7 @@
     },
     {
         "name": "AngleSharp.Css",
-        "version": "1.1.3",
+        "version": "1.1.4",
         "description": "Extends the CSSOM from the core AngleSharp library.",
         "downloads": "162,903,292",
         "ranking": 177
@@ -1246,115 +1246,115 @@
         "ranking": 178
     },
     {
+        "name": "DocumentFormat.OpenXml.Framework",
+        "version": "3.5.1",
+        "description": "The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents. It supports scenarios such as:\n\n- High-performance generation of word-processing documents, spreadsheets, and...\r\nMore information",
+        "downloads": "154,701,151",
+        "ranking": 179
+    },
+    {
         "name": "Nito.AsyncEx.Context",
         "version": "5.1.2",
         "description": "A single-threaded async-compatible context.",
         "downloads": "165,207,750",
-        "ranking": 179
+        "ranking": 180
     },
     {
         "name": "AspNetCore.HealthChecks.UI.Core",
         "version": "9.0.0",
         "description": "HealthChecks.UI.Core package containing builder and model definitions",
         "downloads": "163,477,866",
-        "ranking": 180
+        "ranking": 181
     },
     {
         "name": "Humanizer.Core.fr",
         "version": "3.0.10",
         "description": "Humanizer Locale French (fr)",
         "downloads": "161,283,743",
-        "ranking": 181
+        "ranking": 182
     },
     {
         "name": "Humanizer.Core.de",
         "version": "3.0.10",
         "description": "Humanizer Locale German (de)",
         "downloads": "161,031,247",
-        "ranking": 182
+        "ranking": 183
     },
     {
         "name": "Humanizer.Core.es",
         "version": "3.0.10",
         "description": "Humanizer Locale Spanish (es)",
         "downloads": "160,960,918",
-        "ranking": 183
+        "ranking": 184
     },
     {
         "name": "Humanizer.Core.ru",
         "version": "3.0.10",
         "description": "Humanizer Locale Russian (ru)",
         "downloads": "160,667,918",
-        "ranking": 184
+        "ranking": 185
     },
     {
         "name": "DiffEngine",
         "version": "20.8.2",
         "description": "Launches diff tools based on file extensions. Designed to be consumed by snapshot testing libraries.",
         "downloads": "160,439,222",
-        "ranking": 185
+        "ranking": 186
     },
     {
         "name": "Humanizer.Core.pt",
         "version": "3.0.10",
         "description": "Humanizer Locale Portuguese (pt)",
         "downloads": "160,326,184",
-        "ranking": 186
+        "ranking": 187
     },
     {
         "name": "Humanizer.Core.zh-CN",
         "version": "3.0.10",
         "description": "Humanizer Locale Chinese (China) (zh-CN)",
         "downloads": "160,121,444",
-        "ranking": 187
+        "ranking": 188
     },
     {
         "name": "Humanizer.Core.it",
         "version": "3.0.10",
         "description": "Humanizer Locale Italian (it)",
         "downloads": "159,999,227",
-        "ranking": 188
+        "ranking": 189
     },
     {
         "name": "Humanizer.Core.nl",
         "version": "3.0.10",
         "description": "Humanizer Locale Dutch (nl)",
         "downloads": "159,988,144",
-        "ranking": 189
+        "ranking": 190
     },
     {
         "name": "Humanizer.Core.zh-Hans",
         "version": "3.0.10",
         "description": "Humanizer Locale Chinese (zh-Hans)",
         "downloads": "159,874,875",
-        "ranking": 190
+        "ranking": 191
     },
     {
         "name": "Humanizer.Core.zh-Hant",
         "version": "3.0.10",
         "description": "Humanizer Locale Chinese (zh-Hant)",
         "downloads": "159,841,053",
-        "ranking": 191
+        "ranking": 192
     },
     {
         "name": "Humanizer.Core.pl",
         "version": "3.0.10",
         "description": "Humanizer Locale Polish (pl)",
         "downloads": "159,766,759",
-        "ranking": 192
+        "ranking": 193
     },
     {
         "name": "Humanizer.Core.ja",
         "version": "3.0.10",
         "description": "Humanizer Locale Japanese (ja)",
         "downloads": "159,709,680",
-        "ranking": 193
-    },
-    {
-        "name": "Humanizer.Core.sv",
-        "version": "3.0.10",
-        "description": "Humanizer Locale Swedish (sv)",
-        "downloads": "159,641,402",
         "ranking": 194
     },
     {
@@ -1372,157 +1372,157 @@
         "ranking": 196
     },
     {
-        "name": "DocumentFormat.OpenXml.Framework",
-        "version": "3.5.1",
-        "description": "The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents. It supports scenarios such as:\n\n- High-performance generation of word-processing documents, spreadsheets, and...\r\nMore information",
-        "downloads": "154,701,151",
+        "name": "Humanizer.Core.sv",
+        "version": "3.0.10",
+        "description": "Humanizer Locale Swedish (sv)",
+        "downloads": "159,641,402",
         "ranking": 197
-    },
-    {
-        "name": "Nito.AsyncEx.Coordination",
-        "version": "5.1.2",
-        "description": "Asynchronous coordination primitives.",
-        "downloads": "162,024,792",
-        "ranking": 198
     },
     {
         "name": "Humanizer.Core.cs",
         "version": "3.0.10",
         "description": "Humanizer Locale Czech (cs)",
         "downloads": "159,591,964",
-        "ranking": 199
+        "ranking": 198
     },
     {
         "name": "Humanizer.Core.da",
         "version": "3.0.10",
         "description": "Humanizer Locale Danish (da)",
         "downloads": "159,586,699",
-        "ranking": 200
+        "ranking": 199
     },
     {
         "name": "Humanizer.Core.id",
         "version": "3.0.10",
         "description": "Humanizer Locale Indonesian (id)",
         "downloads": "159,579,775",
-        "ranking": 201
+        "ranking": 200
     },
     {
         "name": "Humanizer.Core.tr",
         "version": "3.0.10",
         "description": "Humanizer Locale Turkish (tr)",
         "downloads": "159,552,840",
-        "ranking": 202
+        "ranking": 201
     },
     {
         "name": "Humanizer.Core.he",
         "version": "3.0.10",
         "description": "Humanizer Locale Hebrew (he)",
         "downloads": "159,550,846",
-        "ranking": 203
+        "ranking": 202
     },
     {
         "name": "Humanizer.Core.hr",
         "version": "3.0.10",
         "description": "Humanizer Locale Croatian (hr)",
         "downloads": "159,547,762",
-        "ranking": 204
+        "ranking": 203
     },
     {
         "name": "Humanizer.Core.el",
         "version": "3.0.10",
         "description": "Humanizer Locale Greek (el)",
         "downloads": "159,531,102",
-        "ranking": 205
+        "ranking": 204
     },
     {
         "name": "Humanizer.Core.ro",
         "version": "3.0.10",
         "description": "Humanizer Locale Romanian (ro)",
         "downloads": "159,522,946",
-        "ranking": 206
+        "ranking": 205
     },
     {
         "name": "Humanizer.Core.fa",
         "version": "3.0.10",
         "description": "Humanizer Locale Persian (fa)",
         "downloads": "159,516,066",
-        "ranking": 207
+        "ranking": 206
     },
     {
         "name": "Humanizer.Core.hu",
         "version": "3.0.10",
         "description": "Humanizer Locale Hungarian (hu)",
         "downloads": "159,507,313",
-        "ranking": 208
+        "ranking": 207
     },
     {
         "name": "Humanizer.Core.ar",
         "version": "3.0.10",
         "description": "Humanizer Locale Arabic (ar)",
         "downloads": "159,489,138",
-        "ranking": 209
+        "ranking": 208
     },
     {
         "name": "Humanizer.Core.nb",
         "version": "3.0.10",
         "description": "Humanizer Locale Norwegian Bokmål (nb)",
         "downloads": "159,478,780",
-        "ranking": 210
+        "ranking": 209
     },
     {
         "name": "Humanizer.Core.sk",
         "version": "3.0.10",
         "description": "Humanizer Locale Slovak (sk)",
         "downloads": "159,428,258",
-        "ranking": 211
+        "ranking": 210
     },
     {
         "name": "Humanizer.Core.uz-Cyrl-UZ",
         "version": "3.0.10",
         "description": "Humanizer Locale Uzbek (Cyrillic, Uzbekistan) (uz-Cyrl-UZ)",
         "downloads": "159,424,740",
-        "ranking": 212
+        "ranking": 211
     },
     {
         "name": "Humanizer.Core.sl",
         "version": "3.0.10",
         "description": "Humanizer Locale Slovenian (sl)",
         "downloads": "159,397,678",
-        "ranking": 213
+        "ranking": 212
     },
     {
         "name": "Humanizer.Core.bg",
         "version": "3.0.10",
         "description": "Humanizer Locale Bulgarian (bg)",
         "downloads": "159,396,791",
-        "ranking": 214
+        "ranking": 213
     },
     {
         "name": "Humanizer.Core.sr-Latn",
         "version": "3.0.10",
         "description": "Humanizer Locale Serbian (sr-Latn)",
         "downloads": "159,382,904",
-        "ranking": 215
+        "ranking": 214
     },
     {
         "name": "Humanizer.Core.vi",
         "version": "3.0.10",
         "description": "Humanizer Locale Vietnamese (vi)",
         "downloads": "159,382,356",
-        "ranking": 216
+        "ranking": 215
     },
     {
         "name": "Humanizer.Core.uz-Latn-UZ",
         "version": "3.0.10",
         "description": "Humanizer Locale Uzbek (Latin, Uzbekistan) (uz-Latn-UZ)",
         "downloads": "159,374,638",
-        "ranking": 217
+        "ranking": 216
     },
     {
         "name": "Serilog.Sinks.ApplicationInsights",
         "version": "5.0.1",
         "description": "Serilog sink for Application Insights.",
         "downloads": "162,331,420",
+        "ranking": 217
+    },
+    {
+        "name": "Nito.AsyncEx.Coordination",
+        "version": "5.1.2",
+        "description": "Asynchronous coordination primitives.",
+        "downloads": "162,024,792",
         "ranking": 218
     },
     {
@@ -1561,66 +1561,66 @@
         "ranking": 223
     },
     {
-        "name": "SshNet.Security.Cryptography",
-        "version": "1.3.0",
-        "description": "Cryptographic functions for .NET",
-        "downloads": "158,893,221",
-        "ranking": 224
-    },
-    {
         "name": "Humanizer.Core.lv",
         "version": "3.0.10",
         "description": "Humanizer Locale Latvian (lv)",
         "downloads": "158,693,287",
-        "ranking": 225
+        "ranking": 224
     },
     {
         "name": "Humanizer.Core.mt",
         "version": "3.0.10",
         "description": "Humanizer Locale Maltese (mt)",
         "downloads": "155,974,910",
-        "ranking": 226
+        "ranking": 225
     },
     {
         "name": "EmptyFiles",
         "version": "8.20.1",
         "description": "A collection of minimal binary files.",
         "downloads": "154,951,246",
-        "ranking": 227
+        "ranking": 226
     },
     {
         "name": "Humanizer.Core.nb-NO",
         "version": "2.14.1",
         "description": "Humanizer Locale Norwegian Bokmål (Norway) (nb-NO)",
         "downloads": "154,534,300",
-        "ranking": 228
+        "ranking": 227
     },
     {
         "name": "Humanizer.Core.fi-FI",
         "version": "2.14.1",
         "description": "Humanizer Locale Finnish (Finland) (fi-FI)",
         "downloads": "154,498,041",
-        "ranking": 229
+        "ranking": 228
     },
     {
         "name": "Humanizer.Core.fr-BE",
         "version": "2.14.1",
         "description": "Humanizer Locale French (Belgium) (fr-BE)",
         "downloads": "154,476,452",
-        "ranking": 230
+        "ranking": 229
     },
     {
         "name": "Humanizer.Core.bn-BD",
         "version": "2.14.1",
         "description": "Humanizer Locale Bangla (Bangladesh) (bn-BD)",
         "downloads": "154,374,922",
-        "ranking": 231
+        "ranking": 230
     },
     {
         "name": "Asp.Versioning.Mvc",
         "version": "10.2.1",
         "description": "A service API versioning library for Microsoft ASP.NET Core MVC.",
         "downloads": "153,557,037",
+        "ranking": 231
+    },
+    {
+        "name": "SshNet.Security.Cryptography",
+        "version": "1.3.0",
+        "description": "Cryptographic functions for .NET",
+        "downloads": "158,893,221",
         "ranking": 232
     },
     {
@@ -1835,7 +1835,7 @@
     },
     {
         "name": "Oracle.ManagedDataAccess.Core",
-        "version": "23.26.301",
+        "version": "23.26.400",
         "description": "Oracle Data Provider for .NET (ODP.NET) Core is a multi-platform ADO.NET driver that provides fast data access from Microsoft .NET (Core) clients to Oracle databases. ODP.NET Core consists of a single 100%...\r\nMore information",
         "downloads": "133,211,340",
         "ranking": 263
@@ -2584,7 +2584,7 @@
     },
     {
         "name": "Selenium.WebDriver.ChromeDriver",
-        "version": "155.0.8059.8400",
+        "version": "156.0.8078.1200",
         "description": "Install Chrome Driver (Win32, macOS, macOS arm64, and Linux64) for Selenium WebDriver into your Unit Test Project.\n      \"chromedriver(.exe)\" is copied to the bin folder from the package folder when the build...\r\nMore information",
         "downloads": "83,501,674",
         "ranking": 370
@@ -2772,24 +2772,24 @@
         "ranking": 396
     },
     {
-        "name": "Enums.NET",
-        "version": "5.0.0",
-        "description": "Enums.NET is a high-performance type-safe .NET enum utility library",
-        "downloads": "77,163,189",
-        "ranking": 397
-    },
-    {
         "name": "DistributedLock.Core",
         "version": "1.0.9",
         "description": "Core interfaces and utilities that support the DistributedLock.* family of packages",
         "downloads": "76,709,072",
-        "ranking": 398
+        "ranking": 397
     },
     {
         "name": "AWSSDK.SSO",
         "version": "4.0.100.21",
         "description": "This is an initial release of AWS Single Sign-On (SSO) end-user access. This release adds support for accessing AWS accounts assigned in AWS SSO using short term credentials.",
         "downloads": "75,920,627",
+        "ranking": 398
+    },
+    {
+        "name": "MSTest.Analyzers",
+        "version": "4.5.1",
+        "description": "This package includes code analyzers and code fixes for MSTest.\n\nMSTest is Microsoft supported Test Framework.",
+        "downloads": "74,123,972",
         "ranking": 399
     },
     {
@@ -2807,94 +2807,94 @@
         "ranking": 401
     },
     {
+        "name": "Enums.NET",
+        "version": "5.0.0",
+        "description": "Enums.NET is a high-performance type-safe .NET enum utility library",
+        "downloads": "77,163,189",
+        "ranking": 402
+    },
+    {
         "name": "Elastic.Apm",
         "version": "1.35.0",
         "description": "Elastic APM .NET Agent base package. This package provides core functionality for transmitting \n    of all Elastic APM types and is a dependent package for all other Elastic APM package. \n    Additionally this...\r\nMore information",
         "downloads": "77,086,646",
-        "ranking": 402
+        "ranking": 403
     },
     {
         "name": "Nito.Cancellation",
         "version": "1.2.0",
         "description": "Helper types for working with cancellation tokens and sources.",
         "downloads": "76,965,299",
-        "ranking": 403
+        "ranking": 404
     },
     {
         "name": "HotChocolate.Language",
         "version": "16.6.9",
         "description": "Contains the Hot Chocolate GraphQL parser and lexer. Also included are syntax visitor and syntax rewriter base classes.",
         "downloads": "76,769,850",
-        "ranking": 404
+        "ranking": 405
     },
     {
         "name": "Nito.AsyncEx.Oop",
         "version": "5.1.2",
         "description": "Interfaces and utility methods for combining async with OOP.",
         "downloads": "76,630,868",
-        "ranking": 405
+        "ranking": 406
     },
     {
         "name": "LaunchDarkly.InternalSdk",
         "version": "3.11.1",
         "description": "LaunchDarkly internal common code for .NET clients",
         "downloads": "76,491,231",
-        "ranking": 406
+        "ranking": 407
     },
     {
         "name": "CompareNETObjects",
         "version": "4.84.0",
         "description": "What you have been waiting for. Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.",
         "downloads": "76,307,775",
-        "ranking": 407
+        "ranking": 408
     },
     {
         "name": "DogStatsD-CSharp-Client",
         "version": "9.2.1",
         "description": "A DogStatsD client library for .NET. DogStatsD is an extension of the StatsD metric server for use with Datadog. For more information visit https://datadoghq.com.",
         "downloads": "75,951,242",
-        "ranking": 408
+        "ranking": 409
     },
     {
         "name": "AWSSDK.SSOOIDC",
         "version": "4.0.100.20",
         "description": "This is an initial release of AWS Single Sign-On OAuth device code authorization service.",
         "downloads": "75,918,129",
-        "ranking": 409
+        "ranking": 410
     },
     {
         "name": "jose-jwt",
         "version": "5.3.0",
         "description": "Javascript Object Signing and Encryption (JOSE), JSON Web Token (JWT), JSON Web Encryption (JWE) and JSON Web Key (JWK) Implementation for .NET\n\nUltimate Javascript Object Signing and Encryption (JOSE), JSON...\r\nMore information",
         "downloads": "75,530,683",
-        "ranking": 410
+        "ranking": 411
     },
     {
         "name": "AWSSDK.SimpleEmail",
         "version": "4.0.100.19",
         "description": "Amazon SES is an outbound-only email-sending service that provides an easy, cost-effective way for you to send email.",
         "downloads": "75,404,037",
-        "ranking": 411
+        "ranking": 412
     },
     {
         "name": "HotChocolate.Types",
         "version": "16.6.9",
         "description": "Contains the Hot Chocolate GraphQL type system.",
         "downloads": "75,046,848",
-        "ranking": 412
+        "ranking": 413
     },
     {
         "name": "dbup-core",
         "version": "6.1.1",
         "description": "DbUp makes it easy to deploy and upgrade SQL Server databases by running change scripts. This is the core library and should be used in conjunction with the database specific package (eg dbup-sqlserver,...\r\nMore information",
         "downloads": "74,575,751",
-        "ranking": 413
-    },
-    {
-        "name": "MSTest.Analyzers",
-        "version": "4.5.1",
-        "description": "This package includes code analyzers and code fixes for MSTest.\n\nMSTest is Microsoft supported Test Framework.",
-        "downloads": "74,123,972",
         "ranking": 414
     },
     {
@@ -3060,7 +3060,7 @@
     },
     {
         "name": "AWSSDK.CloudWatch",
-        "version": "4.0.106",
+        "version": "4.0.107",
         "description": "Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS. You can use Amazon CloudWatch to collect and track metrics, collect and monitor log files, and set alarms.",
         "downloads": "70,760,470",
         "ranking": 438
@@ -3172,7 +3172,7 @@
     },
     {
         "name": "Amazon.JSII.Runtime",
-        "version": "1.141.0",
+        "version": "1.142.0",
         "description": ".NET client for jsii runtime",
         "downloads": "65,983,961",
         "ranking": 454
@@ -3269,115 +3269,115 @@
         "ranking": 467
     },
     {
-        "name": "RedLock.net",
-        "version": "2.3.2",
-        "description": "An implementation of the Redlock distributed lock algorithm",
-        "downloads": "63,302,209",
-        "ranking": 468
-    },
-    {
         "name": "App.Metrics.Core",
         "version": "4.3.0",
         "description": "App Metrics core components. Contains metric types and default implementations for metric reporting, filtering and more.",
         "downloads": "63,101,293",
-        "ranking": 469
+        "ranking": 468
     },
     {
         "name": "HotChocolate.Types.CursorPagination",
         "version": "16.6.9",
         "description": "Contains middleware and types for cursor based pagination.",
         "downloads": "62,885,189",
-        "ranking": 470
+        "ranking": 469
     },
     {
         "name": "AWSSDK.CognitoIdentityProvider",
         "version": "4.0.106.4",
         "description": "You can create a user pool in Amazon Cognito Identity to manage directories and users. You can authenticate a user to obtain tokens related to user identity and access policies. This API reference provides...\r\nMore information",
         "downloads": "62,350,615",
-        "ranking": 471
+        "ranking": 470
     },
     {
         "name": "GraphQL.Primitives",
         "version": "6.1.0",
         "description": "GraphQL basic types",
         "downloads": "62,217,458",
-        "ranking": 472
+        "ranking": 471
     },
     {
         "name": "Magick.NET.Core",
         "version": "15.0.0",
         "description": "ImageMagick is a powerful image manipulation library that supports over 100 major file formats (not including sub-formats). With Magick.NET you can use ImageMagick without having to install ImageMagick on your...\r\nMore information",
         "downloads": "61,331,130",
-        "ranking": 473
-    },
-    {
-        "name": "App.Metrics.Formatters.Ascii",
-        "version": "4.3.0",
-        "description": "App Metrics Formatters for metrics and environment data to plain text.",
-        "downloads": "62,233,860",
-        "ranking": 474
-    },
-    {
-        "name": "jQuery.UI.Combined",
-        "version": "1.14.1",
-        "description": "jQuery UI is an open source library of interface components — interactions, full-featured widgets, and animation effects — based on the stellar jQuery javascript library . Each component is built according to...\r\nMore information",
-        "downloads": "62,046,194",
-        "ranking": 475
-    },
-    {
-        "name": "Antlr3.Runtime",
-        "version": "3.5.1",
-        "description": "The runtime library for parsers generated by the C# target of ANTLR 3. This package supports projects targeting .NET 2.0 or newer, and built using Visual Studio 2008 or newer.",
-        "downloads": "61,444,430",
-        "ranking": 476
-    },
-    {
-        "name": "AWSSDK.Kinesis",
-        "version": "4.0.104.5",
-        "description": "Amazon Kinesis is a fully managed, cloud-based service for real-time processing of large, distributed data streams.",
-        "downloads": "61,298,477",
-        "ranking": 477
-    },
-    {
-        "name": "Sitecore.FakeDb",
-        "version": "2.0.1",
-        "description": "Unit testing framework for Sitecore.",
-        "downloads": "61,074,880",
-        "ranking": 478
-    },
-    {
-        "name": "GraphQL.Client.Abstractions",
-        "version": "6.1.0",
-        "description": "Abstractions for GraphQL.Client",
-        "downloads": "61,018,684",
-        "ranking": 479
-    },
-    {
-        "name": "Roslynator.Analyzers",
-        "version": "5.0.1",
-        "description": "A collection of 200+ analyzers for C#, powered by Roslyn.",
-        "downloads": "60,942,153",
-        "ranking": 480
-    },
-    {
-        "name": "GraphQL.Client.Abstractions.Websocket",
-        "version": "6.1.0",
-        "description": "Abstractions for the Websocket transport used in GraphQL.Client",
-        "downloads": "60,759,511",
-        "ranking": 481
-    },
-    {
-        "name": "LazyCache",
-        "version": "2.4.0",
-        "description": "Lazy cache is a simple, thread safe, in-memory caching library that makes it easy to add high performance caching to your dotnet app.",
-        "downloads": "60,682,866",
-        "ranking": 482
+        "ranking": 472
     },
     {
         "name": "Handlebars.Net.Helpers.Core",
         "version": "2.5.5",
         "description": "Core functionality for Handlebars.Net.Helpers",
         "downloads": "60,603,180",
+        "ranking": 473
+    },
+    {
+        "name": "RedLock.net",
+        "version": "2.3.2",
+        "description": "An implementation of the Redlock distributed lock algorithm",
+        "downloads": "63,302,209",
+        "ranking": 474
+    },
+    {
+        "name": "App.Metrics.Formatters.Ascii",
+        "version": "4.3.0",
+        "description": "App Metrics Formatters for metrics and environment data to plain text.",
+        "downloads": "62,233,860",
+        "ranking": 475
+    },
+    {
+        "name": "jQuery.UI.Combined",
+        "version": "1.14.1",
+        "description": "jQuery UI is an open source library of interface components — interactions, full-featured widgets, and animation effects — based on the stellar jQuery javascript library . Each component is built according to...\r\nMore information",
+        "downloads": "62,046,194",
+        "ranking": 476
+    },
+    {
+        "name": "Antlr3.Runtime",
+        "version": "3.5.1",
+        "description": "The runtime library for parsers generated by the C# target of ANTLR 3. This package supports projects targeting .NET 2.0 or newer, and built using Visual Studio 2008 or newer.",
+        "downloads": "61,444,430",
+        "ranking": 477
+    },
+    {
+        "name": "AWSSDK.Kinesis",
+        "version": "4.0.104.5",
+        "description": "Amazon Kinesis is a fully managed, cloud-based service for real-time processing of large, distributed data streams.",
+        "downloads": "61,298,477",
+        "ranking": 478
+    },
+    {
+        "name": "Sitecore.FakeDb",
+        "version": "2.0.1",
+        "description": "Unit testing framework for Sitecore.",
+        "downloads": "61,074,880",
+        "ranking": 479
+    },
+    {
+        "name": "GraphQL.Client.Abstractions",
+        "version": "6.1.0",
+        "description": "Abstractions for GraphQL.Client",
+        "downloads": "61,018,684",
+        "ranking": 480
+    },
+    {
+        "name": "Roslynator.Analyzers",
+        "version": "5.0.1",
+        "description": "A collection of 200+ analyzers for C#, powered by Roslyn.",
+        "downloads": "60,942,153",
+        "ranking": 481
+    },
+    {
+        "name": "GraphQL.Client.Abstractions.Websocket",
+        "version": "6.1.0",
+        "description": "Abstractions for the Websocket transport used in GraphQL.Client",
+        "downloads": "60,759,511",
+        "ranking": 482
+    },
+    {
+        "name": "LazyCache",
+        "version": "2.4.0",
+        "description": "Lazy cache is a simple, thread safe, in-memory caching library that makes it easy to add high performance caching to your dotnet app.",
+        "downloads": "60,682,866",
         "ranking": 483
     },
     {
@@ -3402,66 +3402,66 @@
         "ranking": 486
     },
     {
+        "name": "Npgsql.OpenTelemetry",
+        "version": "10.0.3",
+        "description": "Package Description",
+        "downloads": "56,595,240",
+        "ranking": 487
+    },
+    {
         "name": "Spectre.Console",
         "version": "0.57.2",
         "description": "A library that makes it easier to create beautiful console applications.",
         "downloads": "60,055,819",
-        "ranking": 487
+        "ranking": 488
     },
     {
         "name": "xunit.v3.assert",
         "version": "4.0.2",
         "description": "Includes the assertion library from xUnit.net (xunit.v3.assert.dll). Supports .NET Standard 2.0 or later, and .NET 8 or later.",
         "downloads": "59,458,932",
-        "ranking": 488
+        "ranking": 489
     },
     {
         "name": "App.Metrics.Concurrency",
         "version": "4.3.0",
         "description": "Provides useful structures for performing efficient concurrent operations. Original Project: https://github.com/etishor/ConcurrencyUtilities, including a port of Java's LongAdder and Striped64 classes",
         "downloads": "59,044,567",
-        "ranking": 489
+        "ranking": 490
     },
     {
         "name": "Serilog.Sinks.OpenTelemetry",
         "version": "4.2.0",
         "description": "This Serilog sink transforms Serilog events into OpenTelemetry\n            logs and sends them to an OTLP (gRPC or HTTP) endpoint.",
         "downloads": "58,703,301",
-        "ranking": 490
+        "ranking": 491
     },
     {
         "name": "AspNetCore.HealthChecks.Rabbitmq",
         "version": "9.0.0",
         "description": "HealthChecks.RabbitMQ is the health check package for RabbitMQ.Client.",
         "downloads": "58,454,612",
-        "ranking": 491
+        "ranking": 492
     },
     {
         "name": "Unity.Container",
         "version": "5.11.11",
         "description": "Unity Core Engine",
         "downloads": "58,237,615",
-        "ranking": 492
+        "ranking": 493
     },
     {
         "name": "HotChocolate.Subscriptions.InMemory",
         "version": "16.6.9",
         "description": "Contains an in-memory implementation for a Hot Chocolate GraphQL subscription provider.",
         "downloads": "57,746,328",
-        "ranking": 493
+        "ranking": 494
     },
     {
         "name": "Google.Cloud.PubSub.V1",
         "version": "3.39.0",
         "description": "Recommended Google client library to access the Google Cloud Pub/Sub API, which provides reliable, many-to-many, asynchronous messaging between applications.",
         "downloads": "57,694,448",
-        "ranking": 494
-    },
-    {
-        "name": "Npgsql.OpenTelemetry",
-        "version": "10.0.3",
-        "description": "Package Description",
-        "downloads": "56,595,240",
         "ranking": 495
     },
     {

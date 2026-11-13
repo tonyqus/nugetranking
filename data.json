@@ -36,14 +36,14 @@
     },
     {
         "name": "Swashbuckle.AspNetCore.SwaggerGen",
-        "version": "11.0.0",
+        "version": "11.0.1",
         "description": "Swagger Generator for APIs built on ASP.NET Core",
         "downloads": "1,648,111,840",
         "ranking": 6
     },
     {
         "name": "Swashbuckle.AspNetCore.Swagger",
-        "version": "11.0.0",
+        "version": "11.0.1",
         "description": "Middleware to expose Swagger JSON endpoints from APIs built on ASP.NET Core",
         "downloads": "1,622,547,326",
         "ranking": 7
@@ -64,14 +64,14 @@
     },
     {
         "name": "Swashbuckle.AspNetCore.SwaggerUI",
-        "version": "11.0.0",
+        "version": "11.0.1",
         "description": "Middleware to expose an embedded version of the swagger-ui from an ASP.NET Core application",
         "downloads": "1,405,194,718",
         "ranking": 10
     },
     {
         "name": "StackExchange.Redis",
-        "version": "3.4.31",
+        "version": "3.4.35",
         "description": "High performance Redis client, incorporating both synchronous and asynchronous usage.",
         "downloads": "1,329,593,699",
         "ranking": 11
@@ -92,7 +92,7 @@
     },
     {
         "name": "Swashbuckle.AspNetCore",
-        "version": "11.0.0",
+        "version": "11.0.1",
         "description": "Swagger tools for documenting APIs built on ASP.NET Core",
         "downloads": "1,304,023,568",
         "ranking": 14
@@ -127,7 +127,7 @@
     },
     {
         "name": "AutoMapper",
-        "version": "16.3.0",
+        "version": "17.0.0",
         "description": "A convention-based object-object mapper.",
         "downloads": "1,192,260,453",
         "ranking": 19
@@ -414,14 +414,14 @@
     },
     {
         "name": "MongoDB.Bson",
-        "version": "3.13.0",
+        "version": "3.14.0",
         "description": "MongoDB's Official Bson Library.",
         "downloads": "522,149,268",
         "ranking": 60
     },
     {
         "name": "MediatR",
-        "version": "14.3.0",
+        "version": "15.0.0",
         "description": "Simple, unambitious mediator implementation in .NET",
         "downloads": "520,378,253",
         "ranking": 61
@@ -470,7 +470,7 @@
     },
     {
         "name": "MongoDB.Driver",
-        "version": "3.13.0",
+        "version": "3.14.0",
         "description": "Official .NET driver for MongoDB.",
         "downloads": "452,065,869",
         "ranking": 68
@@ -491,7 +491,7 @@
     },
     {
         "name": "log4net",
-        "version": "3.5.0",
+        "version": "3.6.0",
         "description": "log4net is a tool to help the programmer output log statements to a variety of output targets.\nIn case of problems with an application, it is helpful to enable logging so that the problem\ncan be located. With...\r\nMore information",
         "downloads": "447,036,478",
         "ranking": 71
@@ -533,7 +533,7 @@
     },
     {
         "name": "SharpCompress",
-        "version": "0.50.8",
+        "version": "0.50.9",
         "description": "SharpCompress is a compression library for NET 4.8/NET Standard 2.0/NET Standard 2.1/NET 5.0/NET 6.0/NET 7.0/NET 8.0/NET 9.0/NET 10.0 that can unrar, decompress 7zip, decompress xz, zip/unzip, tar/untar...\r\nMore information",
         "downloads": "407,494,058",
         "ranking": 77
@@ -568,7 +568,7 @@
     },
     {
         "name": "Swashbuckle.AspNetCore.Annotations",
-        "version": "11.0.0",
+        "version": "11.0.1",
         "description": "Provides custom attributes that can be applied to controllers, actions and models to enrich the generated Swagger",
         "downloads": "379,273,310",
         "ranking": 82
@@ -841,7 +841,7 @@
     },
     {
         "name": "AWSSDK.SecretsManager",
-        "version": "4.1.0",
+        "version": "4.1.1",
         "description": "The Amazon Web Services SDK for .NET - AWS Secrets Manager",
         "downloads": "277,102,120",
         "ranking": 121
@@ -1051,7 +1051,7 @@
     },
     {
         "name": "Swashbuckle.AspNetCore.Newtonsoft",
-        "version": "11.0.0",
+        "version": "11.0.1",
         "description": "Swagger Generator opt-in component to support Newtonsoft.Json serializer behaviors",
         "downloads": "211,484,423",
         "ranking": 151
@@ -1751,7 +1751,7 @@
     },
     {
         "name": "Sentry",
-        "version": "6.13.0",
+        "version": "7.0.0",
         "description": "Official SDK for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.",
         "downloads": "149,102,056",
         "ranking": 251
@@ -2206,7 +2206,7 @@
     },
     {
         "name": "Gherkin",
-        "version": "42.0.1",
+        "version": "43.0.0",
         "description": "Cross-platform parser for the Gherkin language, used by Cucumber, SpecFlow and other Cucumber-based tools to parse feature files.",
         "downloads": "107,754,166",
         "ranking": 316
@@ -2444,7 +2444,7 @@
     },
     {
         "name": "Sentry.Extensions.Logging",
-        "version": "6.13.0",
+        "version": "7.0.0",
         "description": "Official Microsoft.Extensions.Logging integration for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.",
         "downloads": "96,213,337",
         "ranking": 350
@@ -2598,7 +2598,7 @@
     },
     {
         "name": "Sentry.AspNetCore",
-        "version": "6.13.0",
+        "version": "7.0.0",
         "description": "Official ASP.NET Core integration for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.",
         "downloads": "89,242,586",
         "ranking": 372
@@ -2731,7 +2731,7 @@
     },
     {
         "name": "Selenium.WebDriver.ChromeDriver",
-        "version": "157.0.8103.5000",
+        "version": "157.0.8103.7800",
         "description": "Install Chrome Driver (Win32, macOS, macOS arm64, and Linux64) for Selenium WebDriver into your Unit Test Project.\n      \"chromedriver(.exe)\" is copied to the bin folder from the package folder when the build...\r\nMore information",
         "downloads": "84,870,256",
         "ranking": 391
@@ -3081,7 +3081,7 @@
     },
     {
         "name": "AWSSDK.CloudWatch",
-        "version": "4.1.0",
+        "version": "4.1.1",
         "description": "The Amazon Web Services SDK for .NET - Amazon CloudWatch",
         "downloads": "73,623,000",
         "ranking": 441
@@ -3487,14 +3487,14 @@
     },
     {
         "name": "WireMock.Net.Abstractions",
-        "version": "2.30.0",
+        "version": "2.31.0",
         "description": "Commonly used interfaces, models, enumerations and types.",
         "downloads": "61,639,239",
         "ranking": 499
     },
     {
         "name": "Scalar.AspNetCore",
-        "version": "2.20.0",
+        "version": "2.21.0",
         "description": "Generate beautiful interactive API documentation from OpenAPI/Swagger documents.",
         "downloads": "61,414,496",
         "ranking": 500

@@ -15,7 +15,7 @@
     },
     {
         "name": "AWSSDK.Core",
-        "version": "4.1.0",
+        "version": "4.1.0.1",
         "description": "The Amazon Web Services SDK for .NET - Core Runtime",
         "downloads": "2,192,498,725",
         "ranking": 3
@@ -350,17 +350,17 @@
         "ranking": 50
     },
     {
-        "name": "SharpZipLib",
-        "version": "1.4.2",
-        "description": "SharpZipLib (#ziplib, formerly NZipLib) is a compression library for Zip, GZip, BZip2, and Tar written entirely in C# for .NET. It is implemented as an assembly (installable in the GAC), and thus can easily be...\r\nMore information",
-        "downloads": "559,577,470",
-        "ranking": 51
-    },
-    {
         "name": "Npgsql.EntityFrameworkCore.PostgreSQL",
         "version": "10.0.3",
         "description": "PostgreSQL/Npgsql provider for Entity Framework Core.",
         "downloads": "557,030,296",
+        "ranking": 51
+    },
+    {
+        "name": "SharpZipLib",
+        "version": "1.4.2",
+        "description": "SharpZipLib (#ziplib, formerly NZipLib) is a compression library for Zip, GZip, BZip2, and Tar written entirely in C# for .NET. It is implemented as an assembly (installable in the GAC), and thus can easily be...\r\nMore information",
+        "downloads": "559,577,470",
         "ranking": 52
     },
     {
@@ -582,7 +582,7 @@
     },
     {
         "name": "AngleSharp",
-        "version": "1.10.2",
+        "version": "1.10.3",
         "description": "AngleSharp is the ultimate angle brackets parser library. It parses HTML5, CSS3, and XML to construct a DOM based on the official W3C specification.",
         "downloads": "368,305,258",
         "ranking": 84
@@ -946,7 +946,7 @@
     },
     {
         "name": "AWSSDK.SimpleSystemsManagement",
-        "version": "4.1.0",
+        "version": "4.1.1",
         "description": "The Amazon Web Services SDK for .NET - Amazon Simple Systems Manager (SSM)",
         "downloads": "241,051,811",
         "ranking": 136
@@ -1212,7 +1212,7 @@
     },
     {
         "name": "AngleSharp.Css",
-        "version": "1.4.1",
+        "version": "1.4.2",
         "description": "Extends the CSSOM from the core AngleSharp library.",
         "downloads": "183,102,121",
         "ranking": 174
@@ -1968,7 +1968,7 @@
     },
     {
         "name": "AWSSDK.Lambda",
-        "version": "4.1.0",
+        "version": "4.1.1",
         "description": "The Amazon Web Services SDK for .NET - AWS Lambda",
         "downloads": "129,251,614",
         "ranking": 282
@@ -2024,7 +2024,7 @@
     },
     {
         "name": "Json.More.Net",
-        "version": "3.0.1",
+        "version": "3.1.0",
         "description": "Provides extended functionality for the System.Text.Json namespace.",
         "downloads": "123,616,066",
         "ranking": 290
@@ -2079,17 +2079,17 @@
         "ranking": 297
     },
     {
-        "name": "Duende.IdentityModel.OidcClient",
-        "version": "7.1.1",
-        "description": "RFC8252 compliant and certified OpenID Connect and OAuth 2.0 client library for native applications",
-        "downloads": "4,674,239",
-        "ranking": 298
-    },
-    {
         "name": "JunitXml.TestLogger",
         "version": "8.1.0",
         "description": "Xml logger for JUnit v5 compliant xml report when test is running with \"dotnet test\" or \"dotnet vstest\".",
         "downloads": "118,879,964",
+        "ranking": 298
+    },
+    {
+        "name": "Duende.IdentityModel.OidcClient",
+        "version": "7.1.1",
+        "description": "RFC8252 compliant and certified OpenID Connect and OAuth 2.0 client library for native applications",
+        "downloads": "4,674,239",
         "ranking": 299
     },
     {
@@ -2163,17 +2163,17 @@
         "ranking": 309
     },
     {
-        "name": "Stripe.net",
-        "version": "53.1.0",
-        "description": "Stripe.net is a sync/async client and portable class library for the Stripe API, supporting .NET Standard 2.0+, .NET Core 8+, and .NET Framework 4.6.2+. (Official Library)",
-        "downloads": "111,464,625",
-        "ranking": 310
-    },
-    {
         "name": "HarfBuzzSharp",
         "version": "14.4.0.100",
         "description": "HarfBuzzSharp is a cross-platform OpenType text shaping engine for .NET platforms.",
         "downloads": "111,435,823",
+        "ranking": 310
+    },
+    {
+        "name": "Stripe.net",
+        "version": "53.1.0",
+        "description": "Stripe.net is a sync/async client and portable class library for the Stripe API, supporting .NET Standard 2.0+, .NET Core 8+, and .NET Framework 4.6.2+. (Official Library)",
+        "downloads": "111,464,625",
         "ranking": 311
     },
     {
@@ -2199,7 +2199,7 @@
     },
     {
         "name": "JsonPointer.Net",
-        "version": "7.0.4",
+        "version": "7.1.0",
         "description": "JSON Pointer built on the System.Text.Json namespace",
         "downloads": "107,786,874",
         "ranking": 315
@@ -2282,10 +2282,10 @@
         "ranking": 326
     },
     {
-        "name": "Ben.Demystifier",
-        "version": "0.4.1",
-        "description": "High performance understanding for stack traces (Make error logs more productive)",
-        "downloads": "102,090,234",
+        "name": "GraphQL-Parser",
+        "version": "9.5.1",
+        "description": "Library containing lexer and parser for GraphQL syntax",
+        "downloads": "101,986,566",
         "ranking": 327
     },
     {
@@ -2296,10 +2296,10 @@
         "ranking": 328
     },
     {
-        "name": "GraphQL-Parser",
-        "version": "9.5.1",
-        "description": "Library containing lexer and parser for GraphQL syntax",
-        "downloads": "101,986,566",
+        "name": "Ben.Demystifier",
+        "version": "0.4.1",
+        "description": "High performance understanding for stack traces (Make error logs more productive)",
+        "downloads": "102,090,234",
         "ranking": 329
     },
     {
@@ -2373,17 +2373,17 @@
         "ranking": 339
     },
     {
-        "name": "Sfa.Core.ServiceModel",
-        "version": "4.0.2",
-        "description": "Extends the System.ServiceModel namespace with common Core Functionality.",
-        "downloads": "97,711,120",
+        "name": "LaunchDarkly.Logging",
+        "version": "2.1.0",
+        "description": "LaunchDarkly logging abstraction",
+        "downloads": "97,355,173",
         "ranking": 340
     },
     {
-        "name": "SQLitePCLRaw.provider.dynamic_cdecl",
-        "version": "3.0.5",
-        "description": "SQLitePCL.raw is a Portable Class Library (PCL) for low-level (raw) access to SQLite.  Packages named 'SQLitePCLRaw.provider.*' (like this one) are 'plugins' that allow SQLitePCLRaw.core to access the native...\r\nMore information",
-        "downloads": "97,398,027",
+        "name": "HarfBuzzSharp.NativeAssets.Win32",
+        "version": "14.4.0.100",
+        "description": "HarfBuzzSharp.NativeAssets.Win32 provides native runtime assets for HarfBuzzSharp.",
+        "downloads": "97,165,727",
         "ranking": 341
     },
     {
@@ -2394,24 +2394,24 @@
         "ranking": 342
     },
     {
+        "name": "Sfa.Core.ServiceModel",
+        "version": "4.0.2",
+        "description": "Extends the System.ServiceModel namespace with common Core Functionality.",
+        "downloads": "97,711,120",
+        "ranking": 343
+    },
+    {
+        "name": "SQLitePCLRaw.provider.dynamic_cdecl",
+        "version": "3.0.5",
+        "description": "SQLitePCL.raw is a Portable Class Library (PCL) for low-level (raw) access to SQLite.  Packages named 'SQLitePCLRaw.provider.*' (like this one) are 'plugins' that allow SQLitePCLRaw.core to access the native...\r\nMore information",
+        "downloads": "97,398,027",
+        "ranking": 344
+    },
+    {
         "name": "Google.Cloud.Iam.V1",
         "version": "3.5.0",
         "description": "gRPC services for the Google Identity and Access Management API. This library is typically used as a dependency for other API client libraries.",
         "downloads": "97,396,857",
-        "ranking": 343
-    },
-    {
-        "name": "LaunchDarkly.Logging",
-        "version": "2.1.0",
-        "description": "LaunchDarkly logging abstraction",
-        "downloads": "97,355,173",
-        "ranking": 344
-    },
-    {
-        "name": "HarfBuzzSharp.NativeAssets.Win32",
-        "version": "14.4.0.100",
-        "description": "HarfBuzzSharp.NativeAssets.Win32 provides native runtime assets for HarfBuzzSharp.",
-        "downloads": "97,165,727",
         "ranking": 345
     },
     {
@@ -2492,10 +2492,10 @@
         "ranking": 356
     },
     {
-        "name": "Syncfusion.Licensing",
-        "version": "35.1.46",
-        "description": "Syncfusion® licensing is a .NET library for validating the registered Syncfusion® license in an application at runtime. The Syncfusion® license must be registered in an application when using the Syncfusion®...\r\nMore information",
-        "downloads": "93,770,543",
+        "name": "LinqKit.Core",
+        "version": "1.3.2",
+        "description": "LinqKit.Core contains extensions for LINQ to SQL and Entity Framework. Note that Include(...), IAsync and IDbAsync are not supported.",
+        "downloads": "93,657,817",
         "ranking": 357
     },
     {
@@ -2506,10 +2506,10 @@
         "ranking": 358
     },
     {
-        "name": "LinqKit.Core",
-        "version": "1.3.1",
-        "description": "LinqKit.Core contains extensions for LINQ to SQL and Entity Framework. Note that Include(...), IAsync and IDbAsync are not supported.",
-        "downloads": "93,657,817",
+        "name": "Syncfusion.Licensing",
+        "version": "35.1.46",
+        "description": "Syncfusion® licensing is a .NET library for validating the registered Syncfusion® license in an application at runtime. The Syncfusion® license must be registered in an application when using the Syncfusion®...\r\nMore information",
+        "downloads": "93,770,543",
         "ranking": 359
     },
     {
@@ -2590,24 +2590,24 @@
         "ranking": 370
     },
     {
+        "name": "BenchmarkDotNet",
+        "version": "0.15.8",
+        "description": "Powerful .NET library for benchmarking",
+        "downloads": "89,102,745",
+        "ranking": 371
+    },
+    {
         "name": "Swashbuckle.Core",
         "version": "5.6.0",
         "description": "Seamlessly adds a Swagger to WebApi projects!",
         "downloads": "89,312,452",
-        "ranking": 371
+        "ranking": 372
     },
     {
         "name": "Sentry.AspNetCore",
         "version": "7.0.0",
         "description": "Official ASP.NET Core integration for Sentry - Open-source error tracking that helps developers monitor and fix crashes in real time.",
         "downloads": "89,242,586",
-        "ranking": 372
-    },
-    {
-        "name": "BenchmarkDotNet",
-        "version": "0.15.8",
-        "description": "Powerful .NET library for benchmarking",
-        "downloads": "89,102,745",
         "ranking": 373
     },
     {
@@ -3143,17 +3143,17 @@
         "ranking": 449
     },
     {
-        "name": "Xunit.SkippableFact",
-        "version": "1.5.85",
-        "description": "Make your Xunit test methods self-determine to report a \"skipped\" result. Useful for such cases as \"not supported on this platform\" results or other environmental inputs.",
-        "downloads": "70,709,974",
-        "ranking": 450
-    },
-    {
         "name": "HotChocolate",
         "version": "16.7.5",
         "description": "Contains the Hot Chocolate GraphQL query execution engine and query validation.",
         "downloads": "70,588,955",
+        "ranking": 450
+    },
+    {
+        "name": "Xunit.SkippableFact",
+        "version": "1.5.85",
+        "description": "Make your Xunit test methods self-determine to report a \"skipped\" result. Useful for such cases as \"not supported on this platform\" results or other environmental inputs.",
+        "downloads": "70,709,974",
         "ranking": 451
     },
     {
@@ -3333,7 +3333,7 @@
     },
     {
         "name": "AWSSDK.CognitoIdentityProvider",
-        "version": "4.1.0",
+        "version": "4.1.1",
         "description": "The Amazon Web Services SDK for .NET - Amazon Cognito Identity Provider",
         "downloads": "65,819,979",
         "ranking": 477
@@ -3459,7 +3459,7 @@
     },
     {
         "name": "JsonSchema.Net",
-        "version": "9.6.0",
+        "version": "9.7.0",
         "description": "JSON Schema built on the System.Text.Json namespace",
         "downloads": "62,566,821",
         "ranking": 495

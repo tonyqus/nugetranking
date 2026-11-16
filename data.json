@@ -134,7 +134,7 @@
     },
     {
         "name": "coverlet.collector",
-        "version": "10.1.0",
+        "version": "10.1.1",
         "description": "Coverlet is a cross platform code coverage library for .NET, with support for line, branch and method coverage.",
         "downloads": "1,141,195,539",
         "ranking": 20
@@ -848,7 +848,7 @@
     },
     {
         "name": "coverlet.msbuild",
-        "version": "10.1.0",
+        "version": "10.1.1",
         "description": "Coverlet is a cross platform code coverage library for .NET, with support for line, branch and method coverage.",
         "downloads": "276,434,713",
         "ranking": 122
@@ -974,7 +974,7 @@
     },
     {
         "name": "Snappier",
-        "version": "1.3.1",
+        "version": "1.3.2",
         "description": "A near-C++ performance implementation of the Snappy compression algorithm for .NET. Snappier is ported to C# directly\n      from the official C++ implementation, with the addition of support for the framed...\r\nMore information",
         "downloads": "239,940,597",
         "ranking": 140
@@ -1079,7 +1079,7 @@
     },
     {
         "name": "Refit",
-        "version": "16.4.0",
+        "version": "17.0.0",
         "description": "Type-safe REST API clients for .NET, generated from annotated interfaces with build-time source generation, direct request construction, System.Text.Json defaults, and support for trimming and AOT.",
         "downloads": "207,397,276",
         "ranking": 155
@@ -1261,7 +1261,7 @@
     },
     {
         "name": "DiffEngine",
-        "version": "20.9.0",
+        "version": "21.0.0",
         "description": "Launches diff tools based on file extensions. Designed to be consumed by snapshot testing libraries.",
         "downloads": "176,539,398",
         "ranking": 181
@@ -1897,24 +1897,24 @@
         "ranking": 271
     },
     {
+        "name": "Flurl.Http",
+        "version": "4.0.2",
+        "description": "A fluent, testable HTTP client library.",
+        "downloads": "134,187,620",
+        "ranking": 272
+    },
+    {
         "name": "Serilog.Sinks.RollingFile",
         "version": "3.3.0",
         "description": "The rolling file sink for Serilog - Simple .NET logging with fully-structured events",
         "downloads": "134,662,850",
-        "ranking": 272
+        "ranking": 273
     },
     {
         "name": "StyleCop.Analyzers.Unstable",
         "version": "1.2.0.556",
         "description": "An implementation of StyleCop's rules using Roslyn analyzers and code fixes",
         "downloads": "134,438,996",
-        "ranking": 273
-    },
-    {
-        "name": "Flurl.Http",
-        "version": "4.0.2",
-        "description": "A fluent, testable HTTP client library.",
-        "downloads": "134,187,620",
         "ranking": 274
     },
     {
@@ -1961,8 +1961,8 @@
     },
     {
         "name": "Refit.HttpClientFactory",
-        "version": "16.4.0",
-        "description": "Microsoft.Extensions.Http integration for Refit, adding AddRefitClient support for typed HttpClientFactory clients, dependency injection, handlers, and Polly-style HTTP pipelines.",
+        "version": "17.0.0",
+        "description": "Microsoft.Extensions.Http integration for Refit, adding AddRefitClient support for typed HttpClientFactory clients, dependency injection, handlers, and HTTP retry pipelines.",
         "downloads": "130,258,525",
         "ranking": 281
     },
@@ -2359,17 +2359,17 @@
         "ranking": 337
     },
     {
-        "name": "xunit.v3.extensibility.core",
-        "version": "4.0.3",
-        "description": "Includes the core library (xunit.v3.core.dll), to be used for extensibility; test authors should include xunit.v3.core instead. Supports .NET Standard 2.0 or later.",
-        "downloads": "98,077,093",
-        "ranking": 338
-    },
-    {
         "name": "JWT",
         "version": "11.1.0",
         "description": "Jwt.Net, a JWT (JSON Web Token) implementation for .NET",
         "downloads": "97,731,713",
+        "ranking": 338
+    },
+    {
+        "name": "Google.Cloud.Iam.V1",
+        "version": "3.5.0",
+        "description": "gRPC services for the Google Identity and Access Management API. This library is typically used as a dependency for other API client libraries.",
+        "downloads": "97,396,857",
         "ranking": 339
     },
     {
@@ -2394,24 +2394,24 @@
         "ranking": 342
     },
     {
+        "name": "xunit.v3.extensibility.core",
+        "version": "4.0.3",
+        "description": "Includes the core library (xunit.v3.core.dll), to be used for extensibility; test authors should include xunit.v3.core instead. Supports .NET Standard 2.0 or later.",
+        "downloads": "98,077,093",
+        "ranking": 343
+    },
+    {
         "name": "Sfa.Core.ServiceModel",
         "version": "4.0.2",
         "description": "Extends the System.ServiceModel namespace with common Core Functionality.",
         "downloads": "97,711,120",
-        "ranking": 343
+        "ranking": 344
     },
     {
         "name": "SQLitePCLRaw.provider.dynamic_cdecl",
         "version": "3.0.5",
         "description": "SQLitePCL.raw is a Portable Class Library (PCL) for low-level (raw) access to SQLite.  Packages named 'SQLitePCLRaw.provider.*' (like this one) are 'plugins' that allow SQLitePCLRaw.core to access the native...\r\nMore information",
         "downloads": "97,398,027",
-        "ranking": 344
-    },
-    {
-        "name": "Google.Cloud.Iam.V1",
-        "version": "3.5.0",
-        "description": "gRPC services for the Google Identity and Access Management API. This library is typically used as a dependency for other API client libraries.",
-        "downloads": "97,396,857",
         "ranking": 345
     },
     {
